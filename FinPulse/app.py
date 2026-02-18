@@ -141,8 +141,8 @@ category_to_product = {
 # ==========================================
 with tab1:
     try:
-        pipeline = joblib.load("FinPulse-model/model.pkl")
-        le = joblib.load("FinPulse-model/label_encoder.pkl")
+        pipeline = joblib.load("FinPulse-/model/model.pkl")
+        le = joblib.load("FinPulse-/model/label_encoder.pkl")
     except Exception as e:
         st.error("System Core Offline. Missing ML files in /model directory.")
         st.stop()
@@ -192,8 +192,8 @@ with tab1:
 # ==========================================
 with tab2:
     st.subheader("🏗️ Pipeline Architecture")
-    if os.path.exists("images/p1.jpg"):
-        st.image("images/p1.jpg", use_container_width=True)
+    if os.path.exists("FinPulse-/images/p1.jpg"):
+        st.image("FinPulse-/images/p1.jpg", use_container_width=True)
     else:
         st.warning("Diagram 'p1.jpg' not found.")
 
@@ -216,3 +216,4 @@ st.markdown("""
     </div>
 
 """, unsafe_allow_html=True)
+
