@@ -1,0 +1,2543 @@
+Customer ID,Category,Total Spent,Quantity,Transaction Date,Payment Method,Location
+CUST_0001,Medical,2615.9,9,2024-11-19,Digital Wallet,Online
+CUST_0001,Travel,2520.21,6,2024-12-28,Credit Card,In-store
+CUST_0001,Fitness,1918.49,9,2024-09-01,Digital Wallet,Mobile App
+CUST_0001,Personal Hygiene,1080.66,9,2024-07-28,Cash,In-store
+CUST_0001,Friend,760.48,11,2024-12-22,Credit Card,Mobile App
+CUST_0001,Transportation,343.46999999999997,2,2024-09-18,Debit Card,In-store
+CUST_0001,Shopping,281.32,2,2023-04-24,Debit Card,In-store
+CUST_0001,Hobbies,269.07,6,2024-05-26,Cash,In-store
+CUST_0001,Gifts,216.25,6,2024-11-25,Digital Wallet,In-store
+CUST_0001,Housing,186.72,2,2024-07-21,Credit Card,Online
+CUST_0001,Food,126.56,12,2024-08-31,Credit Card,In-store
+CUST_0001,Subscriptions,125.14,6,2024-10-28,Credit Card,Online
+CUST_0001,Groceries,24.54,4,2023-05-08,Debit Card,In-store
+CUST_0002,Shopping,68825.46,13,2024-11-01,Credit Card,Mobile App
+CUST_0002,Housing,17730.34,8,2024-12-30,Digital Wallet,In-store
+CUST_0002,Fitness,2947.41,19,2024-11-22,Digital Wallet,Online
+CUST_0002,Travel,2037.0800000000002,4,2024-05-15,Debit Card,In-store
+CUST_0002,Gifts,1159.72,7,2024-06-03,Cash,Online
+CUST_0002,Hobbies,1119.1599999999999,24,2024-09-18,Debit Card,Mobile App
+CUST_0002,Medical,955.04,2,2024-07-28,Credit Card,Online
+CUST_0002,Transportation,476.79999999999995,6,2024-09-05,Credit Card,In-store
+CUST_0002,Friend,375.34999999999997,11,2023-05-15,Digital Wallet,Mobile App
+CUST_0002,Food,220.10000000000002,10,2024-01-13,Credit Card,In-store
+CUST_0002,Subscriptions,84.15,4,2024-11-18,Credit Card,Online
+CUST_0002,Groceries,37.66,9,2024-10-07,Digital Wallet,Mobile App
+CUST_0002,Personal Hygiene,11.78,1,2024-10-18,Debit Card,Online
+CUST_0003,Shopping,59630.22,16,2024-11-19,Cash,Online
+CUST_0003,Housing,4938.509999999999,4,2024-05-16,Digital Wallet,In-store
+CUST_0003,Travel,1718.6699999999998,4,2024-12-21,Cash,Online
+CUST_0003,Fitness,933.6200000000001,10,2024-10-26,Debit Card,Mobile App
+CUST_0003,Transportation,833.1800000000001,4,2024-09-04,Digital Wallet,Mobile App
+CUST_0003,Gifts,763.97,15,2024-07-30,Debit Card,Mobile App
+CUST_0003,Friend,701.3,12,2024-10-18,Digital Wallet,In-store
+CUST_0003,Medical,499.83,1,2024-03-29,Debit Card,In-store
+CUST_0003,Food,411.12,13,2024-03-29,Digital Wallet,Mobile App
+CUST_0003,Hobbies,199.79999999999998,5,2024-01-01,Cash,In-store
+CUST_0003,Groceries,77.16,11,2023-07-14,Cash,Online
+CUST_0003,Personal Hygiene,62.35,13,2024-12-18,Cash,Mobile App
+CUST_0003,Subscriptions,30.39,3,2023-10-18,Cash,Online
+CUST_0004,Housing,25231.96,8,2024-12-12,Digital Wallet,Mobile App
+CUST_0004,Medical,2580.98,6,2024-11-02,Credit Card,Mobile App
+CUST_0004,Gifts,2129.96,17,2025-01-03,Debit Card,Online
+CUST_0004,Shopping,2071.84,8,2024-12-14,Cash,Mobile App
+CUST_0004,Hobbies,776.68,15,2024-10-16,Credit Card,Mobile App
+CUST_0004,Fitness,767.6800000000001,15,2024-08-16,Digital Wallet,In-store
+CUST_0004,Food,475.01,12,2024-10-16,Credit Card,Mobile App
+CUST_0004,Friend,111.93,8,2023-12-21,Debit Card,In-store
+CUST_0004,Personal Hygiene,77.93,8,2023-12-26,Credit Card,Mobile App
+CUST_0004,Travel,60.85,2,2024-04-06,Cash,In-store
+CUST_0004,Transportation,51.5,3,2024-04-25,Debit Card,Mobile App
+CUST_0004,Groceries,44.54,10,2024-12-23,Debit Card,Online
+CUST_0004,Subscriptions,11.99,1,2024-04-25,Credit Card,In-store
+CUST_0005,Personal Hygiene,8093.71,28,2024-11-02,Digital Wallet,Mobile App
+CUST_0005,Shopping,3672.75,9,2024-07-30,Cash,Online
+CUST_0005,Medical,2109.72,6,2024-11-17,Debit Card,Online
+CUST_0005,Travel,1373.91,6,2024-07-11,Cash,In-store
+CUST_0005,Fitness,679.04,8,2024-01-12,Digital Wallet,Mobile App
+CUST_0005,Transportation,599.3100000000001,2,2024-03-12,Cash,Online
+CUST_0005,Hobbies,462.58000000000004,7,2024-08-26,Digital Wallet,In-store
+CUST_0005,Gifts,269.32,10,2024-04-06,Digital Wallet,Online
+CUST_0005,Friend,187.0,1,2023-12-25,Cash,Mobile App
+CUST_0005,Food,138.12,15,2024-10-10,Cash,Online
+CUST_0005,Subscriptions,120.81,3,2024-01-21,Debit Card,Online
+CUST_0005,Groceries,101.76,19,2024-11-03,Debit Card,In-store
+CUST_0006,Shopping,13512.060000000001,17,2025-01-02,Digital Wallet,In-store
+CUST_0006,Fitness,4952.28,17,2023-12-28,Cash,Online
+CUST_0006,Medical,1443.08,3,2024-09-15,Credit Card,Mobile App
+CUST_0006,Friend,1345.1399999999999,17,2024-12-26,Credit Card,Mobile App
+CUST_0006,Gifts,854.05,16,2024-07-11,Cash,Mobile App
+CUST_0006,Transportation,847.0500000000001,6,2024-11-20,Credit Card,Mobile App
+CUST_0006,Travel,760.14,2,2023-04-24,Debit Card,Mobile App
+CUST_0006,Housing,326.96000000000004,3,2023-08-13,Digital Wallet,In-store
+CUST_0006,Food,184.26,2,2023-01-05,Cash,In-store
+CUST_0006,Groceries,56.82,11,2024-10-28,Cash,Online
+CUST_0006,Subscriptions,45.18,5,2024-09-03,Cash,Online
+CUST_0006,Hobbies,38.7,1,2024-05-05,Credit Card,In-store
+CUST_0006,Personal Hygiene,34.98,10,2024-04-06,Cash,Mobile App
+CUST_0007,Shopping,90847.18000000001,3,2024-08-31,Digital Wallet,Online
+CUST_0007,Housing,6591.38,5,2024-07-23,Cash,In-store
+CUST_0007,Gifts,3186.45,23,2024-11-09,Credit Card,Mobile App
+CUST_0007,Travel,1702.3200000000002,6,2025-01-05,Debit Card,Mobile App
+CUST_0007,Fitness,1633.96,21,2024-12-17,Cash,Mobile App
+CUST_0007,Medical,1034.56,3,2024-10-25,Digital Wallet,Mobile App
+CUST_0007,Transportation,1033.01,7,2024-10-01,Cash,Mobile App
+CUST_0007,Friend,612.34,10,2024-12-16,Debit Card,Online
+CUST_0007,Hobbies,595.48,15,2024-09-15,Cash,Online
+CUST_0007,Food,131.72,5,2024-09-24,Cash,In-store
+CUST_0007,Subscriptions,43.6,1,2024-10-27,Digital Wallet,In-store
+CUST_0007,Groceries,38.64,13,2024-05-21,Credit Card,Online
+CUST_0007,Personal Hygiene,22.18,5,2024-04-11,Cash,Online
+CUST_0008,Shopping,114570.59000000001,17,2024-06-21,Credit Card,Mobile App
+CUST_0008,Personal Hygiene,4180.3099999999995,19,2024-05-11,Cash,Mobile App
+CUST_0008,Gifts,3573.91,17,2024-05-19,Credit Card,Mobile App
+CUST_0008,Housing,3439.75,6,2024-12-30,Cash,In-store
+CUST_0008,Travel,1532.99,3,2024-12-22,Debit Card,In-store
+CUST_0008,Medical,1210.48,5,2024-10-03,Cash,Online
+CUST_0008,Transportation,506.65000000000003,3,2024-10-10,Digital Wallet,Online
+CUST_0008,Hobbies,325.53999999999996,13,2024-10-04,Credit Card,Mobile App
+CUST_0008,Fitness,259.36,11,2023-09-24,Debit Card,In-store
+CUST_0008,Groceries,232.78,30,2024-12-15,Digital Wallet,Online
+CUST_0008,Food,101.48,6,2024-08-04,Cash,Mobile App
+CUST_0009,Shopping,127700.15,16,2024-12-27,Credit Card,Online
+CUST_0009,Medical,2300.96,5,2023-12-16,Cash,Mobile App
+CUST_0009,Fitness,1900.03,15,2024-12-03,Debit Card,In-store
+CUST_0009,Personal Hygiene,1758.38,19,2024-12-12,Debit Card,Online
+CUST_0009,Gifts,1309.77,27,2024-10-04,Cash,In-store
+CUST_0009,Housing,597.82,5,2024-04-15,Digital Wallet,Online
+CUST_0009,Hobbies,306.12,6,2024-07-07,Digital Wallet,Online
+CUST_0009,Food,210.97,13,2024-10-12,Credit Card,In-store
+CUST_0009,Friend,84.06,8,2024-07-21,Credit Card,In-store
+CUST_0009,Travel,44.25,1,2023-06-02,Digital Wallet,Online
+CUST_0009,Groceries,37.54,7,2024-11-26,Digital Wallet,In-store
+CUST_0009,Subscriptions,13.54,1,2023-01-25,Debit Card,Mobile App
+CUST_0009,Transportation,13.52,2,2024-11-12,Cash,Online
+CUST_0010,Shopping,88351.49,5,2023-10-04,Digital Wallet,Mobile App
+CUST_0010,Personal Hygiene,3012.76,22,2024-12-22,Credit Card,Online
+CUST_0010,Travel,2297.99,5,2024-12-11,Digital Wallet,Mobile App
+CUST_0010,Housing,1983.94,7,2024-07-21,Cash,In-store
+CUST_0010,Friend,1324.2,18,2024-12-27,Cash,Mobile App
+CUST_0010,Gifts,826.46,22,2024-11-12,Debit Card,Online
+CUST_0010,Transportation,509.36,4,2024-12-21,Debit Card,In-store
+CUST_0010,Fitness,348.02,5,2024-10-08,Credit Card,In-store
+CUST_0010,Medical,279.58,1,2024-06-22,Digital Wallet,Online
+CUST_0010,Hobbies,171.82999999999998,5,2025-01-08,Cash,Online
+CUST_0010,Subscriptions,135.12,4,2024-12-04,Debit Card,Mobile App
+CUST_0010,Groceries,76.65,12,2024-09-08,Credit Card,Mobile App
+CUST_0010,Food,58.410000000000004,6,2023-12-29,Credit Card,Mobile App
+CUST_0011,Shopping,13282.67,11,2024-09-29,Credit Card,In-store
+CUST_0011,Housing,7265.469999999999,7,2024-09-08,Digital Wallet,In-store
+CUST_0011,Personal Hygiene,4387.4800000000005,12,2024-03-01,Debit Card,Online
+CUST_0011,Gifts,1974.3300000000002,20,2024-07-14,Credit Card,In-store
+CUST_0011,Fitness,1429.81,19,2024-04-27,Credit Card,Online
+CUST_0011,Medical,1080.96,2,2024-03-30,Cash,Online
+CUST_0011,Travel,1075.4199999999998,3,2024-03-27,Credit Card,Mobile App
+CUST_0011,Transportation,788.9499999999999,5,2024-11-26,Digital Wallet,In-store
+CUST_0011,Friend,336.09,8,2024-04-26,Credit Card,In-store
+CUST_0011,Hobbies,164.64999999999998,6,2024-03-03,Cash,In-store
+CUST_0011,Food,75.94,5,2024-08-10,Cash,Online
+CUST_0011,Subscriptions,57.2,5,2024-12-07,Cash,In-store
+CUST_0011,Groceries,20.64,6,2024-11-01,Debit Card,In-store
+CUST_0012,Shopping,44931.87,11,2024-05-18,Digital Wallet,Mobile App
+CUST_0012,Medical,3883.52,8,2024-10-15,Debit Card,Online
+CUST_0012,Fitness,2849.14,16,2024-12-15,Debit Card,In-store
+CUST_0012,Transportation,890.4999999999999,3,2024-08-17,Credit Card,In-store
+CUST_0012,Gifts,723.31,13,2025-01-08,Debit Card,Mobile App
+CUST_0012,Food,352.24,14,2024-10-28,Digital Wallet,Online
+CUST_0012,Housing,261.92,2,2024-11-12,Credit Card,Online
+CUST_0012,Travel,166.62,5,2025-01-05,Digital Wallet,Online
+CUST_0012,Hobbies,156.19,4,2023-11-03,Debit Card,Online
+CUST_0012,Subscriptions,112.31,6,2025-01-02,Debit Card,In-store
+CUST_0012,Friend,35.88,2,2023-03-09,Cash,Mobile App
+CUST_0012,Personal Hygiene,23.18,7,2023-08-13,Debit Card,Mobile App
+CUST_0012,Groceries,10.49,4,2024-05-02,Debit Card,Online
+CUST_0013,Medical,2930.38,6,2024-12-31,Digital Wallet,Mobile App
+CUST_0013,Fitness,2608.63,15,2024-12-05,Digital Wallet,In-store
+CUST_0013,Travel,2400.3799999999997,6,2024-10-26,Credit Card,In-store
+CUST_0013,Gifts,1518.87,15,2024-12-28,Digital Wallet,In-store
+CUST_0013,Transportation,1317.27,4,2024-10-11,Cash,In-store
+CUST_0013,Personal Hygiene,647.45,10,2024-09-22,Debit Card,Online
+CUST_0013,Friend,616.19,8,2023-12-29,Digital Wallet,Online
+CUST_0013,Shopping,393.43,5,2024-08-24,Debit Card,In-store
+CUST_0013,Hobbies,192.01999999999998,6,2024-08-24,Digital Wallet,Mobile App
+CUST_0013,Food,167.3,5,2024-12-06,Cash,Mobile App
+CUST_0013,Subscriptions,78.29,3,2024-04-24,Cash,In-store
+CUST_0013,Groceries,22.880000000000003,2,2024-10-13,Debit Card,In-store
+CUST_0014,Shopping,68041.14,21,2024-09-23,Digital Wallet,In-store
+CUST_0014,Housing,5847.53,5,2025-01-09,Digital Wallet,In-store
+CUST_0014,Medical,2823.7200000000003,6,2024-11-28,Cash,Online
+CUST_0014,Personal Hygiene,1644.31,25,2024-11-19,Digital Wallet,Mobile App
+CUST_0014,Gifts,830.23,11,2023-06-29,Debit Card,In-store
+CUST_0014,Travel,429.13,6,2024-04-21,Credit Card,Mobile App
+CUST_0014,Transportation,390.32,4,2024-04-20,Cash,Online
+CUST_0014,Food,265.3,17,2024-11-05,Debit Card,Mobile App
+CUST_0014,Friend,253.88,10,2024-11-22,Cash,Mobile App
+CUST_0014,Hobbies,157.74,4,2023-07-26,Digital Wallet,Online
+CUST_0014,Groceries,106.55,22,2024-11-13,Credit Card,Mobile App
+CUST_0014,Subscriptions,81.84,5,2024-10-18,Cash,In-store
+CUST_0014,Fitness,29.55,2,2024-08-28,Cash,In-store
+CUST_0015,Shopping,7882.03,9,2024-10-07,Credit Card,Mobile App
+CUST_0015,Housing,6762.27,6,2024-11-06,Credit Card,In-store
+CUST_0015,Gifts,3863.94,27,2024-12-22,Credit Card,In-store
+CUST_0015,Medical,1612.52,4,2024-12-24,Cash,Mobile App
+CUST_0015,Travel,1026.87,9,2024-10-25,Cash,In-store
+CUST_0015,Friend,891.71,10,2025-01-09,Debit Card,Mobile App
+CUST_0015,Personal Hygiene,878.41,8,2024-10-09,Credit Card,In-store
+CUST_0015,Hobbies,627.76,15,2025-01-12,Cash,In-store
+CUST_0015,Fitness,286.13,6,2023-06-07,Credit Card,Online
+CUST_0015,Transportation,137.76999999999998,2,2024-10-03,Cash,In-store
+CUST_0015,Subscriptions,63.550000000000004,4,2024-12-07,Credit Card,In-store
+CUST_0015,Food,28.72,3,2024-02-11,Debit Card,Mobile App
+CUST_0015,Groceries,17.64,10,2024-09-30,Digital Wallet,Mobile App
+CUST_0016,Shopping,169689.80999999997,16,2025-01-03,Digital Wallet,Mobile App
+CUST_0016,Gifts,3997.0499999999997,18,2024-05-24,Credit Card,Online
+CUST_0016,Friend,1395.36,21,2024-06-10,Digital Wallet,Online
+CUST_0016,Fitness,1337.23,7,2024-12-14,Digital Wallet,Online
+CUST_0016,Medical,1083.94,3,2024-10-31,Digital Wallet,In-store
+CUST_0016,Hobbies,418.96,12,2024-12-02,Credit Card,Mobile App
+CUST_0016,Groceries,216.47,22,2024-12-12,Debit Card,In-store
+CUST_0016,Housing,214.46,3,2023-12-17,Debit Card,In-store
+CUST_0016,Transportation,169.78000000000003,4,2023-11-14,Credit Card,In-store
+CUST_0016,Food,155.81,17,2024-11-30,Cash,Online
+CUST_0016,Subscriptions,76.89,4,2025-01-07,Credit Card,Mobile App
+CUST_0016,Personal Hygiene,37.25,6,2024-11-02,Cash,Online
+CUST_0016,Travel,36.16,1,2024-08-21,Debit Card,In-store
+CUST_0017,Shopping,248061.18,9,2024-09-01,Digital Wallet,In-store
+CUST_0017,Travel,3071.69,6,2024-06-01,Credit Card,In-store
+CUST_0017,Personal Hygiene,2351.77,19,2024-12-21,Credit Card,In-store
+CUST_0017,Gifts,2345.89,17,2024-12-06,Credit Card,Online
+CUST_0017,Housing,1844.6799999999998,5,2024-12-11,Credit Card,Mobile App
+CUST_0017,Medical,1259.43,3,2024-07-17,Debit Card,Mobile App
+CUST_0017,Fitness,1117.44,10,2024-10-26,Credit Card,Online
+CUST_0017,Transportation,406.55999999999995,4,2024-12-22,Cash,Online
+CUST_0017,Food,329.36,13,2024-08-27,Debit Card,Mobile App
+CUST_0017,Friend,149.39,2,2023-05-04,Debit Card,In-store
+CUST_0017,Groceries,126.85,14,2024-12-26,Debit Card,Online
+CUST_0017,Hobbies,48.93,1,2023-02-04,Credit Card,Mobile App
+CUST_0017,Subscriptions,24.25,2,2024-11-08,Credit Card,In-store
+CUST_0018,Shopping,4625.7699999999995,13,2024-11-28,Digital Wallet,In-store
+CUST_0018,Housing,2375.9900000000002,2,2024-05-08,Credit Card,In-store
+CUST_0018,Fitness,1993.3,18,2024-07-18,Digital Wallet,In-store
+CUST_0018,Gifts,1913.19,15,2024-05-27,Cash,Online
+CUST_0018,Travel,1581.6299999999999,5,2024-11-22,Cash,Mobile App
+CUST_0018,Personal Hygiene,1437.66,13,2025-01-02,Digital Wallet,In-store
+CUST_0018,Friend,661.1800000000001,15,2024-09-24,Debit Card,Mobile App
+CUST_0018,Transportation,497.47,1,2023-04-04,Digital Wallet,Online
+CUST_0018,Hobbies,491.95,13,2024-12-22,Debit Card,In-store
+CUST_0018,Medical,234.28,1,2023-04-19,Digital Wallet,In-store
+CUST_0018,Groceries,100.16999999999999,16,2024-02-10,Debit Card,Online
+CUST_0018,Subscriptions,84.16,3,2024-12-10,Credit Card,Mobile App
+CUST_0018,Food,63.800000000000004,7,2024-01-20,Digital Wallet,Mobile App
+CUST_0019,Shopping,85190.89,6,2024-09-22,Credit Card,Online
+CUST_0019,Housing,4175.74,3,2025-01-13,Cash,Mobile App
+CUST_0019,Fitness,2393.86,14,2024-07-15,Digital Wallet,Online
+CUST_0019,Medical,1868.19,4,2024-10-15,Digital Wallet,Mobile App
+CUST_0019,Friend,856.1700000000001,10,2023-10-08,Cash,In-store
+CUST_0019,Personal Hygiene,630.73,11,2024-10-17,Debit Card,Online
+CUST_0019,Gifts,472.95,8,2024-06-24,Debit Card,Online
+CUST_0019,Transportation,357.8,9,2025-01-05,Debit Card,Mobile App
+CUST_0019,Hobbies,336.06,12,2024-03-23,Debit Card,Mobile App
+CUST_0019,Travel,327.17,1,2024-07-22,Cash,Mobile App
+CUST_0019,Food,230.64,13,2024-12-03,Credit Card,Online
+CUST_0019,Groceries,117.14,13,2024-11-04,Credit Card,In-store
+CUST_0019,Subscriptions,102.84,3,2024-06-03,Cash,In-store
+CUST_0020,Shopping,65492.15,7,2024-11-09,Digital Wallet,Online
+CUST_0020,Personal Hygiene,5829.97,23,2024-12-31,Credit Card,Mobile App
+CUST_0020,Fitness,2535.11,21,2024-07-02,Debit Card,Online
+CUST_0020,Food,406.82,12,2024-06-18,Cash,Mobile App
+CUST_0020,Medical,309.9,2,2023-10-13,Cash,Mobile App
+CUST_0020,Hobbies,300.15,9,2024-12-20,Cash,Mobile App
+CUST_0020,Transportation,268.78999999999996,2,2024-04-01,Cash,In-store
+CUST_0020,Travel,230.78,4,2024-12-20,Cash,Mobile App
+CUST_0020,Housing,194.41,3,2024-04-29,Cash,In-store
+CUST_0020,Subscriptions,132.21,4,2024-05-30,Cash,In-store
+CUST_0020,Gifts,131.14,2,2024-11-25,Debit Card,Online
+CUST_0020,Friend,78.55,4,2024-10-21,Debit Card,In-store
+CUST_0020,Groceries,26.81,3,2023-01-10,Credit Card,In-store
+CUST_0021,Shopping,421665.25,24,2024-05-06,Digital Wallet,Mobile App
+CUST_0021,Housing,3172.52,5,2024-04-20,Cash,In-store
+CUST_0021,Medical,2693.3,5,2024-05-13,Cash,In-store
+CUST_0021,Fitness,1802.36,5,2024-09-22,Digital Wallet,Online
+CUST_0021,Travel,661.26,4,2024-06-14,Debit Card,Mobile App
+CUST_0021,Transportation,565.67,3,2024-12-12,Digital Wallet,In-store
+CUST_0021,Friend,345.92,5,2024-01-16,Debit Card,Online
+CUST_0021,Hobbies,243.7,7,2023-11-24,Debit Card,Mobile App
+CUST_0021,Food,93.81,7,2024-04-28,Debit Card,In-store
+CUST_0021,Subscriptions,85.52,2,2024-12-25,Digital Wallet,In-store
+CUST_0021,Personal Hygiene,44.74,10,2024-10-23,Cash,In-store
+CUST_0021,Gifts,21.24,2,2023-01-30,Debit Card,Mobile App
+CUST_0021,Groceries,16.15,2,2024-06-09,Digital Wallet,In-store
+CUST_0022,Medical,2179.5,8,2024-10-28,Cash,In-store
+CUST_0022,Shopping,1939.23,7,2024-02-23,Cash,In-store
+CUST_0022,Gifts,1658.63,20,2024-12-15,Cash,Mobile App
+CUST_0022,Personal Hygiene,1527.79,13,2024-08-22,Digital Wallet,Mobile App
+CUST_0022,Friend,1140.44,21,2024-12-15,Digital Wallet,In-store
+CUST_0022,Travel,721.2500000000001,3,2024-11-18,Debit Card,Mobile App
+CUST_0022,Fitness,703.72,9,2023-12-16,Cash,Mobile App
+CUST_0022,Food,585.6,13,2023-10-22,Debit Card,Mobile App
+CUST_0022,Hobbies,369.94,11,2024-09-29,Digital Wallet,In-store
+CUST_0022,Transportation,211.66,2,2024-08-18,Cash,In-store
+CUST_0022,Groceries,85.19,10,2024-05-01,Debit Card,In-store
+CUST_0022,Housing,69.67,1,2023-06-14,Digital Wallet,Online
+CUST_0022,Subscriptions,34.620000000000005,3,2024-09-17,Digital Wallet,Online
+CUST_0023,Housing,5548.6,4,2024-10-13,Credit Card,Online
+CUST_0023,Shopping,2547.08,3,2024-04-01,Debit Card,In-store
+CUST_0023,Medical,1940.2,6,2024-11-12,Credit Card,In-store
+CUST_0023,Friend,1292.77,22,2024-09-28,Digital Wallet,Mobile App
+CUST_0023,Personal Hygiene,1116.27,16,2024-06-08,Cash,Mobile App
+CUST_0023,Food,1103.04,35,2024-11-26,Credit Card,Online
+CUST_0023,Travel,948.86,5,2024-10-05,Digital Wallet,In-store
+CUST_0023,Transportation,827.1599999999999,5,2024-03-27,Cash,Mobile App
+CUST_0023,Hobbies,370.58000000000004,14,2024-08-16,Credit Card,Mobile App
+CUST_0023,Fitness,281.76,3,2024-10-29,Digital Wallet,Mobile App
+CUST_0023,Groceries,57.260000000000005,19,2024-12-31,Digital Wallet,Online
+CUST_0023,Gifts,46.66,1,2024-09-29,Debit Card,Online
+CUST_0023,Subscriptions,8.46,1,2024-05-20,Cash,Online
+CUST_0024,Shopping,181478.05000000002,15,2025-01-10,Credit Card,Online
+CUST_0024,Housing,4704.09,5,2024-05-24,Credit Card,Mobile App
+CUST_0024,Fitness,4564.71,24,2024-10-15,Cash,Online
+CUST_0024,Friend,2424.09,26,2024-11-24,Digital Wallet,In-store
+CUST_0024,Travel,2057.33,3,2024-04-02,Cash,Online
+CUST_0024,Hobbies,807.62,17,2024-10-17,Cash,Mobile App
+CUST_0024,Gifts,769.07,24,2025-01-02,Digital Wallet,Mobile App
+CUST_0024,Medical,231.74,1,2023-12-12,Debit Card,In-store
+CUST_0024,Food,74.69999999999999,10,2024-09-24,Debit Card,Online
+CUST_0024,Subscriptions,59.730000000000004,2,2024-11-03,Cash,Mobile App
+CUST_0024,Personal Hygiene,33.17,7,2024-08-01,Digital Wallet,In-store
+CUST_0024,Groceries,27.900000000000002,7,2024-04-20,Debit Card,In-store
+CUST_0024,Transportation,12.020000000000001,2,2023-02-08,Credit Card,Mobile App
+CUST_0025,Shopping,154215.52,16,2024-12-31,Digital Wallet,Online
+CUST_0025,Travel,2752.86,10,2024-09-03,Credit Card,Mobile App
+CUST_0025,Housing,2176.5,2,2023-10-30,Cash,Online
+CUST_0025,Medical,1889.17,3,2024-09-29,Debit Card,In-store
+CUST_0025,Personal Hygiene,1406.54,8,2024-11-30,Cash,Online
+CUST_0025,Gifts,1228.3899999999999,14,2024-10-01,Cash,Online
+CUST_0025,Hobbies,585.73,21,2024-10-24,Debit Card,In-store
+CUST_0025,Transportation,564.02,3,2024-12-25,Debit Card,Online
+CUST_0025,Groceries,225.88,17,2024-12-13,Credit Card,Online
+CUST_0025,Food,222.62,14,2023-10-05,Cash,Mobile App
+CUST_0025,Friend,133.23,5,2023-02-22,Debit Card,Mobile App
+CUST_0025,Fitness,104.35,4,2023-12-25,Digital Wallet,Online
+CUST_0025,Subscriptions,80.5,3,2024-06-14,Cash,Mobile App
+CUST_0026,Shopping,84917.34,11,2024-07-13,Debit Card,In-store
+CUST_0026,Housing,11152.8,5,2024-11-12,Credit Card,Mobile App
+CUST_0026,Medical,2519.35,6,2024-03-21,Cash,Online
+CUST_0026,Transportation,2036.15,6,2024-11-07,Debit Card,Online
+CUST_0026,Travel,1802.9999999999998,4,2024-07-04,Cash,Online
+CUST_0026,Fitness,885.73,4,2024-12-15,Cash,Online
+CUST_0026,Personal Hygiene,862.8399999999999,12,2024-09-13,Credit Card,Online
+CUST_0026,Food,433.59999999999997,22,2024-01-08,Debit Card,Online
+CUST_0026,Gifts,133.5,2,2023-06-28,Credit Card,Online
+CUST_0026,Hobbies,100.23,3,2023-06-04,Credit Card,In-store
+CUST_0026,Groceries,75.42,8,2024-03-22,Debit Card,Mobile App
+CUST_0026,Subscriptions,41.15,3,2024-11-01,Digital Wallet,Mobile App
+CUST_0026,Friend,33.52,1,2024-07-20,Cash,Mobile App
+CUST_0027,Shopping,189162.87,11,2024-04-22,Digital Wallet,Mobile App
+CUST_0027,Housing,5364.2300000000005,6,2024-12-03,Digital Wallet,Online
+CUST_0027,Gifts,1797.5,33,2024-12-25,Credit Card,In-store
+CUST_0027,Transportation,1670.28,6,2024-12-03,Debit Card,Online
+CUST_0027,Medical,1669.61,4,2024-10-15,Credit Card,Mobile App
+CUST_0027,Fitness,1249.89,5,2024-03-11,Digital Wallet,In-store
+CUST_0027,Travel,979.82,4,2024-10-13,Credit Card,Mobile App
+CUST_0027,Food,528.46,14,2024-03-07,Digital Wallet,Mobile App
+CUST_0027,Hobbies,354.49,8,2024-12-26,Digital Wallet,In-store
+CUST_0027,Friend,183.45,8,2024-10-12,Credit Card,In-store
+CUST_0027,Subscriptions,65.51,3,2024-09-09,Debit Card,Online
+CUST_0027,Groceries,45.62,8,2023-10-08,Cash,Online
+CUST_0027,Personal Hygiene,28.75,8,2024-12-15,Debit Card,In-store
+CUST_0028,Shopping,37981.509999999995,13,2024-07-08,Digital Wallet,In-store
+CUST_0028,Fitness,2436.04,12,2024-11-15,Digital Wallet,Mobile App
+CUST_0028,Friend,1416.8799999999999,17,2024-10-12,Credit Card,Online
+CUST_0028,Medical,840.23,1,2023-01-12,Cash,In-store
+CUST_0028,Transportation,712.3399999999999,5,2023-07-03,Debit Card,Online
+CUST_0028,Housing,356.28,3,2024-05-06,Digital Wallet,Mobile App
+CUST_0028,Gifts,332.65999999999997,8,2024-08-27,Cash,Mobile App
+CUST_0028,Food,302.9,17,2024-11-18,Digital Wallet,In-store
+CUST_0028,Hobbies,290.39,10,2024-12-06,Credit Card,Mobile App
+CUST_0028,Travel,260.67,5,2024-06-25,Debit Card,Mobile App
+CUST_0028,Personal Hygiene,159.21,15,2023-10-05,Cash,Mobile App
+CUST_0028,Groceries,11.0,6,2024-09-08,Digital Wallet,Mobile App
+CUST_0028,Subscriptions,10.4,1,2023-02-01,Cash,Mobile App
+CUST_0029,Shopping,62904.090000000004,10,2024-09-02,Credit Card,In-store
+CUST_0029,Personal Hygiene,3457.4100000000003,35,2024-09-21,Debit Card,Online
+CUST_0029,Travel,2867.96,6,2024-11-09,Cash,In-store
+CUST_0029,Fitness,1969.91,15,2024-11-01,Debit Card,Online
+CUST_0029,Friend,899.9300000000001,12,2024-11-20,Credit Card,In-store
+CUST_0029,Medical,797.01,2,2023-12-25,Debit Card,Mobile App
+CUST_0029,Hobbies,796.02,19,2024-09-24,Debit Card,Online
+CUST_0029,Transportation,758.34,3,2024-08-16,Credit Card,In-store
+CUST_0029,Gifts,683.92,4,2024-04-26,Debit Card,In-store
+CUST_0029,Housing,230.2,2,2023-10-27,Digital Wallet,Mobile App
+CUST_0029,Food,69.63,5,2023-05-21,Debit Card,In-store
+CUST_0029,Groceries,64.96000000000001,8,2024-03-24,Digital Wallet,Online
+CUST_0029,Subscriptions,5.17,1,2023-12-18,Digital Wallet,Online
+CUST_0030,Housing,6026.15,4,2025-01-08,Debit Card,In-store
+CUST_0030,Fitness,2279.65,13,2024-07-07,Credit Card,In-store
+CUST_0030,Travel,2243.58,4,2024-04-02,Cash,In-store
+CUST_0030,Personal Hygiene,1954.8,6,2024-05-13,Debit Card,In-store
+CUST_0030,Medical,1569.15,3,2024-06-24,Debit Card,Online
+CUST_0030,Transportation,858.99,6,2024-11-07,Digital Wallet,Mobile App
+CUST_0030,Gifts,527.9,8,2024-09-17,Credit Card,Mobile App
+CUST_0030,Friend,329.77,5,2024-08-20,Digital Wallet,Online
+CUST_0030,Hobbies,173.71,10,2024-09-05,Debit Card,In-store
+CUST_0030,Food,104.32,13,2024-04-20,Digital Wallet,In-store
+CUST_0030,Groceries,102.67,9,2023-11-07,Credit Card,Online
+CUST_0030,Shopping,58.97,1,2024-07-25,Debit Card,Online
+CUST_0030,Subscriptions,36.55,3,2024-05-17,Digital Wallet,In-store
+CUST_0031,Fitness,3579.73,19,2024-08-23,Cash,Online
+CUST_0031,Gifts,1668.49,8,2024-11-16,Digital Wallet,Mobile App
+CUST_0031,Medical,1517.41,5,2024-05-31,Credit Card,Online
+CUST_0031,Travel,1282.17,2,2024-01-27,Digital Wallet,Mobile App
+CUST_0031,Friend,993.32,14,2024-08-31,Cash,Mobile App
+CUST_0031,Hobbies,869.73,17,2024-12-02,Credit Card,In-store
+CUST_0031,Shopping,238.12,2,2024-08-30,Credit Card,In-store
+CUST_0031,Transportation,192.49,4,2024-06-01,Digital Wallet,Online
+CUST_0031,Housing,182.36,1,2023-06-11,Debit Card,In-store
+CUST_0031,Subscriptions,167.16,5,2024-04-29,Credit Card,Online
+CUST_0031,Food,132.52,15,2024-05-15,Credit Card,In-store
+CUST_0031,Groceries,48.28,8,2024-10-03,Debit Card,Mobile App
+CUST_0031,Personal Hygiene,12.82,1,2024-07-31,Credit Card,In-store
+CUST_0032,Shopping,413554.17,15,2024-12-02,Digital Wallet,Mobile App
+CUST_0032,Travel,2337.4100000000003,5,2024-09-29,Digital Wallet,In-store
+CUST_0032,Fitness,2163.36,7,2023-08-18,Credit Card,Mobile App
+CUST_0032,Friend,2018.53,13,2023-08-29,Credit Card,In-store
+CUST_0032,Gifts,1742.98,16,2024-06-05,Digital Wallet,Mobile App
+CUST_0032,Transportation,1403.92,4,2023-08-25,Digital Wallet,Online
+CUST_0032,Personal Hygiene,1361.92,4,2024-04-07,Debit Card,Mobile App
+CUST_0032,Medical,737.0799999999999,2,2024-02-10,Credit Card,Mobile App
+CUST_0032,Hobbies,691.43,16,2024-08-27,Debit Card,Mobile App
+CUST_0032,Housing,336.63,3,2024-08-03,Cash,Mobile App
+CUST_0032,Food,291.91999999999996,9,2024-12-31,Cash,In-store
+CUST_0032,Groceries,148.07,26,2024-12-30,Credit Card,In-store
+CUST_0032,Subscriptions,107.63,5,2024-08-16,Credit Card,Mobile App
+CUST_0033,Shopping,664148.6,18,2024-06-10,Digital Wallet,Online
+CUST_0033,Personal Hygiene,2789.6400000000003,7,2024-01-01,Digital Wallet,Online
+CUST_0033,Housing,2763.66,1,2024-09-29,Cash,Mobile App
+CUST_0033,Fitness,1675.6999999999998,9,2024-04-01,Digital Wallet,Online
+CUST_0033,Friend,1325.04,15,2024-09-19,Cash,In-store
+CUST_0033,Gifts,1271.5,16,2024-06-29,Debit Card,In-store
+CUST_0033,Food,704.71,14,2024-11-02,Credit Card,Online
+CUST_0033,Medical,509.89,3,2024-05-08,Cash,In-store
+CUST_0033,Hobbies,481.66,14,2024-07-24,Digital Wallet,Mobile App
+CUST_0033,Transportation,285.83000000000004,3,2024-01-29,Cash,In-store
+CUST_0033,Travel,277.28,2,2024-09-14,Debit Card,Mobile App
+CUST_0033,Subscriptions,65.37,3,2024-07-25,Credit Card,Online
+CUST_0033,Groceries,47.82,14,2024-08-19,Digital Wallet,Online
+CUST_0034,Shopping,497183.06,30,2025-01-11,Credit Card,Online
+CUST_0034,Medical,2894.41,7,2024-12-28,Debit Card,Online
+CUST_0034,Fitness,1628.26,10,2024-04-15,Debit Card,In-store
+CUST_0034,Friend,1406.86,11,2024-09-01,Credit Card,In-store
+CUST_0034,Transportation,747.5300000000001,3,2024-09-16,Digital Wallet,Mobile App
+CUST_0034,Travel,745.89,2,2024-06-16,Cash,In-store
+CUST_0034,Groceries,150.46,12,2025-01-01,Digital Wallet,In-store
+CUST_0034,Housing,65.47,1,2023-11-18,Digital Wallet,Online
+CUST_0034,Personal Hygiene,61.5,8,2023-11-07,Digital Wallet,Online
+CUST_0034,Subscriptions,57.480000000000004,2,2024-04-06,Credit Card,Mobile App
+CUST_0034,Food,7.8,2,2025-01-03,Cash,Online
+CUST_0035,Shopping,353485.1,23,2025-01-10,Credit Card,Mobile App
+CUST_0035,Housing,7392.969999999999,7,2024-07-28,Credit Card,Online
+CUST_0035,Travel,2561.83,3,2024-03-04,Credit Card,Online
+CUST_0035,Fitness,2540.96,27,2024-12-01,Credit Card,Mobile App
+CUST_0035,Personal Hygiene,1776.1,11,2024-08-15,Debit Card,In-store
+CUST_0035,Transportation,1336.03,6,2024-11-30,Digital Wallet,In-store
+CUST_0035,Medical,1056.99,3,2025-01-04,Credit Card,Mobile App
+CUST_0035,Friend,974.3399999999999,6,2024-03-25,Cash,In-store
+CUST_0035,Gifts,775.5,15,2024-12-18,Credit Card,Online
+CUST_0035,Hobbies,532.91,11,2024-08-28,Digital Wallet,Online
+CUST_0035,Food,195.69,6,2024-06-22,Digital Wallet,In-store
+CUST_0035,Subscriptions,57.379999999999995,4,2024-02-29,Digital Wallet,In-store
+CUST_0035,Groceries,3.08,2,2024-11-15,Debit Card,Online
+CUST_0036,Shopping,7218.84,15,2024-09-10,Cash,In-store
+CUST_0036,Housing,3755.0,6,2025-01-06,Digital Wallet,Online
+CUST_0036,Travel,2293.74,5,2024-11-06,Cash,Online
+CUST_0036,Friend,2133.71,26,2024-05-20,Debit Card,Online
+CUST_0036,Gifts,2055.86,7,2024-01-31,Digital Wallet,In-store
+CUST_0036,Medical,1879.98,9,2024-10-18,Debit Card,In-store
+CUST_0036,Fitness,1480.0700000000002,16,2024-12-07,Credit Card,Online
+CUST_0036,Transportation,805.96,2,2024-10-06,Digital Wallet,Mobile App
+CUST_0036,Food,299.89,6,2024-03-01,Cash,In-store
+CUST_0036,Personal Hygiene,125.93,8,2024-11-21,Cash,Online
+CUST_0036,Subscriptions,119.28999999999999,6,2024-01-12,Credit Card,Mobile App
+CUST_0036,Groceries,38.74,15,2024-10-07,Cash,Mobile App
+CUST_0037,Shopping,222447.16,11,2025-01-01,Digital Wallet,Mobile App
+CUST_0037,Personal Hygiene,5223.85,11,2024-05-15,Debit Card,Online
+CUST_0037,Housing,2479.0199999999995,4,2024-12-13,Debit Card,Mobile App
+CUST_0037,Medical,1786.92,5,2024-11-24,Digital Wallet,Mobile App
+CUST_0037,Friend,972.7800000000001,13,2024-09-21,Digital Wallet,In-store
+CUST_0037,Travel,723.81,4,2024-08-13,Credit Card,Online
+CUST_0037,Fitness,634.73,5,2024-11-11,Cash,Online
+CUST_0037,Gifts,504.30999999999995,13,2024-12-21,Credit Card,Mobile App
+CUST_0037,Hobbies,453.61,11,2024-10-08,Cash,Mobile App
+CUST_0037,Transportation,169.89,6,2024-08-19,Digital Wallet,In-store
+CUST_0037,Subscriptions,73.49000000000001,3,2024-11-11,Digital Wallet,Mobile App
+CUST_0037,Groceries,67.13,16,2024-07-23,Cash,Online
+CUST_0037,Food,56.21000000000001,7,2024-11-02,Digital Wallet,In-store
+CUST_0038,Shopping,332120.06,6,2024-02-06,Cash,In-store
+CUST_0038,Housing,3674.63,5,2024-06-13,Cash,Mobile App
+CUST_0038,Fitness,1359.57,15,2023-11-18,Cash,Online
+CUST_0038,Medical,1295.85,3,2024-11-12,Cash,Mobile App
+CUST_0038,Transportation,1199.2,3,2024-06-12,Cash,In-store
+CUST_0038,Travel,1077.11,2,2024-03-25,Credit Card,Online
+CUST_0038,Gifts,593.57,16,2024-12-13,Debit Card,Online
+CUST_0038,Hobbies,470.51,14,2024-04-07,Debit Card,Mobile App
+CUST_0038,Friend,230.51,13,2025-01-08,Credit Card,Mobile App
+CUST_0038,Groceries,132.8,10,2024-10-14,Digital Wallet,Mobile App
+CUST_0038,Food,112.71000000000001,19,2024-09-20,Credit Card,Online
+CUST_0038,Subscriptions,105.86,2,2024-03-26,Debit Card,In-store
+CUST_0038,Personal Hygiene,20.59,5,2024-11-10,Credit Card,Online
+CUST_0039,Shopping,483349.43000000005,14,2024-03-25,Credit Card,Mobile App
+CUST_0039,Housing,7162.849999999999,3,2023-12-17,Debit Card,Mobile App
+CUST_0039,Travel,1767.77,4,2024-03-04,Debit Card,Mobile App
+CUST_0039,Transportation,1080.03,4,2024-10-02,Cash,Mobile App
+CUST_0039,Fitness,1069.75,10,2024-12-06,Cash,Online
+CUST_0039,Medical,1039.55,2,2023-04-27,Debit Card,Online
+CUST_0039,Friend,898.79,14,2024-05-27,Debit Card,Online
+CUST_0039,Personal Hygiene,767.4200000000001,14,2024-06-15,Credit Card,Online
+CUST_0039,Gifts,554.88,4,2023-09-03,Debit Card,Mobile App
+CUST_0039,Food,484.20000000000005,8,2024-03-22,Debit Card,Mobile App
+CUST_0039,Hobbies,128.52,2,2024-09-29,Debit Card,Online
+CUST_0039,Subscriptions,37.4,3,2024-12-16,Debit Card,In-store
+CUST_0039,Groceries,25.27,4,2024-05-26,Credit Card,Mobile App
+CUST_0040,Shopping,510704.44,21,2024-11-22,Debit Card,In-store
+CUST_0040,Gifts,1066.1100000000001,16,2024-05-26,Digital Wallet,Online
+CUST_0040,Medical,846.4100000000001,3,2023-11-25,Credit Card,Mobile App
+CUST_0040,Travel,481.82,2,2024-08-12,Credit Card,In-store
+CUST_0040,Fitness,478.15999999999997,9,2024-02-29,Credit Card,Online
+CUST_0040,Hobbies,453.81,13,2025-01-04,Digital Wallet,Online
+CUST_0040,Transportation,312.12,5,2024-08-20,Debit Card,Mobile App
+CUST_0040,Housing,219.64,2,2024-12-01,Digital Wallet,In-store
+CUST_0040,Food,207.22,10,2024-05-08,Cash,In-store
+CUST_0040,Friend,197.95,10,2024-11-28,Debit Card,Mobile App
+CUST_0040,Subscriptions,83.75999999999999,4,2024-09-26,Debit Card,In-store
+CUST_0040,Groceries,83.14,23,2024-11-09,Digital Wallet,Online
+CUST_0041,Shopping,29457.690000000002,19,2024-12-03,Credit Card,Online
+CUST_0041,Housing,4208.39,1,2023-07-15,Digital Wallet,In-store
+CUST_0041,Friend,1824.66,23,2024-11-18,Debit Card,Online
+CUST_0041,Medical,1824.38,4,2024-07-17,Digital Wallet,Mobile App
+CUST_0041,Fitness,772.12,10,2024-09-23,Digital Wallet,Online
+CUST_0041,Food,502.26000000000005,19,2024-11-26,Credit Card,Online
+CUST_0041,Travel,495.05,2,2023-09-15,Cash,In-store
+CUST_0041,Gifts,450.13,4,2024-07-26,Credit Card,Mobile App
+CUST_0041,Transportation,408.42,1,2024-08-26,Cash,Mobile App
+CUST_0041,Subscriptions,120.21,5,2024-09-29,Credit Card,In-store
+CUST_0041,Personal Hygiene,41.55,10,2024-07-07,Credit Card,Mobile App
+CUST_0041,Groceries,35.05,5,2024-12-23,Cash,Mobile App
+CUST_0042,Shopping,12719.06,22,2024-11-18,Credit Card,In-store
+CUST_0042,Housing,6718.799999999999,4,2024-12-21,Debit Card,Online
+CUST_0042,Personal Hygiene,2432.9,16,2024-09-12,Debit Card,Online
+CUST_0042,Gifts,2009.8600000000001,16,2024-10-03,Cash,Mobile App
+CUST_0042,Friend,1249.27,16,2024-10-04,Cash,Online
+CUST_0042,Medical,925.42,2,2024-09-28,Digital Wallet,Online
+CUST_0042,Transportation,704.11,3,2024-05-10,Digital Wallet,Online
+CUST_0042,Food,658.37,18,2025-01-04,Debit Card,Online
+CUST_0042,Hobbies,543.99,10,2024-03-04,Cash,Online
+CUST_0042,Fitness,96.77,4,2023-08-19,Credit Card,Mobile App
+CUST_0042,Groceries,73.81,11,2024-07-13,Credit Card,Mobile App
+CUST_0042,Travel,67.84,2,2024-10-09,Credit Card,In-store
+CUST_0042,Subscriptions,57.52,3,2024-10-01,Debit Card,Online
+CUST_0043,Shopping,232758.02000000002,17,2024-11-06,Debit Card,Mobile App
+CUST_0043,Housing,7873.5,2,2024-03-24,Debit Card,Mobile App
+CUST_0043,Fitness,2499.8,19,2024-12-02,Cash,In-store
+CUST_0043,Personal Hygiene,2366.23,21,2024-02-10,Credit Card,Mobile App
+CUST_0043,Medical,2322.9,4,2024-03-31,Cash,In-store
+CUST_0043,Travel,1768.18,3,2024-06-15,Debit Card,In-store
+CUST_0043,Food,542.31,11,2024-10-04,Cash,Mobile App
+CUST_0043,Groceries,257.86,20,2024-10-06,Digital Wallet,Online
+CUST_0043,Friend,144.25,11,2024-01-10,Digital Wallet,In-store
+CUST_0043,Subscriptions,57.26,3,2024-01-18,Debit Card,In-store
+CUST_0043,Hobbies,29.54,1,2024-03-26,Digital Wallet,Online
+CUST_0043,Transportation,10.25,3,2024-08-03,Digital Wallet,Online
+CUST_0044,Shopping,274295.9,16,2024-05-25,Cash,In-store
+CUST_0044,Gifts,2260.29,19,2024-09-10,Debit Card,Online
+CUST_0044,Friend,2106.5099999999998,29,2024-12-19,Cash,Mobile App
+CUST_0044,Travel,2076.95,4,2024-12-22,Debit Card,Online
+CUST_0044,Medical,1195.79,4,2024-10-11,Credit Card,Online
+CUST_0044,Housing,1039.8600000000001,4,2024-09-17,Debit Card,In-store
+CUST_0044,Food,562.04,15,2024-12-05,Digital Wallet,Online
+CUST_0044,Fitness,496.25,11,2024-01-16,Debit Card,In-store
+CUST_0044,Personal Hygiene,495.13,27,2024-11-15,Debit Card,In-store
+CUST_0044,Hobbies,356.14,11,2024-02-01,Credit Card,Mobile App
+CUST_0044,Transportation,56.43,2,2024-03-12,Credit Card,Online
+CUST_0044,Subscriptions,37.13,3,2024-09-13,Credit Card,Online
+CUST_0044,Groceries,22.32,2,2023-11-27,Cash,Mobile App
+CUST_0045,Shopping,12550.62,19,2024-08-24,Debit Card,Mobile App
+CUST_0045,Medical,2154.5299999999997,4,2024-05-22,Cash,In-store
+CUST_0045,Gifts,1007.8199999999999,18,2024-07-24,Cash,Mobile App
+CUST_0045,Transportation,768.78,1,2023-05-04,Debit Card,In-store
+CUST_0045,Travel,691.22,1,2024-01-09,Digital Wallet,In-store
+CUST_0045,Fitness,564.24,12,2025-01-13,Digital Wallet,Mobile App
+CUST_0045,Housing,236.24,2,2024-02-05,Debit Card,In-store
+CUST_0045,Food,179.69,15,2024-12-04,Digital Wallet,Mobile App
+CUST_0045,Hobbies,177.03,3,2024-11-26,Debit Card,In-store
+CUST_0045,Groceries,83.72,8,2024-10-15,Cash,In-store
+CUST_0045,Personal Hygiene,48.95,7,2024-12-23,Digital Wallet,Online
+CUST_0045,Friend,47.4,5,2024-11-14,Debit Card,In-store
+CUST_0045,Subscriptions,43.63,4,2023-11-17,Credit Card,Mobile App
+CUST_0046,Housing,6040.14,3,2024-12-16,Digital Wallet,Mobile App
+CUST_0046,Gifts,2582.9,24,2024-10-27,Digital Wallet,Online
+CUST_0046,Shopping,2546.86,2,2024-08-26,Debit Card,Online
+CUST_0046,Travel,1985.78,6,2024-11-09,Digital Wallet,Mobile App
+CUST_0046,Fitness,1769.9,17,2024-07-02,Cash,Mobile App
+CUST_0046,Personal Hygiene,1592.25,10,2024-09-06,Cash,Online
+CUST_0046,Hobbies,764.63,26,2024-11-20,Digital Wallet,In-store
+CUST_0046,Medical,760.8399999999999,2,2024-09-22,Credit Card,In-store
+CUST_0046,Transportation,607.81,1,2023-07-30,Credit Card,In-store
+CUST_0046,Food,406.35,9,2023-09-08,Debit Card,Online
+CUST_0046,Friend,183.81,5,2024-11-07,Digital Wallet,Online
+CUST_0046,Groceries,109.41,13,2024-11-25,Cash,In-store
+CUST_0046,Subscriptions,6.06,1,2024-08-15,Credit Card,Online
+CUST_0047,Shopping,325802.02,13,2024-06-10,Digital Wallet,Mobile App
+CUST_0047,Housing,2182.63,3,2024-09-10,Cash,In-store
+CUST_0047,Travel,1373.18,7,2024-11-10,Digital Wallet,Online
+CUST_0047,Hobbies,840.94,19,2024-12-31,Credit Card,Mobile App
+CUST_0047,Transportation,526.19,1,2024-11-11,Debit Card,Online
+CUST_0047,Fitness,506.38,5,2024-10-27,Digital Wallet,In-store
+CUST_0047,Personal Hygiene,492.67,11,2024-04-18,Credit Card,Online
+CUST_0047,Gifts,298.82,8,2024-08-10,Debit Card,Online
+CUST_0047,Medical,257.79,1,2024-08-03,Digital Wallet,Online
+CUST_0047,Subscriptions,205.82,4,2024-09-21,Digital Wallet,In-store
+CUST_0047,Friend,187.67000000000002,10,2024-09-19,Credit Card,In-store
+CUST_0047,Groceries,137.76,19,2024-12-16,Digital Wallet,Mobile App
+CUST_0047,Food,66.85,11,2024-11-03,Cash,Online
+CUST_0048,Shopping,77708.0,16,2024-01-31,Cash,In-store
+CUST_0048,Fitness,3080.9700000000003,16,2024-02-03,Debit Card,Online
+CUST_0048,Gifts,2076.85,24,2024-02-16,Credit Card,Online
+CUST_0048,Medical,1175.27,5,2024-08-12,Digital Wallet,Mobile App
+CUST_0048,Hobbies,1037.59,18,2024-08-26,Debit Card,Online
+CUST_0048,Friend,927.27,13,2024-02-21,Credit Card,In-store
+CUST_0048,Personal Hygiene,909.6,16,2024-08-31,Debit Card,Online
+CUST_0048,Housing,444.96,4,2024-12-02,Cash,Online
+CUST_0048,Transportation,302.73,3,2024-03-01,Cash,Mobile App
+CUST_0048,Subscriptions,153.13,5,2025-01-09,Cash,Mobile App
+CUST_0048,Food,86.5,17,2024-09-18,Digital Wallet,Mobile App
+CUST_0048,Groceries,45.46,7,2023-12-31,Digital Wallet,In-store
+CUST_0049,Shopping,111327.18,16,2024-11-21,Debit Card,Mobile App
+CUST_0049,Medical,1520.04,4,2023-07-07,Credit Card,In-store
+CUST_0049,Fitness,1154.11,4,2024-11-05,Debit Card,Online
+CUST_0049,Transportation,752.26,3,2025-01-01,Debit Card,Mobile App
+CUST_0049,Travel,661.18,3,2024-09-15,Credit Card,In-store
+CUST_0049,Friend,480.08,9,2024-04-27,Cash,Mobile App
+CUST_0049,Housing,468.79999999999995,4,2024-08-23,Digital Wallet,Online
+CUST_0049,Food,468.39,13,2024-11-09,Cash,Mobile App
+CUST_0049,Gifts,404.04,1,2023-08-18,Debit Card,In-store
+CUST_0049,Groceries,104.0,20,2024-12-09,Credit Card,Mobile App
+CUST_0049,Hobbies,36.5,1,2023-02-16,Digital Wallet,Online
+CUST_0049,Subscriptions,32.07,3,2024-03-07,Cash,Mobile App
+CUST_0049,Personal Hygiene,26.21,7,2023-09-03,Credit Card,In-store
+CUST_0050,Shopping,284247.0,12,2025-01-04,Digital Wallet,Mobile App
+CUST_0050,Housing,3732.29,2,2024-04-27,Digital Wallet,Mobile App
+CUST_0050,Gifts,3337.6600000000003,16,2024-09-06,Digital Wallet,Online
+CUST_0050,Medical,1781.26,5,2024-05-15,Debit Card,Online
+CUST_0050,Personal Hygiene,1597.2600000000002,11,2024-09-13,Cash,Mobile App
+CUST_0050,Transportation,1003.67,2,2024-10-29,Debit Card,Mobile App
+CUST_0050,Hobbies,732.23,15,2024-12-26,Cash,Mobile App
+CUST_0050,Travel,681.4,5,2024-09-12,Digital Wallet,Online
+CUST_0050,Fitness,362.77,5,2024-09-27,Credit Card,In-store
+CUST_0050,Friend,198.41,6,2024-08-10,Credit Card,Mobile App
+CUST_0050,Groceries,96.36,11,2024-10-06,Digital Wallet,Online
+CUST_0050,Food,41.31,7,2024-11-13,Digital Wallet,In-store
+CUST_0050,Subscriptions,38.99,3,2024-05-24,Credit Card,Mobile App
+CUST_0051,Shopping,79325.23999999999,11,2024-08-25,Digital Wallet,In-store
+CUST_0051,Travel,3726.19,7,2024-09-27,Cash,Mobile App
+CUST_0051,Fitness,2501.96,9,2024-03-06,Cash,In-store
+CUST_0051,Friend,1548.61,14,2024-04-02,Digital Wallet,Mobile App
+CUST_0051,Medical,1490.4,4,2024-11-26,Credit Card,In-store
+CUST_0051,Transportation,862.66,6,2024-11-06,Debit Card,In-store
+CUST_0051,Gifts,759.23,14,2024-08-18,Credit Card,In-store
+CUST_0051,Food,391.39,13,2024-04-13,Cash,Mobile App
+CUST_0051,Hobbies,262.65,10,2024-04-11,Credit Card,Online
+CUST_0051,Subscriptions,135.89,4,2024-12-18,Digital Wallet,Online
+CUST_0051,Groceries,28.29,11,2024-04-03,Credit Card,Online
+CUST_0051,Personal Hygiene,14.25,3,2024-01-21,Debit Card,Online
+CUST_0052,Fitness,5165.49,14,2024-12-15,Credit Card,Mobile App
+CUST_0052,Travel,4248.64,7,2024-11-09,Debit Card,Online
+CUST_0052,Gifts,1919.04,8,2024-05-04,Debit Card,In-store
+CUST_0052,Friend,1523.9099999999999,20,2024-06-13,Cash,Online
+CUST_0052,Medical,1004.58,2,2023-09-21,Debit Card,Mobile App
+CUST_0052,Shopping,770.95,8,2023-11-16,Debit Card,Online
+CUST_0052,Hobbies,582.2,10,2024-08-31,Debit Card,Online
+CUST_0052,Food,579.35,14,2024-05-20,Cash,Mobile App
+CUST_0052,Transportation,505.72,7,2024-07-06,Cash,Mobile App
+CUST_0052,Housing,456.85,3,2024-11-26,Digital Wallet,In-store
+CUST_0052,Subscriptions,155.24,3,2024-08-02,Credit Card,In-store
+CUST_0052,Personal Hygiene,51.67,10,2025-01-11,Credit Card,In-store
+CUST_0052,Groceries,24.43,5,2024-09-21,Debit Card,Mobile App
+CUST_0053,Shopping,49055.68,7,2023-12-25,Credit Card,Mobile App
+CUST_0053,Personal Hygiene,2753.71,23,2025-01-06,Credit Card,Online
+CUST_0053,Fitness,2144.5,14,2024-09-12,Debit Card,Online
+CUST_0053,Housing,1765.92,2,2024-12-13,Credit Card,Online
+CUST_0053,Travel,1060.11,2,2025-01-12,Cash,Mobile App
+CUST_0053,Transportation,469.82,4,2024-10-05,Credit Card,Online
+CUST_0053,Food,435.09000000000003,9,2024-07-30,Credit Card,Online
+CUST_0053,Medical,407.95,2,2024-02-27,Cash,Mobile App
+CUST_0053,Gifts,377.40999999999997,9,2024-01-30,Credit Card,Mobile App
+CUST_0053,Hobbies,316.15999999999997,12,2024-08-25,Debit Card,Mobile App
+CUST_0053,Subscriptions,117.08,4,2024-11-27,Cash,In-store
+CUST_0053,Groceries,109.75,11,2024-11-08,Debit Card,In-store
+CUST_0054,Shopping,153369.03999999998,9,2024-11-23,Debit Card,Mobile App
+CUST_0054,Gifts,8768.74,32,2025-01-03,Debit Card,Online
+CUST_0054,Housing,3181.1499999999996,3,2024-12-17,Digital Wallet,Mobile App
+CUST_0054,Travel,2897.91,5,2024-11-22,Digital Wallet,Mobile App
+CUST_0054,Fitness,1272.12,17,2024-12-19,Credit Card,Online
+CUST_0054,Medical,1182.43,2,2024-04-03,Debit Card,Online
+CUST_0054,Transportation,1139.3799999999999,5,2024-09-04,Credit Card,Online
+CUST_0054,Hobbies,1102.6399999999999,19,2024-09-22,Digital Wallet,Mobile App
+CUST_0054,Personal Hygiene,1050.73,14,2024-11-26,Digital Wallet,Mobile App
+CUST_0054,Food,783.05,25,2024-11-24,Digital Wallet,Mobile App
+CUST_0054,Friend,586.79,9,2024-02-27,Digital Wallet,Online
+CUST_0054,Groceries,190.83,22,2024-11-10,Credit Card,Mobile App
+CUST_0054,Subscriptions,36.08,3,2024-09-04,Debit Card,Online
+CUST_0055,Housing,6256.829999999999,8,2024-09-19,Digital Wallet,In-store
+CUST_0055,Shopping,3556.14,13,2024-06-26,Digital Wallet,Online
+CUST_0055,Fitness,1712.31,12,2024-02-22,Digital Wallet,Mobile App
+CUST_0055,Transportation,1386.8899999999999,3,2025-01-11,Cash,In-store
+CUST_0055,Medical,1288.24,4,2024-09-13,Credit Card,Online
+CUST_0055,Travel,1180.26,4,2024-01-16,Credit Card,Mobile App
+CUST_0055,Friend,708.73,10,2024-06-05,Cash,Online
+CUST_0055,Hobbies,316.42,8,2024-07-10,Digital Wallet,Online
+CUST_0055,Gifts,172.48000000000002,3,2024-10-20,Credit Card,In-store
+CUST_0055,Food,152.92000000000002,7,2024-07-01,Debit Card,In-store
+CUST_0055,Groceries,117.33,12,2024-12-08,Credit Card,In-store
+CUST_0055,Subscriptions,86.64,4,2025-01-13,Debit Card,Mobile App
+CUST_0055,Personal Hygiene,30.25,7,2024-09-10,Debit Card,In-store
+CUST_0056,Shopping,45221.64,17,2025-01-04,Cash,Online
+CUST_0056,Personal Hygiene,2983.11,10,2024-12-03,Debit Card,Mobile App
+CUST_0056,Housing,2240.15,7,2024-11-03,Digital Wallet,Mobile App
+CUST_0056,Fitness,1746.31,15,2023-08-29,Digital Wallet,Mobile App
+CUST_0056,Travel,1715.6000000000001,3,2024-11-07,Digital Wallet,Online
+CUST_0056,Medical,1291.3200000000002,6,2024-09-28,Cash,Mobile App
+CUST_0056,Gifts,461.73,5,2024-02-02,Digital Wallet,Online
+CUST_0056,Food,164.41,6,2024-06-26,Cash,Online
+CUST_0056,Hobbies,85.21000000000001,5,2024-12-07,Debit Card,In-store
+CUST_0056,Groceries,28.159999999999997,9,2024-01-29,Cash,Online
+CUST_0056,Friend,19.16,2,2024-01-16,Credit Card,Mobile App
+CUST_0056,Transportation,2.76,1,2023-12-31,Cash,Mobile App
+CUST_0057,Shopping,84573.40000000001,3,2024-09-16,Credit Card,In-store
+CUST_0057,Gifts,1587.31,18,2024-08-25,Digital Wallet,Mobile App
+CUST_0057,Hobbies,1318.65,26,2024-12-08,Cash,Online
+CUST_0057,Food,1156.92,23,2024-10-27,Credit Card,In-store
+CUST_0057,Housing,880.13,6,2024-11-27,Debit Card,In-store
+CUST_0057,Transportation,783.38,5,2024-12-21,Cash,Online
+CUST_0057,Medical,587.07,2,2024-04-08,Cash,Online
+CUST_0057,Travel,562.61,6,2024-05-19,Digital Wallet,Online
+CUST_0057,Fitness,405.05,11,2024-10-21,Credit Card,Online
+CUST_0057,Groceries,221.70999999999998,26,2025-01-10,Credit Card,In-store
+CUST_0057,Personal Hygiene,57.519999999999996,9,2024-08-10,Credit Card,In-store
+CUST_0057,Subscriptions,20.15,2,2024-11-29,Cash,Mobile App
+CUST_0058,Shopping,320483.14,16,2023-12-22,Cash,In-store
+CUST_0058,Personal Hygiene,3021.4,20,2024-08-12,Cash,Mobile App
+CUST_0058,Housing,2164.58,5,2024-08-04,Debit Card,Mobile App
+CUST_0058,Medical,2137.8900000000003,5,2024-07-26,Cash,In-store
+CUST_0058,Fitness,652.87,22,2024-06-03,Cash,In-store
+CUST_0058,Hobbies,578.83,11,2025-01-08,Credit Card,Online
+CUST_0058,Travel,566.98,4,2025-01-13,Digital Wallet,Mobile App
+CUST_0058,Transportation,528.97,8,2025-01-09,Cash,In-store
+CUST_0058,Friend,222.21,7,2024-11-21,Cash,In-store
+CUST_0058,Groceries,133.47,18,2025-01-05,Debit Card,Online
+CUST_0058,Food,21.48,3,2023-12-13,Cash,In-store
+CUST_0058,Subscriptions,19.270000000000003,2,2023-11-19,Credit Card,Online
+CUST_0059,Shopping,127754.34999999999,20,2024-11-09,Credit Card,In-store
+CUST_0059,Housing,9539.130000000001,5,2023-12-23,Digital Wallet,Online
+CUST_0059,Fitness,5036.72,37,2024-12-13,Credit Card,Online
+CUST_0059,Medical,2811.38,6,2024-11-21,Credit Card,In-store
+CUST_0059,Travel,2585.64,6,2024-09-12,Cash,Mobile App
+CUST_0059,Hobbies,797.65,13,2024-10-12,Cash,Mobile App
+CUST_0059,Friend,382.6,2,2023-10-03,Credit Card,In-store
+CUST_0059,Subscriptions,210.78,7,2024-12-18,Credit Card,Online
+CUST_0059,Gifts,194.11,1,2024-04-17,Credit Card,In-store
+CUST_0059,Food,105.74000000000001,12,2024-01-28,Credit Card,In-store
+CUST_0059,Transportation,70.35,1,2023-07-05,Digital Wallet,In-store
+CUST_0059,Personal Hygiene,7.94,1,2024-11-16,Cash,Mobile App
+CUST_0060,Shopping,92712.9,22,2024-12-15,Digital Wallet,Online
+CUST_0060,Fitness,2807.3399999999997,20,2024-12-24,Debit Card,Online
+CUST_0060,Medical,2458.94,6,2025-01-08,Credit Card,In-store
+CUST_0060,Friend,1262.49,13,2023-12-25,Credit Card,Mobile App
+CUST_0060,Gifts,624.74,11,2023-12-11,Cash,Mobile App
+CUST_0060,Hobbies,582.23,14,2024-04-24,Debit Card,In-store
+CUST_0060,Transportation,406.28999999999996,3,2024-05-16,Credit Card,Online
+CUST_0060,Travel,350.05,2,2024-09-06,Cash,In-store
+CUST_0060,Housing,291.11,2,2024-07-27,Credit Card,In-store
+CUST_0060,Food,232.27,13,2024-10-22,Credit Card,Mobile App
+CUST_0060,Groceries,48.25,5,2025-01-02,Digital Wallet,In-store
+CUST_0060,Personal Hygiene,38.69,8,2024-11-04,Cash,Online
+CUST_0060,Subscriptions,24.46,2,2024-10-13,Debit Card,Online
+CUST_0061,Medical,1897.29,4,2024-09-17,Debit Card,Mobile App
+CUST_0061,Fitness,1764.2,4,2023-03-26,Digital Wallet,Online
+CUST_0061,Friend,1187.3999999999999,16,2023-12-15,Cash,Mobile App
+CUST_0061,Hobbies,849.19,18,2023-11-16,Cash,In-store
+CUST_0061,Personal Hygiene,415.85,15,2024-12-01,Cash,Mobile App
+CUST_0061,Travel,355.72,1,2023-05-30,Debit Card,In-store
+CUST_0061,Gifts,288.28000000000003,6,2024-12-16,Digital Wallet,Online
+CUST_0061,Housing,267.1,3,2023-09-09,Credit Card,In-store
+CUST_0061,Food,120.64999999999999,7,2024-11-28,Credit Card,Online
+CUST_0061,Shopping,119.28,2,2024-12-03,Cash,Mobile App
+CUST_0061,Subscriptions,98.72999999999999,3,2024-12-07,Cash,Online
+CUST_0061,Groceries,75.84,14,2024-12-23,Debit Card,Mobile App
+CUST_0061,Transportation,70.59,2,2024-11-19,Debit Card,Mobile App
+CUST_0062,Personal Hygiene,4725.65,10,2024-11-22,Credit Card,Mobile App
+CUST_0062,Travel,1802.58,3,2024-07-19,Digital Wallet,Mobile App
+CUST_0062,Gifts,1121.8500000000001,7,2024-06-18,Debit Card,Mobile App
+CUST_0062,Friend,1017.1900000000002,17,2024-12-28,Cash,In-store
+CUST_0062,Shopping,1007.6200000000001,10,2024-09-27,Cash,Mobile App
+CUST_0062,Food,554.61,16,2025-01-11,Digital Wallet,In-store
+CUST_0062,Transportation,415.37,2,2023-10-04,Cash,Online
+CUST_0062,Housing,308.94,2,2024-06-04,Credit Card,Online
+CUST_0062,Fitness,292.09,3,2024-09-12,Digital Wallet,Online
+CUST_0062,Medical,177.94,1,2024-05-09,Credit Card,Online
+CUST_0062,Subscriptions,64.49,5,2024-12-24,Debit Card,Online
+CUST_0062,Groceries,57.09,8,2024-08-31,Digital Wallet,Online
+CUST_0063,Housing,7960.09,5,2024-08-29,Debit Card,In-store
+CUST_0063,Personal Hygiene,7920.34,19,2024-08-23,Credit Card,Mobile App
+CUST_0063,Fitness,2369.01,19,2024-10-26,Cash,In-store
+CUST_0063,Medical,1975.08,6,2024-11-11,Digital Wallet,Online
+CUST_0063,Transportation,1156.3600000000001,10,2025-01-10,Digital Wallet,In-store
+CUST_0063,Shopping,533.1,9,2025-01-12,Debit Card,In-store
+CUST_0063,Travel,450.04,2,2024-12-16,Debit Card,Online
+CUST_0063,Friend,189.97,14,2024-06-24,Digital Wallet,Mobile App
+CUST_0063,Hobbies,188.16,6,2024-11-19,Debit Card,Online
+CUST_0063,Food,104.28,8,2024-12-09,Digital Wallet,Mobile App
+CUST_0063,Subscriptions,102.11,6,2024-12-23,Digital Wallet,In-store
+CUST_0063,Groceries,53.37,11,2024-11-19,Digital Wallet,Mobile App
+CUST_0064,Shopping,143625.04,16,2024-12-18,Cash,Mobile App
+CUST_0064,Gifts,2729.26,29,2024-12-22,Credit Card,Online
+CUST_0064,Medical,2473.79,5,2024-11-27,Credit Card,Online
+CUST_0064,Fitness,2307.22,24,2024-12-23,Digital Wallet,Online
+CUST_0064,Travel,1962.0900000000001,3,2024-06-11,Debit Card,In-store
+CUST_0064,Transportation,963.6700000000001,2,2023-08-13,Cash,In-store
+CUST_0064,Hobbies,574.81,13,2024-11-19,Digital Wallet,Online
+CUST_0064,Friend,498.88,8,2024-05-26,Cash,Mobile App
+CUST_0064,Housing,246.2,2,2024-09-08,Credit Card,Mobile App
+CUST_0064,Personal Hygiene,181.39,28,2024-09-27,Digital Wallet,Online
+CUST_0064,Food,111.16,18,2024-09-06,Cash,Mobile App
+CUST_0064,Groceries,70.97,8,2024-06-30,Debit Card,Mobile App
+CUST_0064,Subscriptions,23.869999999999997,2,2024-10-14,Cash,Online
+CUST_0065,Shopping,318547.67000000004,18,2024-10-01,Digital Wallet,In-store
+CUST_0065,Gifts,2053.54,6,2023-07-11,Cash,Online
+CUST_0065,Friend,2023.85,21,2025-01-13,Credit Card,Online
+CUST_0065,Personal Hygiene,674.25,15,2024-03-23,Debit Card,Mobile App
+CUST_0065,Hobbies,638.34,13,2024-12-19,Digital Wallet,Online
+CUST_0065,Medical,526.93,2,2024-09-29,Credit Card,Mobile App
+CUST_0065,Travel,334.44,5,2024-11-20,Digital Wallet,Online
+CUST_0065,Housing,235.82999999999998,3,2024-10-09,Cash,Online
+CUST_0065,Food,148.91,17,2024-09-27,Cash,In-store
+CUST_0065,Fitness,142.48,2,2024-11-24,Debit Card,In-store
+CUST_0065,Subscriptions,34.760000000000005,3,2024-02-24,Debit Card,Online
+CUST_0065,Groceries,21.439999999999998,6,2024-09-24,Cash,In-store
+CUST_0066,Shopping,311416.09,14,2024-02-09,Digital Wallet,In-store
+CUST_0066,Housing,6659.26,3,2024-11-14,Credit Card,Mobile App
+CUST_0066,Travel,3129.3199999999997,5,2024-09-10,Credit Card,In-store
+CUST_0066,Medical,2664.11,6,2024-05-13,Debit Card,In-store
+CUST_0066,Friend,1347.72,14,2024-11-13,Cash,In-store
+CUST_0066,Fitness,1309.44,12,2024-05-27,Debit Card,Mobile App
+CUST_0066,Transportation,606.92,2,2024-09-05,Cash,Online
+CUST_0066,Food,526.69,15,2024-07-28,Digital Wallet,Mobile App
+CUST_0066,Gifts,421.61,4,2023-11-06,Digital Wallet,Mobile App
+CUST_0066,Hobbies,100.44999999999999,7,2024-03-31,Digital Wallet,Mobile App
+CUST_0066,Groceries,80.09,24,2024-08-13,Credit Card,Mobile App
+CUST_0066,Subscriptions,50.92,1,2023-04-04,Credit Card,Mobile App
+CUST_0067,Housing,9314.119999999999,7,2024-08-15,Debit Card,Online
+CUST_0067,Shopping,7490.669999999999,15,2024-10-07,Digital Wallet,Mobile App
+CUST_0067,Medical,2873.7599999999998,7,2024-09-09,Credit Card,Online
+CUST_0067,Transportation,499.44,3,2024-08-03,Cash,Mobile App
+CUST_0067,Gifts,498.99,13,2024-08-12,Cash,Online
+CUST_0067,Travel,416.63,3,2024-05-21,Credit Card,In-store
+CUST_0067,Friend,390.78,12,2025-01-12,Digital Wallet,Online
+CUST_0067,Hobbies,315.57,7,2024-11-29,Debit Card,Mobile App
+CUST_0067,Personal Hygiene,218.53,5,2023-11-23,Credit Card,Online
+CUST_0067,Subscriptions,201.64000000000001,7,2024-07-18,Digital Wallet,Mobile App
+CUST_0067,Food,123.4,11,2024-05-15,Credit Card,Online
+CUST_0067,Groceries,58.59,7,2024-04-06,Cash,In-store
+CUST_0068,Shopping,61879.159999999996,14,2024-11-30,Digital Wallet,Online
+CUST_0068,Housing,8744.09,2,2024-12-11,Digital Wallet,In-store
+CUST_0068,Transportation,2289.15,10,2024-08-13,Debit Card,Online
+CUST_0068,Personal Hygiene,1931.6,16,2024-12-22,Debit Card,Mobile App
+CUST_0068,Fitness,1423.65,12,2024-09-22,Credit Card,Online
+CUST_0068,Hobbies,810.34,17,2024-11-30,Debit Card,Mobile App
+CUST_0068,Food,468.05999999999995,12,2024-09-23,Digital Wallet,Online
+CUST_0068,Medical,378.07,2,2024-07-16,Debit Card,Online
+CUST_0068,Subscriptions,355.99,8,2024-10-29,Debit Card,Mobile App
+CUST_0068,Friend,295.25,3,2024-05-14,Credit Card,In-store
+CUST_0068,Groceries,77.23,16,2024-11-05,Cash,Mobile App
+CUST_0068,Gifts,70.29,4,2024-10-04,Digital Wallet,In-store
+CUST_0068,Travel,45.52,1,2023-01-17,Digital Wallet,Online
+CUST_0069,Shopping,3188.92,14,2024-08-17,Debit Card,Online
+CUST_0069,Housing,3092.74,3,2024-04-19,Credit Card,In-store
+CUST_0069,Fitness,1428.17,13,2024-07-18,Credit Card,Mobile App
+CUST_0069,Medical,1084.52,3,2025-01-09,Credit Card,Online
+CUST_0069,Friend,764.05,4,2023-11-02,Debit Card,In-store
+CUST_0069,Gifts,723.8299999999999,9,2024-11-16,Debit Card,In-store
+CUST_0069,Travel,666.8299999999999,2,2024-09-20,Debit Card,Mobile App
+CUST_0069,Transportation,545.62,4,2024-12-26,Cash,In-store
+CUST_0069,Personal Hygiene,370.03,10,2024-07-12,Debit Card,Online
+CUST_0069,Food,256.65999999999997,21,2024-11-15,Credit Card,In-store
+CUST_0069,Hobbies,232.22,9,2024-10-03,Cash,Online
+CUST_0069,Subscriptions,194.95,5,2024-12-07,Digital Wallet,In-store
+CUST_0069,Groceries,128.57,18,2024-11-14,Digital Wallet,In-store
+CUST_0070,Housing,11328.82,4,2023-06-11,Cash,In-store
+CUST_0070,Travel,2100.1,4,2024-11-26,Digital Wallet,In-store
+CUST_0070,Hobbies,969.69,17,2024-02-23,Digital Wallet,In-store
+CUST_0070,Medical,933.67,2,2024-08-04,Debit Card,In-store
+CUST_0070,Transportation,735.92,4,2024-08-22,Cash,Mobile App
+CUST_0070,Fitness,733.7,5,2024-04-06,Debit Card,In-store
+CUST_0070,Food,248.62,19,2024-11-07,Digital Wallet,In-store
+CUST_0070,Gifts,214.0,6,2024-08-18,Credit Card,Online
+CUST_0070,Groceries,112.14,11,2024-07-19,Cash,Online
+CUST_0070,Shopping,100.86,1,2024-04-08,Digital Wallet,Mobile App
+CUST_0070,Subscriptions,88.73,4,2024-07-08,Debit Card,Mobile App
+CUST_0070,Friend,84.24000000000001,10,2023-12-05,Digital Wallet,In-store
+CUST_0070,Personal Hygiene,78.38,9,2024-08-31,Credit Card,In-store
+CUST_0071,Shopping,46925.7,18,2024-08-22,Cash,Online
+CUST_0071,Housing,8840.58,5,2024-09-30,Digital Wallet,Online
+CUST_0071,Travel,1818.0400000000002,4,2024-10-27,Debit Card,Online
+CUST_0071,Medical,1731.74,6,2024-11-19,Debit Card,Online
+CUST_0071,Personal Hygiene,1160.67,12,2024-12-08,Cash,In-store
+CUST_0071,Gifts,942.19,9,2024-11-29,Digital Wallet,Mobile App
+CUST_0071,Friend,525.82,17,2024-05-22,Cash,Mobile App
+CUST_0071,Food,401.39,14,2024-11-15,Cash,In-store
+CUST_0071,Hobbies,335.84999999999997,8,2024-06-18,Cash,In-store
+CUST_0071,Groceries,305.03,31,2024-12-27,Debit Card,Online
+CUST_0071,Transportation,73.21000000000001,3,2023-07-20,Digital Wallet,In-store
+CUST_0071,Subscriptions,48.19,4,2024-02-22,Digital Wallet,Online
+CUST_0072,Shopping,17461.93,8,2024-05-26,Digital Wallet,Mobile App
+CUST_0072,Personal Hygiene,3542.42,21,2024-07-14,Debit Card,Mobile App
+CUST_0072,Medical,1065.32,4,2024-11-11,Cash,Mobile App
+CUST_0072,Hobbies,772.4200000000001,20,2024-12-06,Credit Card,In-store
+CUST_0072,Travel,599.58,3,2024-09-04,Credit Card,Mobile App
+CUST_0072,Housing,299.71,3,2024-08-15,Credit Card,In-store
+CUST_0072,Food,271.28,15,2024-11-01,Credit Card,Mobile App
+CUST_0072,Gifts,259.69,8,2024-11-02,Digital Wallet,Mobile App
+CUST_0072,Transportation,231.82999999999998,4,2024-11-19,Cash,Online
+CUST_0072,Groceries,158.62,28,2024-09-12,Credit Card,Mobile App
+CUST_0072,Subscriptions,126.24000000000001,6,2024-11-06,Digital Wallet,Mobile App
+CUST_0072,Friend,111.35,5,2023-08-21,Debit Card,Online
+CUST_0073,Shopping,196212.15,14,2024-10-16,Debit Card,In-store
+CUST_0073,Housing,4604.830000000001,2,2024-05-29,Cash,Mobile App
+CUST_0073,Gifts,3221.24,29,2024-10-25,Digital Wallet,In-store
+CUST_0073,Medical,2298.64,7,2024-10-24,Digital Wallet,Mobile App
+CUST_0073,Transportation,2003.83,5,2024-08-22,Debit Card,Mobile App
+CUST_0073,Fitness,1549.6,10,2024-10-25,Debit Card,In-store
+CUST_0073,Friend,971.26,10,2023-12-21,Credit Card,In-store
+CUST_0073,Subscriptions,111.16,4,2024-12-16,Debit Card,Online
+CUST_0073,Groceries,85.89,10,2024-12-17,Credit Card,In-store
+CUST_0073,Personal Hygiene,39.93,5,2023-06-29,Debit Card,Online
+CUST_0073,Hobbies,25.71,4,2024-05-29,Cash,Online
+CUST_0073,Travel,20.5,1,2023-12-15,Credit Card,In-store
+CUST_0073,Food,18.63,4,2023-05-15,Cash,In-store
+CUST_0074,Housing,13768.18,10,2024-10-07,Credit Card,Online
+CUST_0074,Travel,2825.13,3,2024-10-05,Credit Card,In-store
+CUST_0074,Personal Hygiene,2346.85,11,2024-11-26,Credit Card,Mobile App
+CUST_0074,Fitness,1584.81,13,2024-11-12,Digital Wallet,In-store
+CUST_0074,Medical,1142.99,2,2024-11-05,Debit Card,Online
+CUST_0074,Transportation,1073.67,5,2024-05-30,Debit Card,Mobile App
+CUST_0074,Shopping,736.16,2,2023-07-07,Debit Card,In-store
+CUST_0074,Hobbies,433.31,12,2024-11-21,Credit Card,Mobile App
+CUST_0074,Food,429.45,22,2024-10-04,Cash,Mobile App
+CUST_0074,Friend,292.9,3,2024-01-02,Digital Wallet,Mobile App
+CUST_0074,Groceries,118.52,19,2025-01-01,Credit Card,Mobile App
+CUST_0074,Subscriptions,53.94,4,2024-11-19,Debit Card,Online
+CUST_0075,Shopping,193855.29,20,2025-01-10,Credit Card,Online
+CUST_0075,Housing,23936.440000000002,7,2024-09-04,Digital Wallet,Mobile App
+CUST_0075,Travel,2244.2200000000003,3,2024-12-31,Cash,In-store
+CUST_0075,Medical,1805.28,4,2024-12-28,Debit Card,Online
+CUST_0075,Gifts,1366.26,25,2024-11-12,Cash,In-store
+CUST_0075,Transportation,473.48,3,2024-10-11,Cash,In-store
+CUST_0075,Food,231.32999999999998,16,2024-11-16,Debit Card,In-store
+CUST_0075,Friend,175.39,15,2024-09-06,Credit Card,In-store
+CUST_0075,Subscriptions,118.72,5,2024-10-07,Digital Wallet,Online
+CUST_0075,Groceries,101.54,15,2024-11-10,Credit Card,Online
+CUST_0075,Hobbies,86.03,6,2024-12-22,Digital Wallet,In-store
+CUST_0075,Personal Hygiene,63.2,8,2023-11-27,Credit Card,Online
+CUST_0076,Shopping,5093.34,15,2025-01-06,Digital Wallet,In-store
+CUST_0076,Housing,4897.52,4,2024-12-26,Debit Card,In-store
+CUST_0076,Fitness,2838.65,12,2024-12-12,Cash,In-store
+CUST_0076,Transportation,850.26,3,2025-01-03,Credit Card,Mobile App
+CUST_0076,Gifts,826.69,3,2023-08-20,Digital Wallet,Mobile App
+CUST_0076,Hobbies,743.54,19,2024-10-01,Credit Card,In-store
+CUST_0076,Travel,734.61,4,2024-04-10,Debit Card,In-store
+CUST_0076,Medical,363.47,1,2024-04-18,Debit Card,Mobile App
+CUST_0076,Friend,281.77,6,2024-07-04,Cash,In-store
+CUST_0076,Subscriptions,147.62,4,2024-08-23,Credit Card,In-store
+CUST_0076,Groceries,99.78999999999999,7,2024-08-08,Credit Card,Online
+CUST_0076,Personal Hygiene,84.96,9,2024-02-07,Digital Wallet,In-store
+CUST_0076,Food,14.88,4,2024-11-01,Digital Wallet,In-store
+CUST_0077,Housing,6808.56,2,2024-11-09,Debit Card,Mobile App
+CUST_0077,Shopping,5224.17,11,2023-08-24,Cash,Mobile App
+CUST_0077,Medical,1768.37,6,2024-12-13,Debit Card,Mobile App
+CUST_0077,Fitness,1409.74,4,2024-06-05,Credit Card,Mobile App
+CUST_0077,Gifts,792.7,11,2024-11-09,Debit Card,In-store
+CUST_0077,Friend,681.9,15,2025-01-04,Credit Card,Mobile App
+CUST_0077,Travel,624.0,5,2024-04-21,Digital Wallet,Mobile App
+CUST_0077,Food,430.37000000000006,8,2023-12-18,Debit Card,Online
+CUST_0077,Transportation,373.49,6,2024-09-30,Cash,Online
+CUST_0077,Subscriptions,174.73000000000002,5,2024-12-19,Digital Wallet,Mobile App
+CUST_0077,Hobbies,111.38000000000001,8,2024-04-25,Digital Wallet,In-store
+CUST_0077,Groceries,97.81,14,2024-08-20,Digital Wallet,Mobile App
+CUST_0078,Shopping,58461.86,15,2024-12-10,Digital Wallet,Mobile App
+CUST_0078,Medical,1712.8,5,2024-10-12,Debit Card,Online
+CUST_0078,Travel,1710.0800000000002,4,2024-12-07,Digital Wallet,In-store
+CUST_0078,Personal Hygiene,1156.92,4,2024-02-29,Digital Wallet,Online
+CUST_0078,Gifts,569.04,6,2024-07-04,Debit Card,Online
+CUST_0078,Friend,548.59,3,2023-10-21,Digital Wallet,In-store
+CUST_0078,Hobbies,371.9,18,2025-01-05,Cash,In-store
+CUST_0078,Housing,208.07,3,2024-06-03,Digital Wallet,In-store
+CUST_0078,Transportation,175.11,2,2024-02-02,Credit Card,Mobile App
+CUST_0078,Food,126.22,5,2024-12-05,Digital Wallet,In-store
+CUST_0078,Fitness,94.47999999999999,4,2024-08-26,Cash,Mobile App
+CUST_0078,Subscriptions,83.17,3,2024-10-25,Cash,In-store
+CUST_0078,Groceries,20.22,2,2024-05-30,Debit Card,In-store
+CUST_0079,Housing,10505.76,4,2024-11-09,Digital Wallet,In-store
+CUST_0079,Shopping,7154.32,5,2024-12-14,Cash,Online
+CUST_0079,Travel,2747.54,9,2024-12-13,Digital Wallet,Mobile App
+CUST_0079,Fitness,1782.8200000000002,10,2024-12-22,Debit Card,Mobile App
+CUST_0079,Medical,1674.1100000000001,5,2024-11-16,Digital Wallet,Online
+CUST_0079,Friend,971.08,17,2024-10-13,Debit Card,Online
+CUST_0079,Transportation,914.98,5,2024-11-26,Debit Card,Mobile App
+CUST_0079,Hobbies,347.84999999999997,10,2024-07-21,Digital Wallet,Mobile App
+CUST_0079,Subscriptions,223.53,8,2024-11-24,Cash,In-store
+CUST_0079,Gifts,123.71,2,2024-11-29,Credit Card,Mobile App
+CUST_0079,Groceries,89.42,18,2024-10-25,Cash,Mobile App
+CUST_0079,Food,36.459999999999994,5,2024-11-07,Debit Card,In-store
+CUST_0079,Personal Hygiene,11.5,3,2024-03-26,Cash,In-store
+CUST_0080,Shopping,190960.7,23,2024-08-06,Cash,Mobile App
+CUST_0080,Travel,2080.38,3,2024-02-22,Cash,Mobile App
+CUST_0080,Medical,1411.27,3,2024-02-16,Digital Wallet,In-store
+CUST_0080,Fitness,1131.06,15,2024-11-15,Debit Card,Mobile App
+CUST_0080,Hobbies,398.69,8,2024-11-18,Digital Wallet,Mobile App
+CUST_0080,Food,386.3,22,2024-12-15,Cash,Online
+CUST_0080,Transportation,274.75,4,2024-03-14,Cash,Online
+CUST_0080,Personal Hygiene,262.88,9,2023-11-26,Cash,Mobile App
+CUST_0080,Friend,215.75,3,2023-06-22,Digital Wallet,In-store
+CUST_0080,Housing,156.25,2,2024-06-24,Credit Card,Mobile App
+CUST_0080,Subscriptions,51.75,3,2024-12-18,Cash,Online
+CUST_0080,Groceries,44.839999999999996,11,2024-11-30,Digital Wallet,Mobile App
+CUST_0081,Fitness,3017.1400000000003,16,2024-12-04,Cash,In-store
+CUST_0081,Gifts,2832.72,18,2024-11-15,Digital Wallet,Online
+CUST_0081,Medical,1687.84,4,2024-12-30,Credit Card,Online
+CUST_0081,Transportation,1370.91,3,2023-12-13,Debit Card,Mobile App
+CUST_0081,Travel,916.13,4,2025-01-02,Credit Card,Mobile App
+CUST_0081,Friend,859.02,25,2024-10-08,Credit Card,Mobile App
+CUST_0081,Hobbies,410.73,11,2023-08-08,Digital Wallet,In-store
+CUST_0081,Shopping,349.51,3,2023-03-31,Cash,Mobile App
+CUST_0081,Personal Hygiene,280.38,1,2023-11-19,Digital Wallet,In-store
+CUST_0081,Food,214.69,6,2024-10-31,Digital Wallet,Online
+CUST_0081,Subscriptions,178.10999999999999,7,2024-11-20,Debit Card,Online
+CUST_0081,Groceries,158.84,17,2025-01-08,Cash,In-store
+CUST_0081,Housing,73.99,1,2024-07-15,Debit Card,Online
+CUST_0082,Shopping,4494.5,6,2024-04-15,Credit Card,Mobile App
+CUST_0082,Medical,1920.7399999999998,5,2024-10-10,Credit Card,Mobile App
+CUST_0082,Gifts,1425.9299999999998,10,2024-12-29,Digital Wallet,In-store
+CUST_0082,Friend,1249.21,15,2024-07-08,Cash,Mobile App
+CUST_0082,Travel,1058.11,3,2024-12-10,Debit Card,In-store
+CUST_0082,Fitness,460.64,10,2024-06-11,Credit Card,In-store
+CUST_0082,Housing,303.75,2,2024-04-13,Digital Wallet,Mobile App
+CUST_0082,Food,301.71999999999997,7,2024-05-07,Cash,Mobile App
+CUST_0082,Hobbies,260.96999999999997,5,2024-07-07,Digital Wallet,Mobile App
+CUST_0082,Transportation,107.64,3,2024-03-11,Cash,In-store
+CUST_0082,Groceries,59.0,8,2024-11-29,Debit Card,Mobile App
+CUST_0082,Subscriptions,30.57,3,2024-08-25,Digital Wallet,Mobile App
+CUST_0082,Personal Hygiene,21.38,6,2024-03-21,Debit Card,Online
+CUST_0083,Shopping,115591.56999999999,8,2025-01-05,Credit Card,Mobile App
+CUST_0083,Fitness,5694.64,26,2024-07-17,Credit Card,Online
+CUST_0083,Housing,4365.86,5,2024-12-21,Digital Wallet,Mobile App
+CUST_0083,Travel,2387.3599999999997,4,2024-11-30,Cash,Online
+CUST_0083,Gifts,2086.49,19,2025-01-13,Credit Card,In-store
+CUST_0083,Medical,1472.63,3,2024-11-29,Cash,Mobile App
+CUST_0083,Personal Hygiene,1301.02,15,2024-10-22,Cash,Mobile App
+CUST_0083,Transportation,640.08,7,2024-11-27,Cash,Online
+CUST_0083,Friend,415.15,9,2024-08-19,Credit Card,Online
+CUST_0083,Hobbies,390.99,4,2023-04-03,Debit Card,Mobile App
+CUST_0083,Subscriptions,82.42,5,2024-09-15,Debit Card,Online
+CUST_0083,Food,81.46,11,2024-11-29,Credit Card,Mobile App
+CUST_0083,Groceries,2.19,1,2023-06-28,Cash,Online
+CUST_0084,Shopping,207813.65999999997,14,2024-12-30,Cash,Online
+CUST_0084,Fitness,3423.58,17,2025-01-06,Digital Wallet,In-store
+CUST_0084,Medical,1940.73,4,2024-11-10,Credit Card,Mobile App
+CUST_0084,Food,566.85,18,2025-01-09,Debit Card,Mobile App
+CUST_0084,Gifts,382.26,11,2024-10-29,Cash,Mobile App
+CUST_0084,Housing,331.65999999999997,3,2024-12-21,Digital Wallet,Mobile App
+CUST_0084,Travel,283.35,1,2023-03-01,Cash,In-store
+CUST_0084,Hobbies,136.54,5,2024-07-17,Debit Card,Mobile App
+CUST_0084,Friend,94.73,7,2024-11-17,Digital Wallet,In-store
+CUST_0084,Personal Hygiene,71.67999999999999,12,2024-06-08,Debit Card,Online
+CUST_0084,Transportation,52.699999999999996,3,2024-11-23,Cash,Online
+CUST_0084,Groceries,23.18,5,2024-04-03,Debit Card,Online
+CUST_0084,Subscriptions,22.65,2,2024-08-28,Debit Card,In-store
+CUST_0085,Shopping,52325.26,2,2023-04-06,Credit Card,In-store
+CUST_0085,Fitness,3158.23,16,2024-12-20,Debit Card,Mobile App
+CUST_0085,Travel,1711.43,3,2024-08-14,Digital Wallet,In-store
+CUST_0085,Medical,1653.38,4,2024-11-22,Credit Card,In-store
+CUST_0085,Friend,540.78,18,2024-12-20,Cash,Mobile App
+CUST_0085,Housing,472.14,5,2024-07-03,Credit Card,In-store
+CUST_0085,Hobbies,369.9,9,2023-09-23,Debit Card,In-store
+CUST_0085,Gifts,152.96,5,2023-08-27,Cash,In-store
+CUST_0085,Food,126.68,11,2024-12-30,Cash,Mobile App
+CUST_0085,Subscriptions,96.58,4,2024-01-04,Debit Card,Online
+CUST_0085,Transportation,88.14,2,2023-08-01,Cash,In-store
+CUST_0085,Groceries,41.339999999999996,12,2024-11-01,Digital Wallet,Mobile App
+CUST_0085,Personal Hygiene,19.09,5,2023-12-05,Debit Card,In-store
+CUST_0086,Shopping,70590.39,13,2024-02-21,Digital Wallet,In-store
+CUST_0086,Housing,5537.73,4,2024-04-23,Credit Card,Mobile App
+CUST_0086,Travel,2016.9299999999998,6,2024-04-22,Digital Wallet,Online
+CUST_0086,Gifts,1514.16,12,2024-09-07,Credit Card,Online
+CUST_0086,Medical,1331.57,3,2023-11-22,Debit Card,In-store
+CUST_0086,Friend,951.8299999999999,16,2024-04-09,Credit Card,Mobile App
+CUST_0086,Transportation,812.1000000000001,3,2024-09-10,Digital Wallet,In-store
+CUST_0086,Hobbies,596.29,15,2024-10-09,Debit Card,Mobile App
+CUST_0086,Fitness,453.52,9,2024-09-22,Debit Card,Mobile App
+CUST_0086,Food,90.11,11,2024-10-25,Credit Card,In-store
+CUST_0086,Subscriptions,28.39,2,2024-08-22,Debit Card,Online
+CUST_0086,Personal Hygiene,5.84,2,2025-01-04,Cash,Mobile App
+CUST_0086,Groceries,5.56,1,2024-09-23,Debit Card,Online
+CUST_0087,Shopping,6082.240000000001,6,2023-09-07,Digital Wallet,Online
+CUST_0087,Housing,3392.37,3,2024-11-15,Debit Card,Online
+CUST_0087,Medical,1959.83,7,2024-10-13,Debit Card,In-store
+CUST_0087,Fitness,1902.05,30,2024-11-22,Debit Card,In-store
+CUST_0087,Travel,1523.37,3,2025-01-04,Cash,Online
+CUST_0087,Gifts,1173.67,12,2025-01-13,Credit Card,Mobile App
+CUST_0087,Friend,773.3799999999999,11,2024-11-04,Digital Wallet,In-store
+CUST_0087,Hobbies,554.89,14,2024-09-09,Cash,Mobile App
+CUST_0087,Transportation,319.92,8,2024-08-21,Digital Wallet,Online
+CUST_0087,Food,318.63,13,2024-11-06,Digital Wallet,Online
+CUST_0087,Subscriptions,150.34,6,2024-09-07,Digital Wallet,Online
+CUST_0087,Personal Hygiene,35.15,4,2024-08-11,Cash,Online
+CUST_0088,Shopping,26773.51,16,2024-12-09,Digital Wallet,Online
+CUST_0088,Gifts,4775.85,20,2025-01-08,Credit Card,Online
+CUST_0088,Fitness,4087.8,17,2024-12-27,Digital Wallet,Online
+CUST_0088,Medical,2299.73,5,2024-03-22,Credit Card,In-store
+CUST_0088,Travel,615.71,2,2024-01-04,Digital Wallet,Mobile App
+CUST_0088,Hobbies,518.82,16,2024-11-27,Cash,Online
+CUST_0088,Housing,203.88,3,2024-07-27,Digital Wallet,Online
+CUST_0088,Subscriptions,135.09,5,2025-01-06,Debit Card,Online
+CUST_0088,Personal Hygiene,128.84,18,2024-04-20,Cash,In-store
+CUST_0088,Groceries,115.33000000000001,20,2024-12-31,Debit Card,Online
+CUST_0088,Friend,111.15,5,2023-08-31,Cash,In-store
+CUST_0088,Food,103.19,6,2024-06-23,Cash,Mobile App
+CUST_0088,Transportation,67.42,2,2023-07-12,Credit Card,Mobile App
+CUST_0089,Housing,6649.639999999999,2,2024-08-14,Debit Card,In-store
+CUST_0089,Shopping,1809.01,8,2023-11-01,Debit Card,Mobile App
+CUST_0089,Medical,1113.25,3,2024-05-03,Digital Wallet,In-store
+CUST_0089,Gifts,898.0699999999999,15,2023-12-16,Digital Wallet,Mobile App
+CUST_0089,Hobbies,782.0,18,2024-12-02,Debit Card,Mobile App
+CUST_0089,Food,595.65,16,2024-12-10,Cash,Online
+CUST_0089,Friend,380.92,5,2024-05-07,Debit Card,Online
+CUST_0089,Travel,320.14,2,2024-12-27,Cash,Online
+CUST_0089,Fitness,93.49,7,2023-01-28,Cash,In-store
+CUST_0089,Transportation,66.19999999999999,3,2023-11-13,Digital Wallet,Mobile App
+CUST_0089,Personal Hygiene,60.89,12,2024-12-14,Cash,Online
+CUST_0089,Subscriptions,21.35,2,2023-11-10,Digital Wallet,In-store
+CUST_0089,Groceries,15.809999999999999,3,2024-07-07,Credit Card,Mobile App
+CUST_0090,Shopping,8600.300000000001,16,2024-07-09,Digital Wallet,Mobile App
+CUST_0090,Travel,1627.04,5,2024-09-17,Credit Card,Online
+CUST_0090,Medical,1340.22,4,2024-05-11,Debit Card,In-store
+CUST_0090,Friend,968.13,20,2024-10-09,Credit Card,Mobile App
+CUST_0090,Hobbies,632.36,12,2024-02-13,Digital Wallet,Online
+CUST_0090,Gifts,612.9499999999999,14,2023-11-28,Cash,Online
+CUST_0090,Housing,581.11,6,2024-09-25,Credit Card,In-store
+CUST_0090,Fitness,478.55,3,2023-07-03,Digital Wallet,In-store
+CUST_0090,Transportation,275.13000000000005,2,2023-12-11,Debit Card,In-store
+CUST_0090,Food,163.78,8,2024-06-07,Credit Card,Mobile App
+CUST_0090,Groceries,104.41,9,2024-02-11,Digital Wallet,In-store
+CUST_0090,Subscriptions,60.19,2,2024-08-29,Credit Card,In-store
+CUST_0090,Personal Hygiene,11.45,1,2024-04-21,Credit Card,Mobile App
+CUST_0091,Shopping,47800.33,18,2025-01-13,Credit Card,Online
+CUST_0091,Personal Hygiene,4405.599999999999,18,2024-08-14,Cash,In-store
+CUST_0091,Housing,2507.11,2,2024-04-04,Credit Card,Online
+CUST_0091,Medical,2019.15,6,2024-12-25,Debit Card,In-store
+CUST_0091,Gifts,1449.1100000000001,15,2024-12-19,Cash,Online
+CUST_0091,Friend,1187.42,18,2024-10-12,Debit Card,In-store
+CUST_0091,Fitness,764.3,7,2024-09-07,Digital Wallet,Mobile App
+CUST_0091,Transportation,703.8100000000001,5,2024-11-29,Cash,Online
+CUST_0091,Hobbies,585.29,16,2024-12-06,Cash,In-store
+CUST_0091,Travel,483.44,1,2023-02-08,Digital Wallet,Mobile App
+CUST_0091,Food,210.84,12,2023-07-05,Cash,Mobile App
+CUST_0091,Subscriptions,198.82,6,2024-06-16,Cash,In-store
+CUST_0091,Groceries,151.97,23,2024-12-15,Debit Card,Mobile App
+CUST_0092,Shopping,137304.18,15,2024-06-12,Digital Wallet,In-store
+CUST_0092,Housing,4743.220000000001,4,2024-12-05,Digital Wallet,Online
+CUST_0092,Fitness,1453.47,15,2024-07-02,Credit Card,Mobile App
+CUST_0092,Gifts,1057.55,7,2024-11-08,Debit Card,Online
+CUST_0092,Friend,594.01,15,2024-05-08,Debit Card,In-store
+CUST_0092,Medical,364.04,1,2023-01-16,Credit Card,In-store
+CUST_0092,Transportation,269.99,4,2024-11-16,Digital Wallet,Online
+CUST_0092,Food,202.86,14,2024-08-07,Debit Card,In-store
+CUST_0092,Groceries,100.62,10,2023-12-28,Digital Wallet,Mobile App
+CUST_0092,Travel,60.06,3,2024-06-16,Cash,Mobile App
+CUST_0092,Subscriptions,41.79,4,2024-11-18,Digital Wallet,In-store
+CUST_0092,Personal Hygiene,5.4399999999999995,2,2024-12-02,Cash,Online
+CUST_0093,Shopping,37915.63,10,2023-11-29,Cash,Mobile App
+CUST_0093,Travel,1797.12,5,2024-11-17,Cash,Online
+CUST_0093,Housing,1588.43,3,2024-06-02,Debit Card,Mobile App
+CUST_0093,Gifts,1257.75,20,2024-07-26,Credit Card,In-store
+CUST_0093,Personal Hygiene,1178.17,18,2024-03-21,Digital Wallet,In-store
+CUST_0093,Friend,980.05,7,2024-04-10,Digital Wallet,In-store
+CUST_0093,Medical,620.8199999999999,4,2024-12-01,Digital Wallet,Online
+CUST_0093,Hobbies,120.47999999999999,5,2024-10-03,Credit Card,In-store
+CUST_0093,Subscriptions,118.46,5,2024-12-13,Digital Wallet,Mobile App
+CUST_0093,Food,112.81,9,2024-04-25,Cash,Online
+CUST_0093,Transportation,80.55999999999999,3,2024-12-14,Debit Card,In-store
+CUST_0093,Fitness,56.04,4,2024-04-05,Digital Wallet,Online
+CUST_0093,Groceries,39.22,7,2024-03-09,Credit Card,Online
+CUST_0094,Housing,9298.23,4,2023-12-16,Digital Wallet,Mobile App
+CUST_0094,Shopping,5617.05,20,2025-01-09,Debit Card,In-store
+CUST_0094,Travel,2365.75,7,2024-08-12,Credit Card,Mobile App
+CUST_0094,Fitness,2300.8,13,2024-09-26,Debit Card,Online
+CUST_0094,Personal Hygiene,2018.44,10,2024-10-23,Credit Card,In-store
+CUST_0094,Medical,815.43,2,2023-10-14,Debit Card,Mobile App
+CUST_0094,Food,505.39,20,2024-04-15,Debit Card,Mobile App
+CUST_0094,Transportation,498.06,4,2024-06-23,Debit Card,Online
+CUST_0094,Gifts,362.70000000000005,6,2024-11-21,Cash,Online
+CUST_0094,Hobbies,203.07999999999998,7,2024-10-26,Cash,In-store
+CUST_0094,Subscriptions,101.77000000000001,3,2024-09-24,Debit Card,Mobile App
+CUST_0094,Groceries,33.04,10,2024-03-08,Debit Card,Online
+CUST_0095,Shopping,72914.67,7,2024-10-17,Debit Card,In-store
+CUST_0095,Personal Hygiene,2429.35,11,2024-12-02,Debit Card,In-store
+CUST_0095,Housing,2397.89,6,2024-10-01,Digital Wallet,Mobile App
+CUST_0095,Medical,2062.28,5,2024-03-22,Credit Card,Mobile App
+CUST_0095,Friend,346.32,5,2024-04-18,Debit Card,Online
+CUST_0095,Travel,255.32,1,2023-05-08,Debit Card,Online
+CUST_0095,Transportation,174.34000000000003,3,2024-04-30,Digital Wallet,In-store
+CUST_0095,Food,148.17,12,2024-12-31,Credit Card,Online
+CUST_0095,Gifts,118.27,4,2024-02-27,Digital Wallet,Mobile App
+CUST_0095,Hobbies,106.78,3,2023-11-20,Digital Wallet,Mobile App
+CUST_0095,Groceries,70.62,13,2024-10-21,Credit Card,In-store
+CUST_0095,Subscriptions,28.549999999999997,3,2024-03-16,Credit Card,Mobile App
+CUST_0096,Housing,7309.589999999999,5,2024-06-17,Cash,In-store
+CUST_0096,Travel,3223.2,4,2024-07-20,Credit Card,Online
+CUST_0096,Friend,1583.5300000000002,19,2024-09-13,Credit Card,Online
+CUST_0096,Fitness,1008.87,14,2024-09-30,Digital Wallet,In-store
+CUST_0096,Shopping,474.54999999999995,3,2025-01-07,Credit Card,In-store
+CUST_0096,Transportation,409.26,4,2024-09-03,Digital Wallet,Online
+CUST_0096,Food,316.56,13,2023-11-24,Cash,Mobile App
+CUST_0096,Hobbies,232.56,4,2024-05-11,Debit Card,Online
+CUST_0096,Subscriptions,168.32,6,2024-05-18,Digital Wallet,Mobile App
+CUST_0096,Groceries,60.730000000000004,13,2024-10-17,Debit Card,Mobile App
+CUST_0096,Medical,51.18,1,2024-10-24,Cash,Online
+CUST_0096,Gifts,46.33,1,2024-03-18,Credit Card,Mobile App
+CUST_0096,Personal Hygiene,6.56,1,2023-06-04,Credit Card,Online
+CUST_0097,Shopping,314688.72,9,2024-08-10,Cash,Mobile App
+CUST_0097,Housing,4170.25,5,2024-11-15,Digital Wallet,Mobile App
+CUST_0097,Gifts,2475.76,21,2024-12-10,Cash,Online
+CUST_0097,Friend,1479.5500000000002,25,2024-12-13,Digital Wallet,Mobile App
+CUST_0097,Fitness,794.75,10,2024-11-21,Debit Card,Mobile App
+CUST_0097,Travel,716.4300000000001,4,2025-01-01,Digital Wallet,Mobile App
+CUST_0097,Medical,612.4,2,2024-12-11,Digital Wallet,Mobile App
+CUST_0097,Hobbies,463.15000000000003,16,2024-08-23,Digital Wallet,Online
+CUST_0097,Subscriptions,211.56,7,2025-01-03,Cash,Online
+CUST_0097,Food,166.96,10,2024-10-01,Cash,In-store
+CUST_0097,Groceries,135.37,13,2024-08-14,Credit Card,In-store
+CUST_0097,Transportation,55.25,1,2024-10-13,Digital Wallet,Online
+CUST_0097,Personal Hygiene,8.12,1,2024-11-13,Debit Card,In-store
+CUST_0098,Shopping,90392.62,10,2024-06-24,Debit Card,Mobile App
+CUST_0098,Fitness,3266.49,11,2024-12-23,Digital Wallet,Online
+CUST_0098,Transportation,2331.05,5,2024-11-24,Debit Card,Online
+CUST_0098,Medical,1784.55,4,2024-05-08,Digital Wallet,Online
+CUST_0098,Friend,1293.02,26,2024-11-27,Debit Card,Online
+CUST_0098,Personal Hygiene,957.32,31,2024-11-07,Digital Wallet,Mobile App
+CUST_0098,Travel,785.86,2,2023-11-24,Credit Card,In-store
+CUST_0098,Hobbies,635.58,17,2024-09-19,Debit Card,In-store
+CUST_0098,Housing,271.62,3,2024-03-06,Digital Wallet,Mobile App
+CUST_0098,Food,264.53,7,2024-06-07,Debit Card,Mobile App
+CUST_0098,Subscriptions,97.14000000000001,3,2023-12-25,Debit Card,Online
+CUST_0098,Groceries,45.94,11,2024-02-21,Credit Card,In-store
+CUST_0098,Gifts,23.61,1,2024-07-14,Digital Wallet,Mobile App
+CUST_0099,Shopping,70127.48,12,2024-11-28,Debit Card,Online
+CUST_0099,Housing,18862.42,6,2024-09-28,Debit Card,Online
+CUST_0099,Fitness,4334.64,18,2024-06-11,Debit Card,Online
+CUST_0099,Medical,2841.49,8,2025-01-07,Credit Card,Online
+CUST_0099,Transportation,1865.7,9,2024-12-21,Cash,In-store
+CUST_0099,Gifts,1465.1599999999999,7,2024-07-24,Digital Wallet,Mobile App
+CUST_0099,Travel,1407.98,3,2024-04-10,Cash,Online
+CUST_0099,Personal Hygiene,991.5,23,2024-11-23,Cash,Online
+CUST_0099,Friend,814.88,10,2024-05-15,Digital Wallet,Mobile App
+CUST_0099,Hobbies,577.91,14,2024-07-31,Debit Card,Mobile App
+CUST_0099,Groceries,282.21999999999997,30,2024-11-16,Credit Card,Online
+CUST_0099,Subscriptions,85.1,5,2024-09-10,Cash,Mobile App
+CUST_0099,Food,53.18,7,2024-09-21,Cash,In-store
+CUST_0100,Shopping,200289.18,9,2024-05-10,Cash,Online
+CUST_0100,Housing,7553.75,4,2024-06-27,Debit Card,Online
+CUST_0100,Travel,3521.43,5,2024-10-06,Cash,Online
+CUST_0100,Gifts,1783.49,12,2024-09-27,Cash,Mobile App
+CUST_0100,Fitness,1265.36,10,2024-01-17,Debit Card,Online
+CUST_0100,Medical,834.76,3,2024-06-30,Cash,Mobile App
+CUST_0100,Personal Hygiene,625.18,7,2024-05-29,Digital Wallet,In-store
+CUST_0100,Hobbies,337.58000000000004,6,2024-08-04,Digital Wallet,Mobile App
+CUST_0100,Friend,226.42999999999998,4,2025-01-01,Debit Card,In-store
+CUST_0100,Groceries,93.27,7,2024-09-08,Debit Card,Mobile App
+CUST_0100,Food,88.65,6,2024-03-31,Debit Card,Online
+CUST_0100,Transportation,69.75999999999999,3,2024-12-03,Cash,In-store
+CUST_0100,Subscriptions,37.83,3,2024-10-13,Debit Card,In-store
+CUST_0101,Fitness,2830.5800000000004,10,2025-01-07,Cash,In-store
+CUST_0101,Gifts,2153.12,20,2025-01-12,Cash,Online
+CUST_0101,Housing,1835.7199999999998,6,2024-10-01,Debit Card,Mobile App
+CUST_0101,Travel,1264.5900000000001,3,2024-08-07,Debit Card,Online
+CUST_0101,Shopping,1261.05,5,2023-12-17,Credit Card,In-store
+CUST_0101,Transportation,843.04,2,2023-08-11,Cash,Mobile App
+CUST_0101,Personal Hygiene,812.83,7,2024-09-29,Credit Card,Online
+CUST_0101,Medical,484.46,1,2023-09-04,Debit Card,In-store
+CUST_0101,Friend,292.64,4,2024-10-13,Digital Wallet,Online
+CUST_0101,Subscriptions,56.769999999999996,3,2024-12-10,Debit Card,In-store
+CUST_0101,Hobbies,45.63,2,2024-11-09,Digital Wallet,In-store
+CUST_0101,Groceries,22.01,8,2023-12-29,Cash,Online
+CUST_0101,Food,13.13,2,2024-05-18,Cash,Online
+CUST_0102,Shopping,166202.6,4,2023-03-02,Credit Card,Online
+CUST_0102,Medical,1921.08,4,2024-11-24,Debit Card,Mobile App
+CUST_0102,Friend,1012.8299999999999,15,2024-08-04,Cash,Online
+CUST_0102,Personal Hygiene,800.8000000000001,30,2024-10-23,Cash,Mobile App
+CUST_0102,Gifts,645.1899999999999,13,2024-11-04,Digital Wallet,In-store
+CUST_0102,Fitness,427.92,4,2024-12-31,Debit Card,Mobile App
+CUST_0102,Transportation,293.69,6,2024-05-12,Credit Card,In-store
+CUST_0102,Subscriptions,140.47,6,2024-11-23,Digital Wallet,Online
+CUST_0102,Food,132.5,5,2024-07-17,Debit Card,Online
+CUST_0102,Housing,112.93,2,2023-06-04,Credit Card,Online
+CUST_0102,Groceries,49.11,8,2025-01-05,Digital Wallet,Online
+CUST_0102,Travel,46.66,2,2023-12-23,Digital Wallet,Online
+CUST_0103,Shopping,243068.76,12,2024-12-25,Cash,Online
+CUST_0103,Fitness,3498.15,26,2024-11-25,Digital Wallet,In-store
+CUST_0103,Travel,1665.6899999999998,5,2024-12-05,Debit Card,Mobile App
+CUST_0103,Gifts,939.89,9,2024-03-27,Digital Wallet,Online
+CUST_0103,Personal Hygiene,839.42,16,2024-07-17,Cash,Mobile App
+CUST_0103,Housing,503.68,4,2024-05-23,Debit Card,Online
+CUST_0103,Hobbies,229.07999999999998,7,2024-11-29,Cash,Mobile App
+CUST_0103,Medical,202.39999999999998,2,2023-03-23,Cash,In-store
+CUST_0103,Transportation,132.69,5,2024-03-02,Credit Card,Mobile App
+CUST_0103,Friend,106.70000000000002,8,2024-12-17,Debit Card,Online
+CUST_0103,Subscriptions,93.33,4,2025-01-09,Debit Card,Mobile App
+CUST_0103,Groceries,42.33,4,2023-04-21,Cash,In-store
+CUST_0103,Food,29.09,3,2024-12-28,Cash,Mobile App
+CUST_0104,Shopping,462659.56,15,2024-12-02,Cash,Online
+CUST_0104,Housing,4255.46,4,2024-12-19,Cash,Online
+CUST_0104,Personal Hygiene,3150.48,14,2024-09-24,Digital Wallet,Mobile App
+CUST_0104,Travel,1710.55,3,2024-04-13,Cash,In-store
+CUST_0104,Transportation,852.41,8,2024-12-17,Digital Wallet,Mobile App
+CUST_0104,Medical,716.27,2,2023-05-23,Credit Card,Mobile App
+CUST_0104,Fitness,539.74,9,2024-11-01,Credit Card,In-store
+CUST_0104,Food,536.6,16,2024-08-24,Debit Card,Online
+CUST_0104,Friend,462.82,4,2023-01-20,Digital Wallet,Mobile App
+CUST_0104,Hobbies,321.88,11,2024-05-26,Credit Card,Online
+CUST_0104,Subscriptions,258.44,10,2025-01-07,Digital Wallet,Mobile App
+CUST_0104,Gifts,142.59,2,2023-12-30,Credit Card,Mobile App
+CUST_0104,Groceries,42.15,10,2024-10-01,Cash,Mobile App
+CUST_0105,Shopping,7629.110000000001,10,2024-11-13,Digital Wallet,Mobile App
+CUST_0105,Fitness,4808.17,21,2024-11-19,Credit Card,In-store
+CUST_0105,Friend,1331.8600000000001,22,2025-01-10,Cash,Mobile App
+CUST_0105,Travel,1107.6100000000001,2,2024-09-27,Digital Wallet,Online
+CUST_0105,Transportation,715.77,4,2024-11-12,Debit Card,In-store
+CUST_0105,Gifts,648.57,11,2024-10-31,Cash,Mobile App
+CUST_0105,Housing,509.83000000000004,4,2024-09-20,Digital Wallet,Online
+CUST_0105,Hobbies,478.59000000000003,15,2024-12-27,Credit Card,In-store
+CUST_0105,Medical,319.90999999999997,2,2024-12-21,Digital Wallet,In-store
+CUST_0105,Food,296.72,6,2024-08-11,Debit Card,Mobile App
+CUST_0105,Subscriptions,134.95999999999998,5,2024-09-27,Digital Wallet,In-store
+CUST_0105,Personal Hygiene,47.61,6,2024-07-01,Debit Card,Online
+CUST_0105,Groceries,18.32,5,2023-10-11,Debit Card,In-store
+CUST_0106,Shopping,45999.9,24,2024-09-07,Debit Card,Mobile App
+CUST_0106,Fitness,4060.8999999999996,16,2024-12-07,Credit Card,Online
+CUST_0106,Travel,3228.29,6,2024-11-07,Credit Card,Online
+CUST_0106,Personal Hygiene,2650.69,10,2025-01-11,Debit Card,Online
+CUST_0106,Medical,1206.37,2,2025-01-11,Credit Card,In-store
+CUST_0106,Transportation,1005.25,4,2024-11-27,Digital Wallet,In-store
+CUST_0106,Hobbies,820.5600000000001,19,2024-11-27,Cash,Mobile App
+CUST_0106,Housing,336.06,3,2023-12-22,Debit Card,In-store
+CUST_0106,Friend,332.67,7,2024-04-19,Credit Card,In-store
+CUST_0106,Gifts,269.06,9,2024-09-10,Digital Wallet,Mobile App
+CUST_0106,Food,166.17000000000002,4,2024-05-25,Digital Wallet,In-store
+CUST_0106,Subscriptions,85.76,3,2024-12-20,Digital Wallet,In-store
+CUST_0107,Shopping,66560.24,8,2024-03-03,Credit Card,Online
+CUST_0107,Medical,1854.3600000000001,5,2024-10-15,Debit Card,In-store
+CUST_0107,Friend,1214.8300000000002,17,2024-05-16,Digital Wallet,In-store
+CUST_0107,Fitness,688.56,11,2024-08-02,Digital Wallet,In-store
+CUST_0107,Housing,426.82,5,2024-09-14,Debit Card,Mobile App
+CUST_0107,Hobbies,391.65999999999997,12,2024-12-16,Cash,Mobile App
+CUST_0107,Food,183.3,15,2024-07-17,Cash,Mobile App
+CUST_0107,Groceries,148.77,11,2024-06-26,Cash,In-store
+CUST_0107,Personal Hygiene,133.89,15,2025-01-11,Credit Card,In-store
+CUST_0107,Subscriptions,125.36000000000001,6,2024-07-27,Credit Card,Online
+CUST_0107,Transportation,83.29,3,2024-07-15,Digital Wallet,Mobile App
+CUST_0107,Travel,13.18,1,2023-07-29,Digital Wallet,Mobile App
+CUST_0108,Shopping,12528.51,15,2025-01-04,Cash,In-store
+CUST_0108,Housing,3265.76,3,2024-06-07,Cash,Online
+CUST_0108,Fitness,2628.81,12,2024-08-26,Cash,Online
+CUST_0108,Medical,1933.8200000000002,4,2024-12-05,Digital Wallet,Mobile App
+CUST_0108,Travel,1865.57,3,2024-07-15,Cash,In-store
+CUST_0108,Friend,1537.0900000000001,10,2024-12-11,Cash,Online
+CUST_0108,Transportation,1353.33,8,2024-09-19,Cash,Online
+CUST_0108,Gifts,1106.93,12,2024-07-31,Cash,Mobile App
+CUST_0108,Hobbies,328.47,10,2024-09-06,Debit Card,Mobile App
+CUST_0108,Food,236.09,9,2024-11-07,Credit Card,Online
+CUST_0108,Groceries,134.32999999999998,18,2024-10-12,Debit Card,In-store
+CUST_0108,Personal Hygiene,64.24000000000001,6,2024-05-16,Debit Card,Online
+CUST_0108,Subscriptions,24.09,2,2023-02-28,Credit Card,In-store
+CUST_0109,Housing,6026.8,3,2024-05-08,Digital Wallet,In-store
+CUST_0109,Travel,2252.15,5,2025-01-09,Debit Card,Mobile App
+CUST_0109,Medical,2090.66,5,2024-10-26,Digital Wallet,In-store
+CUST_0109,Gifts,1366.3799999999999,9,2024-02-21,Debit Card,In-store
+CUST_0109,Personal Hygiene,1009.3399999999999,15,2024-10-10,Cash,In-store
+CUST_0109,Transportation,631.45,4,2024-07-18,Credit Card,In-store
+CUST_0109,Hobbies,585.52,13,2025-01-06,Digital Wallet,In-store
+CUST_0109,Shopping,508.31,5,2024-01-02,Credit Card,Mobile App
+CUST_0109,Friend,485.81,13,2024-09-29,Digital Wallet,In-store
+CUST_0109,Food,401.26,24,2024-09-29,Digital Wallet,In-store
+CUST_0109,Fitness,318.25,7,2024-09-11,Debit Card,In-store
+CUST_0109,Subscriptions,134.31,6,2024-09-05,Credit Card,In-store
+CUST_0109,Groceries,24.73,9,2024-06-24,Debit Card,Mobile App
+CUST_0110,Shopping,278293.64,20,2024-11-23,Digital Wallet,Online
+CUST_0110,Fitness,4932.43,21,2024-12-13,Cash,In-store
+CUST_0110,Housing,3539.58,1,2024-11-06,Debit Card,In-store
+CUST_0110,Medical,2562.38,5,2024-10-01,Credit Card,In-store
+CUST_0110,Personal Hygiene,2468.55,12,2023-10-21,Credit Card,Online
+CUST_0110,Friend,1560.02,20,2024-10-14,Digital Wallet,In-store
+CUST_0110,Travel,1360.07,4,2024-10-16,Debit Card,In-store
+CUST_0110,Food,1163.25,26,2024-10-30,Digital Wallet,In-store
+CUST_0110,Gifts,658.3100000000001,13,2024-01-19,Credit Card,In-store
+CUST_0110,Transportation,356.0,2,2023-07-15,Cash,In-store
+CUST_0110,Hobbies,163.3,4,2023-11-24,Cash,Online
+CUST_0110,Groceries,91.55,7,2024-09-10,Credit Card,In-store
+CUST_0110,Subscriptions,47.68,2,2023-12-25,Credit Card,Online
+CUST_0111,Housing,3633.72,5,2024-11-03,Cash,Online
+CUST_0111,Personal Hygiene,3475.17,10,2024-11-20,Debit Card,In-store
+CUST_0111,Gifts,2857.33,16,2024-11-27,Cash,In-store
+CUST_0111,Travel,1017.02,6,2024-11-19,Credit Card,Online
+CUST_0111,Friend,671.36,18,2025-01-03,Digital Wallet,In-store
+CUST_0111,Shopping,640.17,4,2025-01-09,Cash,Online
+CUST_0111,Fitness,200.72,6,2024-08-02,Cash,Mobile App
+CUST_0111,Medical,178.83,1,2023-11-26,Debit Card,Mobile App
+CUST_0111,Hobbies,163.64000000000001,9,2023-02-14,Debit Card,Mobile App
+CUST_0111,Groceries,156.44,14,2024-05-05,Debit Card,Mobile App
+CUST_0111,Transportation,144.07,3,2023-08-23,Debit Card,In-store
+CUST_0111,Subscriptions,66.86,6,2025-01-03,Debit Card,Online
+CUST_0111,Food,65.73,5,2025-01-13,Digital Wallet,In-store
+CUST_0112,Shopping,296934.5,18,2024-12-26,Debit Card,Online
+CUST_0112,Travel,3684.88,8,2024-06-30,Cash,Mobile App
+CUST_0112,Fitness,1285.97,11,2024-11-30,Cash,In-store
+CUST_0112,Transportation,1208.22,6,2024-10-25,Credit Card,Mobile App
+CUST_0112,Food,1169.73,23,2024-12-10,Credit Card,Online
+CUST_0112,Gifts,978.4,14,2024-11-07,Cash,Online
+CUST_0112,Hobbies,649.65,18,2024-11-18,Digital Wallet,Mobile App
+CUST_0112,Housing,645.0,7,2024-04-02,Cash,Mobile App
+CUST_0112,Medical,438.57,1,2023-12-17,Digital Wallet,Mobile App
+CUST_0112,Friend,177.65,10,2023-11-20,Cash,In-store
+CUST_0112,Subscriptions,80.25,3,2024-11-05,Digital Wallet,Mobile App
+CUST_0112,Groceries,36.63,14,2024-05-24,Credit Card,In-store
+CUST_0112,Personal Hygiene,30.82,8,2023-06-16,Credit Card,Online
+CUST_0113,Shopping,178352.52000000002,9,2024-11-02,Credit Card,In-store
+CUST_0113,Housing,6091.7,7,2024-12-15,Debit Card,In-store
+CUST_0113,Travel,2984.27,5,2024-12-19,Debit Card,In-store
+CUST_0113,Fitness,1619.43,7,2023-08-28,Debit Card,Online
+CUST_0113,Friend,1549.8500000000001,15,2024-09-21,Debit Card,Mobile App
+CUST_0113,Gifts,788.65,10,2024-12-22,Credit Card,Online
+CUST_0113,Medical,473.45,3,2024-08-20,Cash,Online
+CUST_0113,Food,398.45,16,2024-06-21,Digital Wallet,In-store
+CUST_0113,Transportation,377.53,3,2024-02-16,Credit Card,Mobile App
+CUST_0113,Hobbies,208.31,8,2024-04-04,Debit Card,Online
+CUST_0113,Subscriptions,46.31,1,2023-06-21,Cash,Mobile App
+CUST_0113,Groceries,40.56,10,2023-12-15,Debit Card,Mobile App
+CUST_0113,Personal Hygiene,39.68,7,2024-08-14,Digital Wallet,Online
+CUST_0114,Housing,5054.4800000000005,4,2024-08-02,Cash,Online
+CUST_0114,Shopping,4865.860000000001,7,2024-09-01,Debit Card,Mobile App
+CUST_0114,Gifts,4116.37,11,2024-08-22,Digital Wallet,In-store
+CUST_0114,Transportation,2306.82,5,2024-03-03,Credit Card,Mobile App
+CUST_0114,Medical,2129.79,6,2025-01-12,Digital Wallet,Online
+CUST_0114,Fitness,1564.67,8,2024-11-27,Credit Card,Online
+CUST_0114,Travel,1204.83,3,2024-09-02,Cash,Mobile App
+CUST_0114,Personal Hygiene,870.2900000000001,31,2024-12-19,Debit Card,In-store
+CUST_0114,Hobbies,658.59,11,2024-12-01,Debit Card,Mobile App
+CUST_0114,Friend,334.3,6,2023-10-30,Credit Card,Mobile App
+CUST_0114,Groceries,154.29,27,2025-01-10,Cash,Online
+CUST_0114,Subscriptions,146.52,6,2024-12-22,Cash,Mobile App
+CUST_0114,Food,6.08,3,2024-07-12,Digital Wallet,In-store
+CUST_0115,Shopping,63962.44,17,2024-10-19,Credit Card,In-store
+CUST_0115,Personal Hygiene,2520.82,20,2024-09-24,Cash,Mobile App
+CUST_0115,Housing,2389.5299999999997,3,2024-06-18,Debit Card,Online
+CUST_0115,Travel,1788.6100000000001,9,2024-10-29,Credit Card,Online
+CUST_0115,Friend,924.71,8,2024-12-27,Digital Wallet,Mobile App
+CUST_0115,Medical,921.3,2,2024-05-07,Digital Wallet,In-store
+CUST_0115,Transportation,618.24,4,2023-10-09,Digital Wallet,Mobile App
+CUST_0115,Fitness,552.36,3,2024-01-24,Digital Wallet,In-store
+CUST_0115,Hobbies,262.99,9,2024-03-28,Digital Wallet,Online
+CUST_0115,Gifts,214.25,8,2024-12-24,Credit Card,Online
+CUST_0115,Groceries,158.66,10,2024-10-26,Cash,In-store
+CUST_0115,Subscriptions,130.07,7,2025-01-02,Credit Card,In-store
+CUST_0115,Food,66.33,10,2024-02-15,Debit Card,Mobile App
+CUST_0116,Housing,10330.720000000001,5,2025-01-09,Cash,Mobile App
+CUST_0116,Shopping,4986.78,5,2024-08-18,Debit Card,Mobile App
+CUST_0116,Fitness,3680.02,25,2025-01-02,Debit Card,Online
+CUST_0116,Medical,2894.25,7,2024-06-23,Credit Card,Mobile App
+CUST_0116,Personal Hygiene,2669.52,21,2024-11-11,Digital Wallet,In-store
+CUST_0116,Travel,2107.07,5,2024-08-08,Credit Card,In-store
+CUST_0116,Gifts,1908.3,22,2024-11-05,Cash,In-store
+CUST_0116,Friend,1032.97,15,2024-11-04,Cash,In-store
+CUST_0116,Hobbies,899.36,17,2024-12-10,Debit Card,In-store
+CUST_0116,Food,221.59,14,2024-11-22,Cash,Online
+CUST_0116,Subscriptions,128.81,4,2023-07-09,Debit Card,In-store
+CUST_0116,Groceries,99.34,5,2024-10-09,Cash,Online
+CUST_0116,Transportation,3.68,1,2024-07-28,Credit Card,Online
+CUST_0117,Shopping,329444.92,20,2024-12-02,Debit Card,Online
+CUST_0117,Housing,4574.259999999999,3,2024-08-11,Credit Card,In-store
+CUST_0117,Medical,2424.29,7,2024-10-08,Credit Card,In-store
+CUST_0117,Gifts,1735.8400000000001,12,2023-08-02,Cash,Mobile App
+CUST_0117,Transportation,1230.42,7,2024-10-15,Debit Card,In-store
+CUST_0117,Fitness,848.6700000000001,11,2024-10-14,Cash,In-store
+CUST_0117,Travel,734.72,3,2024-09-22,Cash,In-store
+CUST_0117,Friend,388.26,8,2023-09-05,Debit Card,In-store
+CUST_0117,Hobbies,314.77000000000004,8,2024-06-23,Digital Wallet,Mobile App
+CUST_0117,Groceries,288.97,30,2024-11-17,Cash,Mobile App
+CUST_0117,Food,154.62,12,2024-11-11,Credit Card,Mobile App
+CUST_0117,Subscriptions,64.18,2,2024-07-05,Credit Card,In-store
+CUST_0117,Personal Hygiene,42.34,10,2024-12-12,Credit Card,In-store
+CUST_0118,Shopping,171548.07,8,2024-05-31,Digital Wallet,Mobile App
+CUST_0118,Fitness,3228.29,15,2024-09-02,Cash,Online
+CUST_0118,Medical,2464.33,6,2024-11-08,Debit Card,In-store
+CUST_0118,Travel,1993.29,6,2024-07-12,Debit Card,In-store
+CUST_0118,Housing,1604.98,3,2024-08-15,Cash,Mobile App
+CUST_0118,Gifts,988.81,11,2024-12-05,Cash,In-store
+CUST_0118,Transportation,700.5400000000001,7,2024-06-29,Debit Card,Mobile App
+CUST_0118,Friend,274.35,14,2024-12-02,Digital Wallet,In-store
+CUST_0118,Subscriptions,229.94,4,2025-01-09,Debit Card,Mobile App
+CUST_0118,Groceries,172.51000000000002,16,2024-08-26,Debit Card,Online
+CUST_0118,Hobbies,171.7,9,2025-01-08,Cash,In-store
+CUST_0118,Personal Hygiene,85.30000000000001,14,2024-02-21,Cash,Mobile App
+CUST_0119,Housing,13068.14,6,2024-11-10,Digital Wallet,Online
+CUST_0119,Shopping,3693.27,12,2024-09-20,Cash,Online
+CUST_0119,Fitness,2921.15,12,2024-12-21,Credit Card,Mobile App
+CUST_0119,Personal Hygiene,2330.94,28,2024-11-10,Credit Card,Mobile App
+CUST_0119,Medical,1107.31,2,2024-09-26,Debit Card,Mobile App
+CUST_0119,Friend,706.63,9,2024-06-24,Cash,Online
+CUST_0119,Gifts,555.64,10,2024-11-29,Cash,Mobile App
+CUST_0119,Travel,365.39,1,2024-10-15,Credit Card,In-store
+CUST_0119,Transportation,296.24,2,2024-02-23,Digital Wallet,In-store
+CUST_0119,Food,265.32,13,2024-09-19,Debit Card,Mobile App
+CUST_0119,Groceries,63.629999999999995,15,2024-08-26,Cash,Mobile App
+CUST_0120,Shopping,8953.68,21,2025-01-02,Debit Card,In-store
+CUST_0120,Personal Hygiene,4555.950000000001,15,2023-10-31,Debit Card,In-store
+CUST_0120,Housing,3739.1499999999996,3,2023-08-11,Digital Wallet,Mobile App
+CUST_0120,Medical,3183.3199999999997,7,2024-11-29,Digital Wallet,In-store
+CUST_0120,Gifts,2211.87,12,2024-04-15,Debit Card,Online
+CUST_0120,Fitness,2067.3199999999997,15,2024-11-15,Credit Card,Mobile App
+CUST_0120,Hobbies,626.5899999999999,16,2024-04-27,Cash,Mobile App
+CUST_0120,Friend,332.11999999999995,12,2024-12-19,Digital Wallet,In-store
+CUST_0120,Travel,308.12,2,2024-04-17,Digital Wallet,Mobile App
+CUST_0120,Subscriptions,208.0,9,2025-01-11,Debit Card,In-store
+CUST_0120,Transportation,141.92,4,2024-08-28,Debit Card,Mobile App
+CUST_0120,Food,29.689999999999998,8,2024-07-19,Credit Card,Mobile App
+CUST_0120,Groceries,23.4,8,2024-08-17,Credit Card,Mobile App
+CUST_0121,Shopping,255790.83000000002,15,2024-11-18,Cash,Mobile App
+CUST_0121,Fitness,3921.92,18,2024-06-05,Digital Wallet,Online
+CUST_0121,Travel,3244.21,6,2024-08-11,Digital Wallet,Mobile App
+CUST_0121,Gifts,2446.29,27,2024-12-19,Debit Card,Online
+CUST_0121,Personal Hygiene,1386.27,4,2025-01-13,Cash,Online
+CUST_0121,Friend,1272.0,26,2024-12-10,Debit Card,Online
+CUST_0121,Medical,899.04,3,2024-10-11,Debit Card,Online
+CUST_0121,Hobbies,761.22,19,2024-12-17,Cash,In-store
+CUST_0121,Housing,199.91,1,2024-02-07,Cash,Online
+CUST_0121,Subscriptions,140.08,7,2025-01-08,Credit Card,Mobile App
+CUST_0121,Groceries,89.85000000000001,15,2024-08-12,Debit Card,Mobile App
+CUST_0121,Food,60.089999999999996,5,2023-12-05,Credit Card,Online
+CUST_0121,Transportation,32.53,1,2023-03-06,Digital Wallet,Online
+CUST_0122,Housing,6856.63,4,2024-06-05,Debit Card,Online
+CUST_0122,Gifts,4096.68,18,2024-11-04,Credit Card,Online
+CUST_0122,Shopping,1092.46,8,2024-09-28,Debit Card,Mobile App
+CUST_0122,Transportation,771.6700000000001,3,2024-04-14,Cash,In-store
+CUST_0122,Medical,763.59,2,2024-05-20,Credit Card,Mobile App
+CUST_0122,Hobbies,605.55,12,2024-05-09,Credit Card,Online
+CUST_0122,Food,515.28,11,2024-10-07,Cash,Online
+CUST_0122,Friend,258.74,9,2024-06-30,Cash,Mobile App
+CUST_0122,Groceries,222.6,19,2024-09-08,Debit Card,Mobile App
+CUST_0122,Travel,185.24,3,2024-10-28,Debit Card,Online
+CUST_0122,Fitness,89.57,3,2023-11-29,Cash,In-store
+CUST_0122,Subscriptions,42.85,3,2024-03-21,Debit Card,Mobile App
+CUST_0122,Personal Hygiene,9.86,1,2024-11-21,Digital Wallet,In-store
+CUST_0123,Fitness,4931.49,26,2025-01-01,Cash,Mobile App
+CUST_0123,Shopping,4287.44,7,2024-08-08,Debit Card,In-store
+CUST_0123,Gifts,3148.46,21,2024-09-25,Debit Card,Online
+CUST_0123,Medical,2499.53,6,2024-07-26,Debit Card,Online
+CUST_0123,Travel,1128.55,3,2024-09-24,Cash,Mobile App
+CUST_0123,Friend,882.52,17,2024-09-26,Cash,In-store
+CUST_0123,Transportation,738.14,5,2024-04-15,Debit Card,Online
+CUST_0123,Hobbies,403.84000000000003,11,2024-05-23,Debit Card,Mobile App
+CUST_0123,Housing,121.21000000000001,2,2024-10-10,Digital Wallet,Online
+CUST_0123,Subscriptions,49.42,4,2024-05-26,Digital Wallet,Online
+CUST_0123,Groceries,44.76,11,2024-08-31,Cash,Online
+CUST_0123,Food,39.370000000000005,7,2024-08-25,Debit Card,In-store
+CUST_0123,Personal Hygiene,17.15,3,2024-07-10,Cash,Mobile App
+CUST_0124,Shopping,50552.03,9,2024-04-04,Cash,Mobile App
+CUST_0124,Housing,14757.970000000001,5,2024-10-06,Digital Wallet,Online
+CUST_0124,Gifts,2688.2699999999995,18,2024-12-08,Debit Card,Online
+CUST_0124,Travel,2612.6000000000004,7,2024-10-23,Digital Wallet,In-store
+CUST_0124,Transportation,1303.25,4,2024-05-20,Cash,Mobile App
+CUST_0124,Medical,243.84,1,2024-04-27,Digital Wallet,Mobile App
+CUST_0124,Friend,226.17,8,2024-10-31,Digital Wallet,In-store
+CUST_0124,Subscriptions,93.7,4,2024-07-18,Debit Card,Online
+CUST_0124,Personal Hygiene,68.45,15,2024-11-13,Cash,Mobile App
+CUST_0124,Food,65.74,12,2024-11-22,Credit Card,Online
+CUST_0124,Hobbies,48.27,2,2024-11-09,Credit Card,Online
+CUST_0124,Groceries,31.25,6,2024-10-12,Debit Card,Mobile App
+CUST_0124,Fitness,15.56,1,2024-10-20,Credit Card,Mobile App
+CUST_0125,Shopping,265014.34,16,2024-10-15,Credit Card,Mobile App
+CUST_0125,Personal Hygiene,3794.22,14,2024-10-16,Debit Card,In-store
+CUST_0125,Medical,2965.12,7,2024-12-20,Debit Card,Mobile App
+CUST_0125,Fitness,1998.33,19,2025-01-04,Digital Wallet,In-store
+CUST_0125,Travel,1637.54,3,2023-12-07,Cash,In-store
+CUST_0125,Housing,1196.01,3,2024-07-19,Digital Wallet,In-store
+CUST_0125,Transportation,834.2200000000001,5,2024-05-19,Cash,Mobile App
+CUST_0125,Food,402.65999999999997,9,2025-01-03,Credit Card,Mobile App
+CUST_0125,Gifts,231.33,5,2024-09-16,Digital Wallet,Mobile App
+CUST_0125,Subscriptions,223.66,7,2025-01-04,Credit Card,Online
+CUST_0125,Friend,200.11,3,2023-09-15,Cash,Online
+CUST_0125,Hobbies,100.22,4,2024-03-20,Credit Card,Mobile App
+CUST_0125,Groceries,84.98,12,2024-06-24,Debit Card,Online
+CUST_0126,Housing,10041.51,7,2024-12-25,Credit Card,Online
+CUST_0126,Shopping,7943.83,14,2025-01-02,Cash,Mobile App
+CUST_0126,Travel,2499.77,6,2024-07-21,Digital Wallet,Online
+CUST_0126,Transportation,1504.42,2,2025-01-05,Cash,Online
+CUST_0126,Friend,1241.3700000000001,12,2024-11-02,Digital Wallet,Mobile App
+CUST_0126,Fitness,1213.44,15,2024-03-27,Digital Wallet,In-store
+CUST_0126,Medical,807.36,2,2024-03-31,Credit Card,In-store
+CUST_0126,Personal Hygiene,566.38,7,2023-12-27,Credit Card,Mobile App
+CUST_0126,Hobbies,480.9,19,2024-06-01,Credit Card,Online
+CUST_0126,Gifts,246.87,5,2024-11-20,Credit Card,In-store
+CUST_0126,Food,147.78,18,2024-12-09,Debit Card,Mobile App
+CUST_0126,Groceries,101.2,15,2024-12-14,Credit Card,In-store
+CUST_0126,Subscriptions,88.79,5,2023-12-17,Cash,Online
+CUST_0127,Shopping,5986.530000000001,2,2024-05-14,Digital Wallet,Online
+CUST_0127,Travel,1900.68,2,2024-06-16,Debit Card,Online
+CUST_0127,Transportation,1234.23,5,2024-06-21,Credit Card,In-store
+CUST_0127,Medical,1135.96,3,2024-01-28,Credit Card,In-store
+CUST_0127,Gifts,1098.26,13,2024-02-01,Digital Wallet,In-store
+CUST_0127,Friend,622.71,13,2024-09-08,Credit Card,In-store
+CUST_0127,Housing,533.28,6,2024-08-31,Credit Card,In-store
+CUST_0127,Food,491.18,13,2023-11-16,Debit Card,Online
+CUST_0127,Hobbies,396.14,9,2023-12-13,Credit Card,Online
+CUST_0127,Fitness,270.77,2,2024-09-07,Cash,Mobile App
+CUST_0127,Subscriptions,102.82,6,2024-08-07,Cash,Online
+CUST_0127,Groceries,24.220000000000002,6,2024-01-04,Digital Wallet,In-store
+CUST_0127,Personal Hygiene,7.43,2,2024-05-13,Credit Card,Mobile App
+CUST_0128,Shopping,38659.88,1,2023-10-02,Credit Card,Online
+CUST_0128,Personal Hygiene,8231.25,29,2024-08-13,Digital Wallet,In-store
+CUST_0128,Housing,5483.67,5,2024-07-21,Digital Wallet,In-store
+CUST_0128,Friend,2202.86,21,2024-12-15,Credit Card,In-store
+CUST_0128,Fitness,1853.96,19,2024-11-30,Debit Card,Online
+CUST_0128,Travel,1332.15,3,2024-07-25,Cash,In-store
+CUST_0128,Medical,1005.88,3,2024-12-19,Debit Card,In-store
+CUST_0128,Gifts,843.29,16,2024-10-29,Credit Card,Mobile App
+CUST_0128,Hobbies,513.1800000000001,12,2025-01-13,Debit Card,Online
+CUST_0128,Transportation,138.22,4,2024-11-13,Debit Card,Online
+CUST_0128,Subscriptions,116.32000000000001,5,2024-11-27,Cash,Mobile App
+CUST_0128,Food,101.18,6,2024-07-11,Cash,Online
+CUST_0128,Groceries,17.689999999999998,7,2024-09-16,Debit Card,Mobile App
+CUST_0129,Shopping,261419.46,28,2024-11-12,Debit Card,Online
+CUST_0129,Housing,4781.29,7,2024-10-01,Credit Card,Online
+CUST_0129,Gifts,2542.78,35,2025-01-09,Debit Card,In-store
+CUST_0129,Medical,2062.21,5,2024-12-30,Cash,In-store
+CUST_0129,Fitness,1585.9,11,2024-11-21,Cash,In-store
+CUST_0129,Transportation,652.76,4,2024-09-25,Credit Card,Mobile App
+CUST_0129,Friend,642.15,9,2024-12-05,Cash,In-store
+CUST_0129,Food,360.38,5,2024-11-04,Digital Wallet,Mobile App
+CUST_0129,Hobbies,148.31,4,2024-04-10,Digital Wallet,Mobile App
+CUST_0129,Personal Hygiene,66.27,11,2024-08-04,Digital Wallet,In-store
+CUST_0129,Subscriptions,60.470000000000006,2,2024-08-06,Credit Card,In-store
+CUST_0129,Travel,44.1,1,2023-04-17,Digital Wallet,Mobile App
+CUST_0129,Groceries,32.61,8,2023-12-10,Cash,Mobile App
+CUST_0130,Housing,7741.58,4,2024-04-19,Digital Wallet,Online
+CUST_0130,Fitness,5477.27,17,2024-09-24,Cash,Mobile App
+CUST_0130,Shopping,4348.87,7,2024-08-13,Credit Card,In-store
+CUST_0130,Travel,2123.17,4,2024-06-08,Debit Card,Mobile App
+CUST_0130,Medical,1952.18,5,2024-09-14,Debit Card,In-store
+CUST_0130,Friend,1733.56,19,2024-09-25,Debit Card,In-store
+CUST_0130,Personal Hygiene,1483.81,16,2024-11-08,Credit Card,Mobile App
+CUST_0130,Transportation,593.36,3,2024-10-21,Cash,In-store
+CUST_0130,Hobbies,424.97,11,2024-12-14,Credit Card,In-store
+CUST_0130,Gifts,340.3,4,2023-11-19,Credit Card,In-store
+CUST_0130,Subscriptions,83.8,3,2025-01-05,Cash,Online
+CUST_0130,Food,76.71,7,2024-06-17,Credit Card,Mobile App
+CUST_0130,Groceries,30.88,5,2024-03-30,Debit Card,Online
+CUST_0131,Housing,5412.81,4,2024-09-14,Debit Card,In-store
+CUST_0131,Medical,4145.71,7,2024-11-23,Digital Wallet,Mobile App
+CUST_0131,Gifts,2645.88,10,2024-04-07,Credit Card,In-store
+CUST_0131,Transportation,1150.75,7,2024-08-12,Cash,Online
+CUST_0131,Travel,1133.73,5,2024-03-10,Digital Wallet,Online
+CUST_0131,Shopping,857.7299999999999,3,2024-12-23,Cash,Online
+CUST_0131,Friend,783.67,6,2024-10-29,Digital Wallet,Mobile App
+CUST_0131,Fitness,645.03,4,2023-12-12,Debit Card,Online
+CUST_0131,Hobbies,213.98,6,2024-09-22,Debit Card,Mobile App
+CUST_0131,Groceries,100.39,19,2024-11-19,Digital Wallet,Mobile App
+CUST_0131,Personal Hygiene,54.61,8,2024-04-29,Credit Card,Mobile App
+CUST_0131,Subscriptions,53.0,2,2024-05-09,Digital Wallet,In-store
+CUST_0132,Housing,5253.16,6,2024-11-07,Digital Wallet,In-store
+CUST_0132,Shopping,2945.7299999999996,7,2024-04-19,Debit Card,Online
+CUST_0132,Travel,2282.2999999999997,6,2024-12-08,Debit Card,Mobile App
+CUST_0132,Fitness,1195.63,13,2024-12-23,Digital Wallet,Online
+CUST_0132,Hobbies,992.78,20,2024-05-23,Digital Wallet,In-store
+CUST_0132,Medical,794.0,3,2024-09-22,Cash,Mobile App
+CUST_0132,Personal Hygiene,334.59,15,2023-10-28,Cash,Mobile App
+CUST_0132,Transportation,156.43,2,2024-02-14,Credit Card,Mobile App
+CUST_0132,Subscriptions,133.3,4,2024-12-27,Debit Card,In-store
+CUST_0132,Friend,108.05,1,2023-08-29,Cash,In-store
+CUST_0132,Gifts,84.16,3,2023-12-20,Cash,Mobile App
+CUST_0132,Groceries,77.91,11,2024-01-27,Digital Wallet,Online
+CUST_0132,Food,60.63,3,2024-09-14,Digital Wallet,Mobile App
+CUST_0133,Shopping,243114.58,20,2024-01-04,Cash,In-store
+CUST_0133,Housing,6032.62,3,2024-09-22,Cash,In-store
+CUST_0133,Medical,4214.05,8,2024-04-30,Credit Card,In-store
+CUST_0133,Travel,3191.2799999999997,6,2024-10-23,Cash,In-store
+CUST_0133,Gifts,1054.64,10,2024-11-26,Credit Card,In-store
+CUST_0133,Transportation,908.17,3,2024-10-17,Cash,Online
+CUST_0133,Fitness,866.46,10,2024-08-18,Digital Wallet,Mobile App
+CUST_0133,Friend,806.89,10,2024-10-05,Digital Wallet,Mobile App
+CUST_0133,Personal Hygiene,691.3100000000001,19,2024-08-27,Cash,Online
+CUST_0133,Hobbies,410.46000000000004,7,2024-12-02,Debit Card,In-store
+CUST_0133,Food,201.79,16,2024-12-30,Cash,In-store
+CUST_0133,Subscriptions,171.82,4,2024-05-22,Credit Card,In-store
+CUST_0133,Groceries,56.41,11,2025-01-03,Cash,Online
+CUST_0134,Shopping,156610.88,17,2024-06-26,Credit Card,Online
+CUST_0134,Gifts,959.87,20,2024-08-13,Cash,In-store
+CUST_0134,Fitness,857.99,3,2024-10-01,Digital Wallet,Mobile App
+CUST_0134,Travel,532.34,2,2023-12-14,Cash,In-store
+CUST_0134,Medical,273.93,2,2023-11-28,Digital Wallet,Online
+CUST_0134,Hobbies,234.55,5,2024-07-21,Cash,Online
+CUST_0134,Food,172.74,20,2024-12-15,Credit Card,Mobile App
+CUST_0134,Friend,169.62,6,2024-05-17,Credit Card,Mobile App
+CUST_0134,Subscriptions,139.37,4,2024-12-23,Cash,Mobile App
+CUST_0134,Groceries,105.13,13,2024-03-10,Debit Card,Online
+CUST_0134,Personal Hygiene,37.4,8,2025-01-04,Credit Card,Online
+CUST_0134,Transportation,24.880000000000003,3,2024-07-25,Debit Card,Online
+CUST_0135,Shopping,24257.559999999998,6,2023-11-14,Digital Wallet,Mobile App
+CUST_0135,Housing,2676.48,4,2024-06-21,Credit Card,Mobile App
+CUST_0135,Travel,1392.75,5,2024-12-12,Digital Wallet,Online
+CUST_0135,Medical,1081.01,4,2024-05-24,Cash,In-store
+CUST_0135,Transportation,936.63,4,2024-05-23,Debit Card,In-store
+CUST_0135,Gifts,924.78,2,2024-07-08,Debit Card,Mobile App
+CUST_0135,Fitness,578.13,12,2024-05-18,Cash,In-store
+CUST_0135,Friend,278.44,3,2023-06-29,Credit Card,Online
+CUST_0135,Subscriptions,220.2,6,2024-10-17,Debit Card,Online
+CUST_0135,Personal Hygiene,126.7,20,2024-09-06,Debit Card,Online
+CUST_0135,Food,120.83,9,2024-06-22,Debit Card,In-store
+CUST_0135,Hobbies,50.9,2,2024-12-05,Cash,Mobile App
+CUST_0135,Groceries,40.19,3,2024-08-08,Credit Card,In-store
+CUST_0136,Shopping,176930.25,15,2024-04-19,Cash,In-store
+CUST_0136,Personal Hygiene,5013.89,12,2024-12-03,Credit Card,Mobile App
+CUST_0136,Housing,3821.95,2,2024-08-16,Cash,In-store
+CUST_0136,Medical,2765.06,6,2024-09-01,Debit Card,Online
+CUST_0136,Transportation,1971.4,9,2024-12-23,Cash,Mobile App
+CUST_0136,Travel,1475.54,3,2024-08-16,Cash,In-store
+CUST_0136,Friend,1302.6,23,2024-09-20,Digital Wallet,In-store
+CUST_0136,Fitness,1095.52,10,2024-09-28,Digital Wallet,Mobile App
+CUST_0136,Gifts,1053.3899999999999,14,2023-12-18,Digital Wallet,In-store
+CUST_0136,Hobbies,500.74,9,2024-08-28,Debit Card,In-store
+CUST_0136,Food,227.8,16,2023-11-02,Debit Card,Online
+CUST_0136,Groceries,48.91,8,2024-12-16,Debit Card,Online
+CUST_0136,Subscriptions,11.26,1,2024-04-01,Digital Wallet,In-store
+CUST_0137,Shopping,349905.66,17,2024-08-01,Digital Wallet,Mobile App
+CUST_0137,Personal Hygiene,5198.03,16,2024-11-10,Credit Card,In-store
+CUST_0137,Housing,4239.59,5,2024-07-14,Credit Card,Online
+CUST_0137,Travel,3196.91,9,2024-08-30,Debit Card,Mobile App
+CUST_0137,Medical,1513.1100000000001,3,2024-08-27,Digital Wallet,In-store
+CUST_0137,Friend,1161.03,20,2024-07-05,Cash,Mobile App
+CUST_0137,Hobbies,628.13,21,2024-09-04,Cash,In-store
+CUST_0137,Fitness,488.84000000000003,6,2024-03-01,Debit Card,Online
+CUST_0137,Gifts,395.14,10,2024-05-20,Digital Wallet,Online
+CUST_0137,Food,218.68,15,2024-12-15,Credit Card,In-store
+CUST_0137,Groceries,162.86,15,2024-10-25,Digital Wallet,Online
+CUST_0137,Subscriptions,50.300000000000004,2,2023-11-07,Debit Card,Online
+CUST_0137,Transportation,2.98,1,2023-08-04,Cash,Online
+CUST_0138,Shopping,18165.68,5,2024-09-06,Credit Card,Online
+CUST_0138,Housing,15782.91,7,2024-11-10,Cash,Mobile App
+CUST_0138,Gifts,1890.29,7,2024-07-19,Cash,Online
+CUST_0138,Travel,1703.43,5,2024-01-27,Credit Card,Online
+CUST_0138,Medical,1369.03,2,2023-10-20,Credit Card,Online
+CUST_0138,Fitness,1182.81,10,2025-01-13,Cash,Mobile App
+CUST_0138,Personal Hygiene,947.71,16,2024-05-22,Debit Card,Mobile App
+CUST_0138,Food,498.46,15,2024-05-27,Cash,In-store
+CUST_0138,Hobbies,448.55999999999995,12,2024-06-05,Credit Card,In-store
+CUST_0138,Friend,185.37,7,2025-01-09,Digital Wallet,Online
+CUST_0138,Groceries,168.60999999999999,22,2024-08-19,Digital Wallet,Online
+CUST_0138,Subscriptions,46.089999999999996,3,2024-12-04,Debit Card,Online
+CUST_0138,Transportation,6.22,1,2023-06-20,Cash,Mobile App
+CUST_0139,Shopping,221189.82,12,2024-11-16,Digital Wallet,Mobile App
+CUST_0139,Housing,4672.85,4,2024-10-05,Cash,In-store
+CUST_0139,Travel,3581.85,9,2024-12-25,Credit Card,In-store
+CUST_0139,Transportation,1660.67,6,2024-12-09,Debit Card,In-store
+CUST_0139,Medical,1296.8,3,2024-03-27,Debit Card,In-store
+CUST_0139,Hobbies,869.52,21,2024-07-22,Credit Card,Online
+CUST_0139,Fitness,596.8,8,2024-04-09,Digital Wallet,In-store
+CUST_0139,Gifts,267.23,5,2025-01-11,Debit Card,Mobile App
+CUST_0139,Food,193.20999999999998,13,2024-07-22,Digital Wallet,Mobile App
+CUST_0139,Subscriptions,123.9,3,2024-11-25,Credit Card,Online
+CUST_0139,Friend,58.79,2,2024-02-19,Digital Wallet,In-store
+CUST_0139,Personal Hygiene,55.68,9,2024-11-16,Credit Card,Online
+CUST_0139,Groceries,28.52,6,2024-10-30,Debit Card,In-store
+CUST_0140,Shopping,107455.95000000001,15,2024-10-31,Cash,Mobile App
+CUST_0140,Housing,11901.1,3,2024-10-13,Debit Card,Online
+CUST_0140,Gifts,2116.68,22,2023-10-27,Debit Card,In-store
+CUST_0140,Travel,1471.97,2,2024-07-27,Debit Card,In-store
+CUST_0140,Fitness,1088.3700000000001,14,2024-07-20,Debit Card,In-store
+CUST_0140,Medical,688.52,2,2024-08-17,Debit Card,In-store
+CUST_0140,Friend,627.81,9,2024-12-17,Digital Wallet,In-store
+CUST_0140,Hobbies,439.77,10,2023-05-07,Cash,Online
+CUST_0140,Food,401.84,20,2024-12-11,Debit Card,In-store
+CUST_0140,Personal Hygiene,195.7,30,2024-12-25,Cash,In-store
+CUST_0140,Subscriptions,56.13,1,2024-10-19,Digital Wallet,Online
+CUST_0140,Groceries,45.2,6,2024-11-22,Credit Card,Mobile App
+CUST_0140,Transportation,2.56,1,2023-12-29,Digital Wallet,In-store
+CUST_0141,Shopping,295479.25,14,2024-09-20,Debit Card,Online
+CUST_0141,Travel,3313.8500000000004,6,2024-08-04,Credit Card,Online
+CUST_0141,Fitness,3131.27,20,2024-10-30,Cash,In-store
+CUST_0141,Personal Hygiene,1881.32,6,2024-06-29,Debit Card,In-store
+CUST_0141,Medical,1585.1399999999999,4,2024-05-26,Digital Wallet,Online
+CUST_0141,Gifts,597.97,13,2024-04-17,Digital Wallet,In-store
+CUST_0141,Food,426.03999999999996,12,2024-12-25,Credit Card,Online
+CUST_0141,Friend,366.02,10,2024-07-19,Debit Card,In-store
+CUST_0141,Hobbies,178.45,6,2024-08-14,Credit Card,Online
+CUST_0141,Transportation,113.89,2,2024-07-11,Credit Card,Online
+CUST_0141,Groceries,89.13,14,2024-11-17,Debit Card,Mobile App
+CUST_0141,Subscriptions,65.92,4,2023-06-13,Digital Wallet,Mobile App
+CUST_0142,Shopping,218738.28,14,2024-04-22,Cash,Online
+CUST_0142,Gifts,4271.5,26,2024-11-12,Debit Card,Mobile App
+CUST_0142,Personal Hygiene,2914.68,30,2024-09-01,Digital Wallet,In-store
+CUST_0142,Fitness,2699.3,22,2025-01-06,Credit Card,Online
+CUST_0142,Friend,2455.94,21,2023-12-29,Digital Wallet,Mobile App
+CUST_0142,Medical,1665.43,5,2024-12-17,Digital Wallet,Online
+CUST_0142,Travel,1621.0199999999998,5,2025-01-12,Credit Card,Online
+CUST_0142,Hobbies,791.32,16,2024-12-18,Debit Card,In-store
+CUST_0142,Food,400.08,10,2024-10-11,Digital Wallet,Mobile App
+CUST_0142,Groceries,324.64,34,2024-06-08,Digital Wallet,Mobile App
+CUST_0142,Housing,215.59,2,2024-12-15,Credit Card,Online
+CUST_0142,Subscriptions,167.3,4,2024-06-16,Cash,Online
+CUST_0142,Transportation,51.269999999999996,3,2024-12-08,Debit Card,Mobile App
+CUST_0143,Housing,5891.6900000000005,10,2024-12-23,Cash,Online
+CUST_0143,Personal Hygiene,1908.46,6,2025-01-08,Credit Card,In-store
+CUST_0143,Travel,1579.63,2,2024-03-02,Cash,In-store
+CUST_0143,Hobbies,1096.84,24,2024-11-24,Debit Card,In-store
+CUST_0143,Transportation,1039.3400000000001,6,2025-01-06,Digital Wallet,Mobile App
+CUST_0143,Medical,759.51,3,2024-12-31,Cash,Online
+CUST_0143,Shopping,722.69,5,2024-08-25,Debit Card,Mobile App
+CUST_0143,Friend,472.38,13,2024-08-11,Cash,In-store
+CUST_0143,Food,378.18,18,2025-01-05,Digital Wallet,Online
+CUST_0143,Fitness,320.7,11,2024-05-28,Credit Card,In-store
+CUST_0143,Gifts,248.9,3,2024-12-24,Credit Card,Online
+CUST_0143,Subscriptions,82.69,4,2024-12-08,Credit Card,In-store
+CUST_0143,Groceries,31.13,8,2023-09-27,Credit Card,Mobile App
+CUST_0144,Gifts,3071.26,22,2024-11-03,Cash,Online
+CUST_0144,Medical,2543.5499999999997,7,2024-08-21,Digital Wallet,Mobile App
+CUST_0144,Travel,1736.27,3,2024-12-12,Cash,Mobile App
+CUST_0144,Shopping,1723.4499999999998,7,2023-02-15,Debit Card,In-store
+CUST_0144,Friend,1206.1399999999999,10,2024-05-22,Debit Card,In-store
+CUST_0144,Fitness,590.11,11,2024-04-28,Cash,In-store
+CUST_0144,Hobbies,480.88,5,2024-05-19,Digital Wallet,In-store
+CUST_0144,Housing,472.43,5,2025-01-12,Digital Wallet,Mobile App
+CUST_0144,Transportation,362.56,3,2024-06-15,Digital Wallet,Mobile App
+CUST_0144,Personal Hygiene,338.41,10,2024-06-07,Digital Wallet,Online
+CUST_0144,Groceries,161.3,19,2025-01-03,Debit Card,In-store
+CUST_0144,Food,71.42,5,2024-10-03,Debit Card,Mobile App
+CUST_0144,Subscriptions,34.26,3,2025-01-12,Credit Card,Mobile App
+CUST_0145,Shopping,51315.32,26,2024-11-13,Cash,Online
+CUST_0145,Housing,3533.73,2,2024-12-03,Cash,Online
+CUST_0145,Travel,1483.2600000000002,3,2023-12-03,Digital Wallet,In-store
+CUST_0145,Transportation,779.21,4,2024-01-02,Debit Card,In-store
+CUST_0145,Hobbies,746.32,18,2024-12-07,Cash,Mobile App
+CUST_0145,Gifts,502.42,9,2023-11-17,Credit Card,In-store
+CUST_0145,Friend,339.58000000000004,12,2024-06-17,Cash,Online
+CUST_0145,Fitness,327.4,10,2024-09-30,Cash,In-store
+CUST_0145,Subscriptions,83.23,3,2024-06-02,Cash,Online
+CUST_0145,Personal Hygiene,67.54,10,2024-03-25,Cash,Mobile App
+CUST_0145,Groceries,46.33,10,2024-01-13,Debit Card,Online
+CUST_0145,Food,35.42,9,2024-06-27,Digital Wallet,Online
+CUST_0146,Shopping,57756.86,11,2024-12-13,Debit Card,Online
+CUST_0146,Medical,3258.63,7,2024-08-06,Digital Wallet,Mobile App
+CUST_0146,Fitness,1781.2600000000002,10,2024-12-10,Credit Card,Mobile App
+CUST_0146,Travel,1498.09,4,2024-08-16,Cash,Online
+CUST_0146,Friend,630.3,5,2024-10-30,Digital Wallet,Online
+CUST_0146,Transportation,612.74,1,2023-12-21,Credit Card,In-store
+CUST_0146,Housing,292.48,2,2024-06-14,Cash,In-store
+CUST_0146,Hobbies,210.16,5,2024-01-19,Debit Card,Online
+CUST_0146,Subscriptions,192.57999999999998,4,2024-08-23,Debit Card,Mobile App
+CUST_0146,Personal Hygiene,137.39,23,2025-01-06,Credit Card,Online
+CUST_0146,Food,52.77,12,2024-02-08,Digital Wallet,In-store
+CUST_0146,Groceries,27.25,6,2024-12-13,Digital Wallet,Mobile App
+CUST_0147,Shopping,58841.94,17,2024-07-07,Cash,In-store
+CUST_0147,Housing,12922.369999999999,6,2024-12-20,Debit Card,Online
+CUST_0147,Medical,2356.89,6,2024-08-26,Credit Card,In-store
+CUST_0147,Friend,1476.91,13,2024-11-07,Credit Card,Mobile App
+CUST_0147,Fitness,883.1,17,2024-11-14,Debit Card,Mobile App
+CUST_0147,Travel,556.82,1,2024-06-08,Digital Wallet,Mobile App
+CUST_0147,Transportation,542.01,2,2024-05-18,Digital Wallet,In-store
+CUST_0147,Hobbies,280.74,8,2024-08-15,Digital Wallet,In-store
+CUST_0147,Food,245.63,11,2024-04-16,Cash,Online
+CUST_0147,Gifts,167.47,3,2023-10-01,Credit Card,Online
+CUST_0147,Subscriptions,70.71,3,2024-12-23,Cash,Mobile App
+CUST_0147,Personal Hygiene,44.65,8,2024-03-04,Cash,Mobile App
+CUST_0147,Groceries,10.89,3,2024-09-14,Credit Card,In-store
+CUST_0148,Shopping,304740.35,18,2024-12-30,Cash,Online
+CUST_0148,Fitness,2496.28,12,2024-09-25,Debit Card,In-store
+CUST_0148,Travel,1978.89,2,2024-01-22,Digital Wallet,Mobile App
+CUST_0148,Gifts,1476.9199999999998,11,2024-11-11,Digital Wallet,In-store
+CUST_0148,Transportation,1305.3500000000001,9,2024-12-31,Credit Card,Online
+CUST_0148,Medical,1292.19,4,2024-10-30,Credit Card,Online
+CUST_0148,Friend,1095.14,13,2024-11-13,Debit Card,Mobile App
+CUST_0148,Housing,440.13,6,2024-12-12,Digital Wallet,Mobile App
+CUST_0148,Hobbies,173.81,9,2023-12-10,Credit Card,Online
+CUST_0148,Subscriptions,172.42000000000002,7,2024-08-17,Debit Card,In-store
+CUST_0148,Food,152.01999999999998,15,2024-03-19,Debit Card,Mobile App
+CUST_0148,Personal Hygiene,112.36,12,2024-07-08,Debit Card,Mobile App
+CUST_0148,Groceries,91.06,13,2024-08-10,Credit Card,Mobile App
+CUST_0149,Shopping,176336.39,15,2024-03-06,Debit Card,Online
+CUST_0149,Housing,10468.86,4,2024-11-21,Credit Card,In-store
+CUST_0149,Personal Hygiene,2045.3899999999999,16,2024-08-01,Debit Card,Online
+CUST_0149,Fitness,1721.6299999999999,21,2024-11-23,Debit Card,Mobile App
+CUST_0149,Travel,1247.13,3,2024-08-26,Cash,Mobile App
+CUST_0149,Transportation,739.44,5,2024-07-23,Digital Wallet,Mobile App
+CUST_0149,Friend,678.1899999999999,8,2024-12-20,Debit Card,In-store
+CUST_0149,Hobbies,542.91,13,2024-12-27,Debit Card,Mobile App
+CUST_0149,Medical,302.9,3,2024-02-28,Debit Card,In-store
+CUST_0149,Groceries,73.12,9,2024-11-02,Cash,Online
+CUST_0149,Gifts,70.61,4,2024-07-26,Digital Wallet,Online
+CUST_0149,Food,57.91,14,2024-08-19,Cash,Online
+CUST_0150,Housing,6515.19,4,2024-11-04,Digital Wallet,Online
+CUST_0150,Fitness,3873.39,24,2024-09-08,Digital Wallet,Online
+CUST_0150,Gifts,2548.2,25,2024-12-24,Digital Wallet,Online
+CUST_0150,Transportation,1460.94,4,2024-12-11,Debit Card,Online
+CUST_0150,Shopping,1259.43,9,2024-05-02,Credit Card,In-store
+CUST_0150,Friend,1236.2,7,2024-12-25,Cash,Online
+CUST_0150,Medical,935.19,4,2024-02-19,Cash,In-store
+CUST_0150,Food,305.23,13,2024-01-09,Cash,Online
+CUST_0150,Hobbies,223.29000000000002,5,2024-12-01,Debit Card,Online
+CUST_0150,Groceries,148.46,14,2024-10-24,Debit Card,In-store
+CUST_0150,Subscriptions,98.2,4,2024-07-21,Digital Wallet,Online
+CUST_0150,Personal Hygiene,81.18,16,2024-03-16,Debit Card,Online
+CUST_0150,Travel,71.69,2,2024-05-10,Credit Card,In-store
+CUST_0151,Shopping,4960.65,10,2024-10-08,Digital Wallet,Mobile App
+CUST_0151,Gifts,2856.14,10,2024-11-25,Digital Wallet,In-store
+CUST_0151,Friend,1367.71,17,2024-12-30,Debit Card,Online
+CUST_0151,Transportation,1112.27,3,2024-07-10,Credit Card,Online
+CUST_0151,Personal Hygiene,936.79,8,2023-08-18,Credit Card,Mobile App
+CUST_0151,Medical,567.41,3,2024-09-09,Cash,Mobile App
+CUST_0151,Fitness,456.84000000000003,12,2024-10-08,Cash,In-store
+CUST_0151,Housing,420.08,6,2024-11-30,Digital Wallet,Mobile App
+CUST_0151,Food,226.95,10,2025-01-10,Digital Wallet,Mobile App
+CUST_0151,Subscriptions,173.76,5,2024-12-02,Digital Wallet,In-store
+CUST_0151,Hobbies,87.83,3,2024-10-18,Cash,Online
+CUST_0151,Groceries,47.69,9,2024-08-25,Cash,In-store
+CUST_0152,Shopping,55564.83,6,2024-04-30,Credit Card,Mobile App
+CUST_0152,Fitness,2099.98,12,2024-12-19,Cash,Mobile App
+CUST_0152,Friend,1975.72,19,2024-08-24,Cash,Mobile App
+CUST_0152,Gifts,1681.25,28,2024-07-17,Cash,In-store
+CUST_0152,Medical,1065.44,4,2024-10-10,Debit Card,Online
+CUST_0152,Transportation,760.2,3,2024-05-14,Credit Card,Online
+CUST_0152,Hobbies,396.84000000000003,11,2023-07-17,Digital Wallet,In-store
+CUST_0152,Travel,381.61,1,2023-01-17,Digital Wallet,In-store
+CUST_0152,Housing,375.96999999999997,4,2024-12-17,Cash,In-store
+CUST_0152,Food,206.92,4,2024-10-17,Digital Wallet,In-store
+CUST_0152,Subscriptions,155.75,7,2024-12-14,Cash,Mobile App
+CUST_0152,Groceries,21.93,9,2024-10-30,Digital Wallet,In-store
+CUST_0152,Personal Hygiene,20.24,5,2024-05-17,Digital Wallet,Mobile App
+CUST_0153,Shopping,175735.62000000002,12,2023-04-22,Digital Wallet,Mobile App
+CUST_0153,Gifts,2367.2999999999997,20,2024-08-23,Credit Card,In-store
+CUST_0153,Fitness,2357.92,16,2024-08-09,Cash,Online
+CUST_0153,Transportation,2330.5299999999997,4,2024-09-13,Credit Card,Mobile App
+CUST_0153,Travel,2130.63,6,2024-12-19,Debit Card,Online
+CUST_0153,Friend,1614.87,11,2023-12-09,Debit Card,In-store
+CUST_0153,Medical,912.8,2,2024-09-17,Digital Wallet,In-store
+CUST_0153,Food,573.97,10,2023-11-05,Digital Wallet,Mobile App
+CUST_0153,Hobbies,317.53,4,2023-08-17,Credit Card,Mobile App
+CUST_0153,Housing,160.57999999999998,2,2024-06-19,Cash,In-store
+CUST_0153,Subscriptions,142.23000000000002,7,2024-12-09,Debit Card,In-store
+CUST_0153,Personal Hygiene,76.09,18,2024-11-02,Cash,Mobile App
+CUST_0153,Groceries,63.88,7,2024-11-15,Digital Wallet,In-store
+CUST_0154,Shopping,213749.88999999998,5,2023-09-23,Debit Card,Mobile App
+CUST_0154,Fitness,2721.2200000000003,12,2024-01-25,Credit Card,Mobile App
+CUST_0154,Gifts,2558.98,11,2025-01-02,Debit Card,Mobile App
+CUST_0154,Friend,1170.98,12,2024-10-24,Debit Card,Mobile App
+CUST_0154,Hobbies,856.19,23,2024-08-21,Cash,In-store
+CUST_0154,Transportation,757.24,3,2024-01-05,Digital Wallet,Online
+CUST_0154,Medical,698.29,2,2023-08-19,Credit Card,In-store
+CUST_0154,Housing,296.82,2,2024-12-05,Cash,Online
+CUST_0154,Food,191.04,11,2024-11-24,Digital Wallet,In-store
+CUST_0154,Subscriptions,115.83000000000001,3,2024-08-21,Digital Wallet,Online
+CUST_0154,Groceries,85.66,7,2024-11-09,Credit Card,In-store
+CUST_0154,Personal Hygiene,53.13,9,2024-04-11,Cash,Mobile App
+CUST_0154,Travel,49.35,2,2023-08-28,Debit Card,In-store
+CUST_0155,Housing,8372.78,6,2024-12-30,Digital Wallet,Online
+CUST_0155,Travel,2350.81,6,2024-07-25,Cash,In-store
+CUST_0155,Personal Hygiene,1915.84,25,2024-07-16,Digital Wallet,In-store
+CUST_0155,Gifts,1865.13,18,2024-12-01,Debit Card,Online
+CUST_0155,Medical,1761.69,5,2024-10-06,Cash,Online
+CUST_0155,Transportation,1282.9099999999999,3,2024-07-19,Cash,Online
+CUST_0155,Hobbies,730.53,19,2024-10-23,Debit Card,Mobile App
+CUST_0155,Shopping,616.98,5,2024-08-14,Cash,In-store
+CUST_0155,Friend,518.51,12,2024-10-20,Digital Wallet,In-store
+CUST_0155,Fitness,442.82,5,2024-09-15,Credit Card,Mobile App
+CUST_0155,Subscriptions,192.4,6,2024-03-27,Digital Wallet,Online
+CUST_0155,Groceries,175.87,17,2023-12-10,Debit Card,Online
+CUST_0155,Food,157.70000000000002,8,2024-09-06,Credit Card,In-store
+CUST_0156,Shopping,339405.06,15,2025-01-13,Cash,In-store
+CUST_0156,Friend,1566.8,17,2024-12-20,Debit Card,Online
+CUST_0156,Housing,1484.5099999999998,4,2024-10-16,Debit Card,In-store
+CUST_0156,Travel,1316.48,3,2024-12-11,Debit Card,Online
+CUST_0156,Hobbies,1308.1499999999999,32,2024-04-08,Digital Wallet,In-store
+CUST_0156,Fitness,579.02,6,2023-09-21,Cash,Online
+CUST_0156,Medical,474.2,3,2023-12-29,Digital Wallet,Online
+CUST_0156,Food,320.45,12,2024-10-04,Debit Card,Online
+CUST_0156,Groceries,117.08,23,2024-11-12,Credit Card,In-store
+CUST_0156,Subscriptions,14.48,1,2024-01-06,Digital Wallet,In-store
+CUST_0156,Transportation,11.670000000000002,2,2024-04-23,Credit Card,Mobile App
+CUST_0156,Personal Hygiene,8.74,2,2024-05-05,Credit Card,Mobile App
+CUST_0157,Shopping,296117.95,14,2024-11-25,Credit Card,Online
+CUST_0157,Medical,1441.92,4,2024-10-25,Digital Wallet,Mobile App
+CUST_0157,Travel,1253.32,2,2024-12-24,Debit Card,Online
+CUST_0157,Friend,1027.71,25,2024-07-02,Cash,Online
+CUST_0157,Hobbies,732.84,17,2024-08-08,Credit Card,Online
+CUST_0157,Fitness,405.9,4,2023-05-02,Digital Wallet,Mobile App
+CUST_0157,Housing,218.1,3,2024-03-26,Digital Wallet,In-store
+CUST_0157,Gifts,206.44,8,2024-11-20,Debit Card,Online
+CUST_0157,Food,86.34,13,2024-12-05,Digital Wallet,In-store
+CUST_0157,Groceries,58.19,11,2023-08-21,Credit Card,In-store
+CUST_0157,Personal Hygiene,50.72,8,2024-11-23,Cash,In-store
+CUST_0157,Subscriptions,35.12,4,2024-08-26,Digital Wallet,Mobile App
+CUST_0158,Shopping,44761.29,5,2024-05-09,Cash,Mobile App
+CUST_0158,Housing,6113.2,5,2025-01-04,Credit Card,In-store
+CUST_0158,Travel,2793.8,6,2023-10-09,Digital Wallet,Mobile App
+CUST_0158,Medical,1319.6599999999999,3,2024-10-11,Cash,In-store
+CUST_0158,Fitness,1314.66,21,2024-09-11,Cash,Online
+CUST_0158,Gifts,1229.74,14,2024-12-16,Cash,Mobile App
+CUST_0158,Hobbies,852.48,23,2024-10-07,Digital Wallet,In-store
+CUST_0158,Transportation,612.96,4,2024-09-23,Debit Card,Online
+CUST_0158,Personal Hygiene,394.62,14,2024-08-05,Credit Card,Mobile App
+CUST_0158,Friend,131.34,6,2023-10-09,Debit Card,Online
+CUST_0158,Subscriptions,111.64,6,2024-12-27,Credit Card,In-store
+CUST_0158,Food,90.19,10,2024-12-04,Debit Card,Online
+CUST_0158,Groceries,75.38,16,2024-05-29,Digital Wallet,Mobile App
+CUST_0159,Shopping,223102.18,15,2024-12-09,Debit Card,Mobile App
+CUST_0159,Housing,6911.03,3,2024-09-04,Digital Wallet,In-store
+CUST_0159,Medical,2351.73,5,2024-06-17,Cash,Mobile App
+CUST_0159,Personal Hygiene,1979.43,6,2024-05-31,Credit Card,Mobile App
+CUST_0159,Friend,1926.9499999999998,17,2024-10-20,Debit Card,Online
+CUST_0159,Fitness,1162.49,10,2025-01-03,Credit Card,In-store
+CUST_0159,Hobbies,799.5699999999999,15,2023-11-11,Digital Wallet,Online
+CUST_0159,Transportation,488.16,1,2023-11-20,Digital Wallet,Mobile App
+CUST_0159,Gifts,134.13,2,2024-05-14,Digital Wallet,Mobile App
+CUST_0159,Food,117.82,8,2024-06-21,Cash,In-store
+CUST_0159,Subscriptions,107.38,3,2023-04-27,Cash,Mobile App
+CUST_0159,Groceries,63.0,8,2024-11-13,Debit Card,Mobile App
+CUST_0159,Travel,27.77,1,2024-07-21,Digital Wallet,In-store
+CUST_0160,Shopping,84683.29,12,2024-12-05,Credit Card,Online
+CUST_0160,Gifts,2348.01,9,2024-09-22,Digital Wallet,Mobile App
+CUST_0160,Travel,1191.27,5,2024-12-11,Debit Card,Mobile App
+CUST_0160,Fitness,1122.6,8,2024-04-05,Credit Card,Online
+CUST_0160,Food,1081.0900000000001,33,2024-11-09,Debit Card,Mobile App
+CUST_0160,Friend,956.01,17,2024-07-25,Debit Card,Online
+CUST_0160,Personal Hygiene,925.2,2,2023-06-09,Cash,Online
+CUST_0160,Transportation,867.82,4,2023-12-31,Credit Card,Mobile App
+CUST_0160,Housing,442.99,3,2024-02-12,Credit Card,Online
+CUST_0160,Medical,279.3,1,2023-02-22,Credit Card,Mobile App
+CUST_0160,Hobbies,177.56,11,2024-08-31,Cash,Mobile App
+CUST_0160,Subscriptions,80.97,4,2024-12-06,Debit Card,Online
+CUST_0160,Groceries,60.49,10,2023-08-29,Cash,In-store
+CUST_0161,Shopping,214029.24,12,2024-07-17,Debit Card,Mobile App
+CUST_0161,Transportation,3176.23,7,2024-10-15,Credit Card,In-store
+CUST_0161,Medical,2830.4700000000003,6,2024-12-18,Cash,In-store
+CUST_0161,Fitness,2571.18,8,2025-01-12,Cash,In-store
+CUST_0161,Hobbies,924.89,22,2024-12-19,Credit Card,Mobile App
+CUST_0161,Travel,533.59,3,2024-09-19,Credit Card,Mobile App
+CUST_0161,Housing,516.5500000000001,5,2024-02-02,Cash,Mobile App
+CUST_0161,Friend,434.86,6,2024-04-04,Digital Wallet,Online
+CUST_0161,Food,378.56,8,2024-03-17,Debit Card,In-store
+CUST_0161,Groceries,78.62,10,2024-07-31,Cash,In-store
+CUST_0161,Gifts,54.8,3,2023-08-01,Credit Card,Mobile App
+CUST_0161,Personal Hygiene,54.769999999999996,8,2024-09-23,Digital Wallet,In-store
+CUST_0161,Subscriptions,30.4,2,2024-04-15,Debit Card,In-store
+CUST_0162,Shopping,93442.04000000001,18,2024-08-22,Credit Card,Online
+CUST_0162,Personal Hygiene,3690.38,22,2024-12-24,Cash,Online
+CUST_0162,Gifts,1528.58,18,2025-01-10,Credit Card,Online
+CUST_0162,Medical,1261.6,4,2024-11-09,Credit Card,Mobile App
+CUST_0162,Hobbies,1042.51,21,2024-11-09,Credit Card,In-store
+CUST_0162,Food,746.73,23,2024-10-07,Debit Card,In-store
+CUST_0162,Travel,660.21,2,2024-12-08,Credit Card,In-store
+CUST_0162,Housing,257.7,3,2024-01-02,Debit Card,In-store
+CUST_0162,Fitness,236.25,12,2024-05-02,Cash,In-store
+CUST_0162,Groceries,223.97,30,2024-12-20,Credit Card,In-store
+CUST_0162,Friend,184.01,3,2023-05-06,Debit Card,Mobile App
+CUST_0162,Transportation,94.91,3,2023-12-05,Cash,Online
+CUST_0162,Subscriptions,49.699999999999996,3,2023-09-15,Cash,Online
+CUST_0163,Shopping,581900.54,15,2024-10-17,Cash,In-store
+CUST_0163,Fitness,2145.2599999999998,17,2024-11-30,Credit Card,Mobile App
+CUST_0163,Travel,1892.1299999999999,3,2024-10-11,Cash,Mobile App
+CUST_0163,Housing,1658.83,3,2024-01-12,Digital Wallet,In-store
+CUST_0163,Medical,516.49,2,2024-03-11,Digital Wallet,Online
+CUST_0163,Gifts,507.46000000000004,13,2024-06-05,Debit Card,In-store
+CUST_0163,Transportation,284.98,4,2024-11-18,Debit Card,Mobile App
+CUST_0163,Friend,208.07999999999998,14,2024-12-23,Cash,Online
+CUST_0163,Groceries,172.54999999999998,21,2024-12-13,Credit Card,Online
+CUST_0163,Food,97.28999999999999,14,2024-05-29,Cash,Mobile App
+CUST_0163,Personal Hygiene,21.05,4,2024-06-23,Credit Card,Mobile App
+CUST_0163,Hobbies,15.64,3,2024-09-11,Credit Card,In-store
+CUST_0163,Subscriptions,12.45,2,2023-12-15,Digital Wallet,Mobile App
+CUST_0164,Housing,9104.85,4,2024-07-09,Cash,Online
+CUST_0164,Transportation,1808.1100000000001,6,2024-12-08,Digital Wallet,Online
+CUST_0164,Travel,1324.79,4,2024-11-27,Cash,Online
+CUST_0164,Fitness,1034.29,7,2025-01-04,Digital Wallet,In-store
+CUST_0164,Gifts,824.37,16,2024-06-20,Digital Wallet,Mobile App
+CUST_0164,Hobbies,819.47,16,2024-12-28,Debit Card,Mobile App
+CUST_0164,Personal Hygiene,521.5400000000001,11,2024-12-21,Debit Card,In-store
+CUST_0164,Friend,519.14,8,2024-04-03,Credit Card,Mobile App
+CUST_0164,Medical,313.24,1,2023-10-14,Digital Wallet,Mobile App
+CUST_0164,Food,272.71999999999997,7,2024-11-25,Debit Card,In-store
+CUST_0164,Shopping,215.73,5,2024-09-17,Cash,Online
+CUST_0164,Groceries,119.24,19,2024-09-23,Cash,Online
+CUST_0165,Shopping,135245.03999999998,8,2024-10-25,Cash,In-store
+CUST_0165,Housing,17266.28,8,2024-10-18,Debit Card,Online
+CUST_0165,Travel,1231.17,5,2025-01-12,Credit Card,In-store
+CUST_0165,Medical,1139.35,3,2023-05-12,Cash,In-store
+CUST_0165,Transportation,983.9200000000001,2,2024-06-03,Debit Card,Mobile App
+CUST_0165,Fitness,642.4399999999999,17,2024-09-21,Debit Card,Mobile App
+CUST_0165,Hobbies,245.53,7,2024-05-07,Debit Card,In-store
+CUST_0165,Gifts,182.85,4,2024-06-02,Digital Wallet,Mobile App
+CUST_0165,Subscriptions,176.18,4,2024-06-03,Debit Card,In-store
+CUST_0165,Friend,98.49000000000001,10,2024-10-02,Cash,In-store
+CUST_0165,Personal Hygiene,83.69,10,2023-08-31,Cash,In-store
+CUST_0165,Food,64.96000000000001,11,2024-07-11,Debit Card,Mobile App
+CUST_0165,Groceries,36.05,7,2024-07-31,Debit Card,In-store
+CUST_0166,Shopping,60358.6,13,2024-07-13,Debit Card,Online
+CUST_0166,Travel,1324.37,4,2024-06-02,Debit Card,In-store
+CUST_0166,Medical,1171.3600000000001,4,2024-05-21,Digital Wallet,In-store
+CUST_0166,Gifts,1038.48,17,2024-06-08,Digital Wallet,In-store
+CUST_0166,Friend,895.86,18,2024-04-09,Credit Card,Mobile App
+CUST_0166,Hobbies,868.88,19,2024-10-11,Debit Card,Online
+CUST_0166,Fitness,696.54,8,2024-04-23,Debit Card,Online
+CUST_0166,Housing,291.28999999999996,2,2024-07-19,Cash,Mobile App
+CUST_0166,Food,235.73000000000002,25,2025-01-12,Credit Card,In-store
+CUST_0166,Transportation,151.92000000000002,4,2024-05-30,Credit Card,Mobile App
+CUST_0166,Subscriptions,111.69,4,2024-11-22,Credit Card,Online
+CUST_0166,Personal Hygiene,16.72,4,2024-05-24,Digital Wallet,Online
+CUST_0166,Groceries,7.86,5,2024-01-06,Credit Card,Online
+CUST_0167,Travel,2019.74,3,2024-03-10,Credit Card,Online
+CUST_0167,Gifts,1298.42,12,2024-11-12,Cash,Mobile App
+CUST_0167,Shopping,1115.61,12,2024-10-06,Credit Card,In-store
+CUST_0167,Personal Hygiene,955.05,17,2024-10-19,Credit Card,Mobile App
+CUST_0167,Food,571.45,30,2024-09-28,Credit Card,Online
+CUST_0167,Fitness,525.55,6,2024-02-17,Credit Card,Mobile App
+CUST_0167,Groceries,312.88,28,2024-12-23,Debit Card,In-store
+CUST_0167,Friend,239.78,4,2024-08-11,Credit Card,Mobile App
+CUST_0167,Hobbies,161.10000000000002,7,2024-10-22,Cash,Online
+CUST_0167,Medical,137.67,1,2023-11-02,Cash,Online
+CUST_0167,Subscriptions,70.25,2,2024-06-04,Cash,Online
+CUST_0167,Transportation,57.97,1,2024-02-06,Debit Card,In-store
+CUST_0167,Housing,39.31,1,2023-04-21,Debit Card,Mobile App
+CUST_0168,Housing,11667.37,8,2024-04-07,Cash,Mobile App
+CUST_0168,Fitness,2812.3500000000004,15,2024-05-12,Digital Wallet,Online
+CUST_0168,Personal Hygiene,1010.42,20,2024-10-11,Debit Card,Mobile App
+CUST_0168,Medical,943.8399999999999,2,2023-07-23,Digital Wallet,Mobile App
+CUST_0168,Food,843.28,13,2024-11-12,Digital Wallet,Online
+CUST_0168,Transportation,614.4699999999999,4,2024-05-11,Digital Wallet,In-store
+CUST_0168,Friend,417.49000000000007,7,2025-01-04,Debit Card,In-store
+CUST_0168,Shopping,364.69,5,2024-07-05,Cash,Online
+CUST_0168,Gifts,246.74,3,2024-10-11,Debit Card,Mobile App
+CUST_0168,Hobbies,120.96,5,2023-01-02,Credit Card,Mobile App
+CUST_0168,Groceries,83.72999999999999,19,2024-07-29,Debit Card,Mobile App
+CUST_0168,Subscriptions,55.39,2,2024-12-24,Cash,Mobile App
+CUST_0169,Housing,4306.49,4,2024-07-21,Digital Wallet,Mobile App
+CUST_0169,Personal Hygiene,2753.19,17,2024-11-12,Digital Wallet,Online
+CUST_0169,Medical,2081.59,5,2024-10-20,Debit Card,In-store
+CUST_0169,Gifts,2002.18,20,2024-06-28,Cash,In-store
+CUST_0169,Fitness,1222.3600000000001,8,2023-11-20,Credit Card,Mobile App
+CUST_0169,Friend,554.94,8,2024-05-03,Digital Wallet,In-store
+CUST_0169,Transportation,488.33000000000004,3,2024-02-19,Digital Wallet,Online
+CUST_0169,Food,373.32,10,2024-05-26,Debit Card,Online
+CUST_0169,Hobbies,295.82,13,2024-12-14,Cash,Online
+CUST_0169,Shopping,251.58,2,2023-10-25,Debit Card,Online
+CUST_0169,Travel,191.32,2,2024-12-30,Digital Wallet,Mobile App
+CUST_0169,Groceries,75.30000000000001,14,2024-08-21,Cash,Mobile App
+CUST_0169,Subscriptions,8.16,1,2023-11-19,Cash,Online
+CUST_0170,Housing,10542.59,6,2025-01-03,Credit Card,Online
+CUST_0170,Shopping,4673.67,14,2024-05-14,Digital Wallet,Mobile App
+CUST_0170,Personal Hygiene,3694.67,18,2024-09-18,Debit Card,Online
+CUST_0170,Travel,2270.34,4,2024-08-11,Digital Wallet,Online
+CUST_0170,Fitness,2178.8900000000003,14,2024-10-11,Credit Card,Mobile App
+CUST_0170,Gifts,2038.4,14,2024-07-18,Cash,In-store
+CUST_0170,Medical,1136.75,3,2024-12-26,Digital Wallet,Mobile App
+CUST_0170,Transportation,1068.34,8,2024-10-26,Debit Card,In-store
+CUST_0170,Friend,389.25,10,2024-03-25,Cash,Mobile App
+CUST_0170,Food,175.06,2,2023-10-12,Digital Wallet,Mobile App
+CUST_0170,Subscriptions,67.78999999999999,3,2024-09-02,Debit Card,In-store
+CUST_0170,Hobbies,49.51,2,2023-12-29,Cash,Mobile App
+CUST_0170,Groceries,27.39,9,2024-10-26,Debit Card,Online
+CUST_0171,Travel,3197.9900000000002,8,2024-08-30,Debit Card,Mobile App
+CUST_0171,Fitness,3021.3199999999997,28,2025-01-12,Cash,Online
+CUST_0171,Housing,2249.61,4,2024-07-14,Debit Card,Mobile App
+CUST_0171,Transportation,1876.19,6,2024-10-20,Credit Card,Online
+CUST_0171,Personal Hygiene,1765.2,16,2024-02-11,Digital Wallet,Mobile App
+CUST_0171,Medical,1351.44,3,2023-09-27,Digital Wallet,Online
+CUST_0171,Gifts,754.5,17,2024-12-21,Debit Card,In-store
+CUST_0171,Friend,694.37,6,2024-02-13,Credit Card,In-store
+CUST_0171,Shopping,540.49,4,2024-02-17,Digital Wallet,In-store
+CUST_0171,Food,94.25999999999999,16,2024-12-22,Digital Wallet,Mobile App
+CUST_0171,Subscriptions,88.36,4,2024-02-26,Cash,In-store
+CUST_0171,Groceries,77.4,6,2024-05-29,Digital Wallet,Mobile App
+CUST_0172,Fitness,2682.4799999999996,20,2024-12-19,Debit Card,Mobile App
+CUST_0172,Personal Hygiene,2595.32,14,2024-11-25,Cash,In-store
+CUST_0172,Gifts,1125.07,20,2024-12-19,Digital Wallet,Mobile App
+CUST_0172,Medical,949.51,3,2024-05-15,Credit Card,In-store
+CUST_0172,Shopping,714.73,6,2024-08-06,Credit Card,Mobile App
+CUST_0172,Travel,374.9,2,2024-11-01,Cash,In-store
+CUST_0172,Transportation,322.71,4,2024-12-01,Credit Card,In-store
+CUST_0172,Hobbies,306.24,11,2024-05-02,Debit Card,Online
+CUST_0172,Friend,242.59,8,2024-12-09,Cash,Mobile App
+CUST_0172,Housing,238.05,3,2023-08-30,Digital Wallet,Online
+CUST_0172,Groceries,143.61,18,2024-11-17,Debit Card,In-store
+CUST_0172,Food,46.38,4,2024-03-03,Cash,Mobile App
+CUST_0172,Subscriptions,14.33,1,2023-12-11,Cash,In-store
+CUST_0173,Shopping,87027.79000000001,4,2024-12-13,Digital Wallet,In-store
+CUST_0173,Housing,10049.06,6,2024-09-01,Cash,Mobile App
+CUST_0173,Travel,2397.27,6,2024-10-21,Cash,In-store
+CUST_0173,Medical,1873.6,3,2024-09-06,Cash,Online
+CUST_0173,Hobbies,788.12,18,2024-07-20,Cash,Mobile App
+CUST_0173,Gifts,395.37,14,2024-10-29,Cash,In-store
+CUST_0173,Food,304.18,14,2024-10-02,Credit Card,Mobile App
+CUST_0173,Fitness,200.37,2,2023-06-03,Cash,Online
+CUST_0173,Personal Hygiene,189.1,20,2025-01-05,Credit Card,In-store
+CUST_0173,Transportation,170.54000000000002,3,2025-01-12,Credit Card,Mobile App
+CUST_0173,Subscriptions,58.510000000000005,5,2024-08-24,Cash,In-store
+CUST_0173,Friend,55.31,6,2024-08-21,Digital Wallet,Mobile App
+CUST_0173,Groceries,6.93,2,2024-11-02,Cash,In-store
+CUST_0174,Shopping,93641.17,15,2024-12-01,Credit Card,Mobile App
+CUST_0174,Medical,1562.66,6,2024-09-06,Debit Card,Mobile App
+CUST_0174,Personal Hygiene,1169.43,9,2024-09-12,Credit Card,Mobile App
+CUST_0174,Friend,1121.85,10,2024-10-20,Debit Card,Online
+CUST_0174,Travel,1106.49,5,2024-12-02,Credit Card,Online
+CUST_0174,Food,538.68,18,2024-12-07,Cash,Mobile App
+CUST_0174,Transportation,518.41,5,2024-08-16,Debit Card,In-store
+CUST_0174,Gifts,407.36,9,2024-03-07,Digital Wallet,Online
+CUST_0174,Fitness,328.6,3,2024-09-14,Cash,Mobile App
+CUST_0174,Hobbies,201.2,5,2023-10-26,Cash,Mobile App
+CUST_0174,Subscriptions,99.08999999999999,4,2024-05-18,Digital Wallet,In-store
+CUST_0174,Groceries,84.92,20,2024-10-21,Debit Card,In-store
+CUST_0174,Housing,54.65,1,2024-06-20,Credit Card,In-store
+CUST_0175,Shopping,4443.54,5,2025-01-13,Cash,In-store
+CUST_0175,Fitness,3191.45,16,2024-09-25,Debit Card,Online
+CUST_0175,Medical,920.06,4,2025-01-03,Credit Card,Mobile App
+CUST_0175,Housing,828.17,6,2024-12-23,Debit Card,Mobile App
+CUST_0175,Travel,645.05,1,2023-03-19,Cash,In-store
+CUST_0175,Friend,582.78,7,2024-08-23,Credit Card,Online
+CUST_0175,Food,348.23,14,2023-10-25,Cash,Online
+CUST_0175,Transportation,88.69,2,2024-11-18,Credit Card,Online
+CUST_0175,Groceries,87.63000000000001,6,2023-03-16,Cash,In-store
+CUST_0175,Hobbies,62.51,3,2024-08-25,Cash,Mobile App
+CUST_0175,Gifts,54.26,2,2024-09-04,Credit Card,Online
+CUST_0175,Personal Hygiene,31.200000000000003,11,2024-01-03,Digital Wallet,Online
+CUST_0175,Subscriptions,21.48,2,2025-01-12,Cash,Online
+CUST_0176,Housing,11571.96,5,2024-12-01,Cash,Online
+CUST_0176,Shopping,4118.12,13,2024-11-12,Cash,In-store
+CUST_0176,Travel,2999.93,4,2024-01-14,Debit Card,In-store
+CUST_0176,Personal Hygiene,2815.34,8,2024-12-01,Digital Wallet,Online
+CUST_0176,Friend,2018.35,23,2024-09-16,Cash,Online
+CUST_0176,Fitness,1407.9499999999998,13,2024-08-14,Debit Card,Online
+CUST_0176,Medical,1336.02,5,2024-12-09,Cash,In-store
+CUST_0176,Hobbies,1103.37,25,2024-10-20,Digital Wallet,Online
+CUST_0176,Gifts,964.48,15,2024-07-20,Cash,Online
+CUST_0176,Food,632.48,18,2024-12-03,Cash,In-store
+CUST_0176,Transportation,113.61,3,2024-05-17,Cash,In-store
+CUST_0176,Groceries,111.65,11,2024-08-27,Cash,In-store
+CUST_0176,Subscriptions,45.28,4,2024-12-01,Credit Card,Online
+CUST_0177,Medical,2522.92,5,2024-10-15,Digital Wallet,In-store
+CUST_0177,Gifts,1997.21,11,2024-10-25,Digital Wallet,Mobile App
+CUST_0177,Shopping,1487.23,5,2024-12-22,Debit Card,In-store
+CUST_0177,Fitness,685.5300000000001,10,2024-12-14,Debit Card,Online
+CUST_0177,Travel,547.01,3,2024-09-25,Digital Wallet,Online
+CUST_0177,Hobbies,535.74,15,2024-11-18,Digital Wallet,Mobile App
+CUST_0177,Housing,353.32000000000005,2,2023-03-21,Debit Card,Online
+CUST_0177,Food,252.84,8,2024-11-30,Credit Card,In-store
+CUST_0177,Friend,249.88,9,2024-08-15,Cash,Mobile App
+CUST_0177,Groceries,87.2,8,2024-03-01,Digital Wallet,In-store
+CUST_0177,Transportation,83.59,4,2024-12-04,Cash,Mobile App
+CUST_0177,Subscriptions,25.15,3,2024-02-17,Cash,Mobile App
+CUST_0178,Housing,5853.360000000001,8,2024-11-14,Credit Card,Online
+CUST_0178,Fitness,2924.2000000000003,23,2024-11-11,Credit Card,Mobile App
+CUST_0178,Personal Hygiene,2408.34,14,2024-08-01,Debit Card,In-store
+CUST_0178,Transportation,1224.78,5,2024-12-13,Debit Card,Online
+CUST_0178,Friend,1069.05,15,2024-11-26,Debit Card,In-store
+CUST_0178,Travel,789.25,4,2024-08-19,Credit Card,In-store
+CUST_0178,Gifts,484.96999999999997,8,2024-11-21,Digital Wallet,Mobile App
+CUST_0178,Hobbies,281.71000000000004,9,2024-01-21,Digital Wallet,Mobile App
+CUST_0178,Groceries,187.47,27,2025-01-08,Debit Card,Online
+CUST_0178,Subscriptions,160.61,5,2024-10-28,Credit Card,Mobile App
+CUST_0178,Food,82.88999999999999,10,2024-11-19,Debit Card,Mobile App
+CUST_0179,Gifts,3920.85,14,2024-12-20,Digital Wallet,In-store
+CUST_0179,Personal Hygiene,3730.7,8,2023-12-26,Debit Card,Online
+CUST_0179,Travel,1947.1100000000001,8,2024-11-20,Credit Card,Online
+CUST_0179,Shopping,1407.23,4,2023-09-19,Debit Card,Online
+CUST_0179,Fitness,1255.04,7,2024-10-12,Digital Wallet,Online
+CUST_0179,Medical,1118.3,2,2024-05-03,Credit Card,Online
+CUST_0179,Friend,448.7,8,2024-11-29,Credit Card,In-store
+CUST_0179,Food,309.41999999999996,10,2024-07-13,Cash,Mobile App
+CUST_0179,Subscriptions,199.19,5,2024-05-23,Digital Wallet,Online
+CUST_0179,Transportation,170.9,4,2024-05-06,Digital Wallet,Mobile App
+CUST_0179,Hobbies,92.96000000000001,4,2024-01-15,Digital Wallet,In-store
+CUST_0179,Housing,36.42,1,2023-11-11,Debit Card,Online
+CUST_0179,Groceries,26.5,6,2024-11-06,Debit Card,Online
+CUST_0180,Gifts,2992.05,8,2025-01-13,Credit Card,In-store
+CUST_0180,Friend,1940.44,19,2024-10-10,Credit Card,Mobile App
+CUST_0180,Fitness,1730.4,14,2024-09-24,Credit Card,Online
+CUST_0180,Medical,1473.15,5,2024-12-19,Digital Wallet,Online
+CUST_0180,Travel,1431.06,4,2023-12-24,Cash,In-store
+CUST_0180,Transportation,877.48,6,2024-09-14,Digital Wallet,Mobile App
+CUST_0180,Shopping,622.75,7,2024-10-20,Credit Card,Mobile App
+CUST_0180,Hobbies,570.78,16,2024-06-12,Digital Wallet,In-store
+CUST_0180,Housing,210.94,3,2024-11-01,Debit Card,Mobile App
+CUST_0180,Personal Hygiene,69.19,12,2024-08-05,Debit Card,Mobile App
+CUST_0180,Food,21.48,4,2024-10-31,Debit Card,Mobile App
+CUST_0180,Subscriptions,14.44,1,2024-12-18,Debit Card,Mobile App
+CUST_0181,Shopping,140066.77000000002,8,2024-10-05,Digital Wallet,Mobile App
+CUST_0181,Personal Hygiene,5138.27,14,2025-01-08,Debit Card,In-store
+CUST_0181,Fitness,3604.36,15,2025-01-03,Cash,Online
+CUST_0181,Medical,1610.1,4,2024-05-31,Debit Card,In-store
+CUST_0181,Gifts,1444.14,20,2024-12-28,Digital Wallet,Online
+CUST_0181,Friend,1146.99,34,2024-11-23,Debit Card,Online
+CUST_0181,Hobbies,535.78,11,2024-03-03,Cash,In-store
+CUST_0181,Travel,492.56,2,2024-12-25,Cash,Online
+CUST_0181,Food,228.36,19,2024-09-03,Cash,Online
+CUST_0181,Housing,164.43,2,2024-04-22,Credit Card,Mobile App
+CUST_0181,Groceries,50.05,7,2024-08-19,Credit Card,Online
+CUST_0181,Transportation,40.81,2,2024-10-30,Digital Wallet,In-store
+CUST_0181,Subscriptions,22.54,2,2024-07-18,Credit Card,Online
+CUST_0182,Shopping,22771.64,14,2024-07-25,Digital Wallet,Mobile App
+CUST_0182,Housing,9351.779999999999,5,2024-09-13,Debit Card,In-store
+CUST_0182,Gifts,2577.77,16,2025-01-07,Cash,Online
+CUST_0182,Travel,1831.77,2,2024-03-10,Debit Card,In-store
+CUST_0182,Fitness,1383.48,9,2024-12-07,Credit Card,Online
+CUST_0182,Friend,1157.6299999999999,11,2024-08-17,Cash,Online
+CUST_0182,Medical,798.54,4,2024-05-03,Cash,Online
+CUST_0182,Transportation,739.77,3,2024-10-24,Credit Card,In-store
+CUST_0182,Personal Hygiene,636.7900000000001,3,2024-09-17,Debit Card,Online
+CUST_0182,Food,197.95,19,2024-07-17,Credit Card,Mobile App
+CUST_0182,Subscriptions,140.4,6,2024-09-06,Cash,In-store
+CUST_0182,Hobbies,105.65,6,2023-09-08,Cash,Online
+CUST_0182,Groceries,64.31,16,2024-07-10,Credit Card,Online
+CUST_0183,Fitness,3175.96,19,2024-12-03,Credit Card,Online
+CUST_0183,Housing,2620.4100000000003,4,2024-10-28,Cash,Online
+CUST_0183,Gifts,2029.1799999999998,15,2025-01-09,Debit Card,In-store
+CUST_0183,Friend,1442.42,26,2024-05-29,Digital Wallet,Mobile App
+CUST_0183,Travel,1425.19,3,2024-06-24,Digital Wallet,In-store
+CUST_0183,Medical,1048.69,3,2024-07-16,Digital Wallet,Online
+CUST_0183,Shopping,627.3100000000001,6,2024-09-23,Credit Card,Mobile App
+CUST_0183,Food,587.88,18,2025-01-02,Cash,Online
+CUST_0183,Transportation,289.33,2,2024-10-11,Digital Wallet,Online
+CUST_0183,Subscriptions,129.84,3,2024-09-30,Debit Card,Online
+CUST_0183,Hobbies,42.03,1,2023-12-11,Debit Card,Mobile App
+CUST_0183,Personal Hygiene,4.37,2,2025-01-04,Cash,Mobile App
+CUST_0183,Groceries,1.99,1,2024-11-30,Digital Wallet,In-store
+CUST_0184,Shopping,211838.51,9,2024-10-12,Cash,Online
+CUST_0184,Housing,6486.66,4,2024-02-06,Debit Card,Mobile App
+CUST_0184,Travel,1522.31,7,2024-10-07,Digital Wallet,Mobile App
+CUST_0184,Fitness,1338.2399999999998,11,2024-11-05,Digital Wallet,Online
+CUST_0184,Medical,1183.17,3,2024-09-30,Cash,Online
+CUST_0184,Friend,954.32,8,2024-07-03,Digital Wallet,In-store
+CUST_0184,Gifts,494.94,10,2024-12-09,Cash,Mobile App
+CUST_0184,Hobbies,236.45,7,2023-07-27,Cash,In-store
+CUST_0184,Groceries,198.35999999999999,21,2024-11-11,Credit Card,In-store
+CUST_0184,Food,70.81,10,2024-02-24,Cash,Online
+CUST_0184,Transportation,64.95,1,2024-04-11,Digital Wallet,In-store
+CUST_0184,Subscriptions,53.48,2,2024-03-01,Cash,Online
+CUST_0184,Personal Hygiene,51.68,9,2024-03-17,Credit Card,Mobile App
+CUST_0185,Shopping,205203.36,5,2024-03-16,Digital Wallet,In-store
+CUST_0185,Gifts,2644.2,17,2025-01-02,Debit Card,In-store
+CUST_0185,Fitness,2087.13,20,2024-04-15,Credit Card,In-store
+CUST_0185,Medical,1870.1100000000001,4,2024-10-31,Cash,Mobile App
+CUST_0185,Travel,1082.26,5,2024-08-03,Credit Card,In-store
+CUST_0185,Hobbies,796.97,25,2024-12-12,Credit Card,In-store
+CUST_0185,Housing,423.43,3,2024-11-15,Debit Card,Online
+CUST_0185,Friend,340.32000000000005,16,2024-07-03,Cash,Online
+CUST_0185,Transportation,304.71999999999997,3,2024-01-08,Cash,Online
+CUST_0185,Groceries,119.7,15,2024-07-16,Debit Card,Online
+CUST_0185,Subscriptions,96.82,5,2024-09-28,Credit Card,Online
+CUST_0185,Food,61.870000000000005,5,2024-12-31,Debit Card,Mobile App
+CUST_0185,Personal Hygiene,19.28,4,2024-08-22,Credit Card,In-store
+CUST_0186,Shopping,5201.79,14,2024-12-09,Debit Card,Mobile App
+CUST_0186,Travel,1207.81,3,2024-12-03,Digital Wallet,Online
+CUST_0186,Personal Hygiene,790.64,13,2025-01-07,Debit Card,Mobile App
+CUST_0186,Transportation,668.7800000000001,4,2024-12-06,Credit Card,Mobile App
+CUST_0186,Friend,476.96000000000004,13,2024-10-28,Digital Wallet,Mobile App
+CUST_0186,Food,444.62,14,2024-05-28,Cash,In-store
+CUST_0186,Hobbies,354.04,8,2024-10-17,Debit Card,In-store
+CUST_0186,Gifts,311.64,4,2024-11-30,Digital Wallet,Online
+CUST_0186,Subscriptions,178.34,4,2024-11-16,Digital Wallet,Online
+CUST_0186,Medical,172.23,1,2024-06-29,Debit Card,In-store
+CUST_0186,Fitness,148.23,6,2024-12-01,Debit Card,Online
+CUST_0186,Housing,128.28,2,2023-10-06,Credit Card,Mobile App
+CUST_0186,Groceries,31.009999999999998,5,2024-10-13,Cash,Online
+CUST_0187,Shopping,171771.47999999998,16,2024-12-31,Debit Card,Mobile App
+CUST_0187,Housing,6161.29,1,2024-01-14,Debit Card,Online
+CUST_0187,Medical,3027.06,8,2024-11-17,Debit Card,Mobile App
+CUST_0187,Transportation,1036.54,5,2024-11-21,Digital Wallet,Online
+CUST_0187,Fitness,962.41,4,2023-10-12,Debit Card,Mobile App
+CUST_0187,Hobbies,453.25,8,2024-10-07,Debit Card,Online
+CUST_0187,Food,236.38,9,2024-04-25,Credit Card,Mobile App
+CUST_0187,Gifts,201.76,5,2024-05-01,Credit Card,Online
+CUST_0187,Groceries,118.56,11,2024-08-07,Cash,Online
+CUST_0187,Personal Hygiene,76.39,12,2024-12-24,Credit Card,In-store
+CUST_0187,Subscriptions,75.31,7,2024-10-26,Debit Card,In-store
+CUST_0187,Friend,72.92,4,2023-11-15,Credit Card,Online
+CUST_0187,Travel,14.62,1,2024-07-23,Digital Wallet,Online
+CUST_0188,Personal Hygiene,3272.59,25,2024-11-30,Cash,Online
+CUST_0188,Housing,2484.27,5,2024-05-30,Digital Wallet,Mobile App
+CUST_0188,Gifts,2377.91,10,2024-06-11,Cash,Online
+CUST_0188,Travel,1751.26,2,2024-04-01,Credit Card,Online
+CUST_0188,Shopping,1364.92,1,2024-12-22,Digital Wallet,In-store
+CUST_0188,Friend,895.96,14,2024-11-24,Credit Card,Online
+CUST_0188,Transportation,843.1300000000001,5,2024-12-29,Debit Card,In-store
+CUST_0188,Hobbies,701.48,11,2024-11-13,Digital Wallet,Mobile App
+CUST_0188,Fitness,628.5799999999999,7,2024-12-23,Debit Card,Mobile App
+CUST_0188,Food,325.36,14,2024-08-11,Credit Card,In-store
+CUST_0188,Medical,304.0,1,2023-04-11,Credit Card,In-store
+CUST_0188,Groceries,136.16,17,2024-03-24,Cash,Online
+CUST_0188,Subscriptions,131.10999999999999,5,2024-10-03,Digital Wallet,In-store
+CUST_0189,Housing,10287.72,4,2024-11-02,Credit Card,Online
+CUST_0189,Travel,4787.13,7,2024-05-24,Digital Wallet,In-store
+CUST_0189,Medical,3933.77,8,2025-01-03,Digital Wallet,Online
+CUST_0189,Fitness,3507.3,17,2024-08-11,Cash,Online
+CUST_0189,Shopping,3056.69,5,2024-10-17,Digital Wallet,In-store
+CUST_0189,Gifts,2172.8599999999997,11,2024-06-07,Digital Wallet,In-store
+CUST_0189,Friend,632.9499999999999,5,2024-02-23,Debit Card,Mobile App
+CUST_0189,Hobbies,473.7,10,2024-05-17,Cash,Online
+CUST_0189,Transportation,317.78000000000003,6,2024-11-19,Cash,Mobile App
+CUST_0189,Groceries,112.2,15,2025-01-12,Digital Wallet,In-store
+CUST_0189,Food,76.56,10,2024-07-18,Credit Card,In-store
+CUST_0189,Subscriptions,25.48,2,2024-05-18,Credit Card,Mobile App
+CUST_0189,Personal Hygiene,18.54,2,2023-12-17,Cash,Mobile App
+CUST_0190,Shopping,358260.63,15,2024-11-24,Cash,In-store
+CUST_0190,Housing,8530.11,4,2024-12-21,Digital Wallet,Mobile App
+CUST_0190,Personal Hygiene,2571.21,12,2024-06-16,Cash,In-store
+CUST_0190,Medical,2191.16,4,2024-07-28,Digital Wallet,Mobile App
+CUST_0190,Food,688.78,8,2024-01-22,Digital Wallet,Online
+CUST_0190,Transportation,502.81,2,2024-07-12,Cash,Online
+CUST_0190,Friend,491.84000000000003,8,2023-09-29,Debit Card,Online
+CUST_0190,Gifts,485.99,11,2023-11-14,Cash,Online
+CUST_0190,Fitness,122.71000000000001,5,2024-01-17,Digital Wallet,Mobile App
+CUST_0190,Hobbies,108.24000000000001,2,2024-04-17,Credit Card,In-store
+CUST_0190,Subscriptions,88.62,7,2024-11-20,Debit Card,In-store
+CUST_0190,Groceries,61.82,5,2024-01-23,Debit Card,In-store
+CUST_0190,Travel,40.25,1,2023-02-13,Cash,In-store
+CUST_0191,Shopping,436849.87,11,2024-07-03,Debit Card,Online
+CUST_0191,Housing,4730.47,2,2024-05-02,Cash,Mobile App
+CUST_0191,Medical,4122.25,7,2024-11-23,Cash,In-store
+CUST_0191,Personal Hygiene,2299.23,24,2025-01-10,Credit Card,Online
+CUST_0191,Fitness,1869.8400000000001,12,2024-12-07,Digital Wallet,Online
+CUST_0191,Transportation,1291.96,7,2024-06-06,Digital Wallet,Online
+CUST_0191,Gifts,1079.8400000000001,14,2024-10-20,Credit Card,Mobile App
+CUST_0191,Friend,549.48,8,2024-08-17,Digital Wallet,Online
+CUST_0191,Travel,508.82,4,2024-06-02,Digital Wallet,In-store
+CUST_0191,Food,338.07,28,2024-09-06,Digital Wallet,Mobile App
+CUST_0191,Groceries,81.19,8,2024-01-07,Debit Card,Mobile App
+CUST_0191,Hobbies,37.05,5,2023-12-14,Debit Card,Online
+CUST_0192,Shopping,125834.83,8,2024-10-21,Debit Card,Mobile App
+CUST_0192,Housing,7502.91,4,2024-09-14,Cash,Mobile App
+CUST_0192,Travel,2591.87,6,2024-09-10,Cash,Online
+CUST_0192,Medical,2275.98,5,2024-04-29,Credit Card,Online
+CUST_0192,Gifts,1069.3,13,2024-06-16,Digital Wallet,Online
+CUST_0192,Friend,878.17,21,2024-12-22,Debit Card,Mobile App
+CUST_0192,Fitness,590.5699999999999,9,2023-12-16,Cash,In-store
+CUST_0192,Hobbies,476.76000000000005,10,2024-10-11,Credit Card,Mobile App
+CUST_0192,Transportation,176.76,2,2023-10-18,Digital Wallet,Online
+CUST_0192,Groceries,116.17,10,2025-01-10,Cash,Online
+CUST_0192,Subscriptions,104.26,4,2024-10-28,Credit Card,In-store
+CUST_0192,Personal Hygiene,11.23,3,2024-11-05,Debit Card,In-store
+CUST_0193,Shopping,196369.28,5,2023-03-25,Credit Card,Mobile App
+CUST_0193,Fitness,1620.74,17,2024-05-24,Digital Wallet,In-store
+CUST_0193,Medical,1473.98,4,2025-01-10,Debit Card,Online
+CUST_0193,Transportation,1364.56,4,2024-11-07,Digital Wallet,In-store
+CUST_0193,Friend,1235.56,11,2024-12-28,Credit Card,In-store
+CUST_0193,Personal Hygiene,922.1899999999999,17,2024-12-10,Digital Wallet,Mobile App
+CUST_0193,Travel,918.47,3,2024-10-10,Digital Wallet,In-store
+CUST_0193,Gifts,525.11,9,2024-08-19,Debit Card,Mobile App
+CUST_0193,Hobbies,248.2,9,2024-07-20,Digital Wallet,In-store
+CUST_0193,Housing,143.88,1,2024-06-08,Credit Card,In-store
+CUST_0193,Groceries,91.34,13,2024-06-20,Debit Card,In-store
+CUST_0193,Food,43.07,5,2023-10-26,Credit Card,Online
+CUST_0193,Subscriptions,16.58,1,2023-07-06,Credit Card,In-store
+CUST_0194,Housing,3946.34,5,2024-09-26,Digital Wallet,In-store
+CUST_0194,Personal Hygiene,2918.34,20,2024-06-12,Cash,Mobile App
+CUST_0194,Fitness,2762.23,16,2024-12-26,Credit Card,Online
+CUST_0194,Travel,2655.43,6,2024-09-15,Credit Card,In-store
+CUST_0194,Shopping,2457.61,10,2024-07-06,Debit Card,Mobile App
+CUST_0194,Medical,1936.3999999999999,5,2024-06-28,Debit Card,In-store
+CUST_0194,Transportation,1332.69,6,2024-09-01,Digital Wallet,In-store
+CUST_0194,Friend,1204.16,17,2023-12-19,Cash,In-store
+CUST_0194,Gifts,1090.98,14,2024-03-17,Debit Card,In-store
+CUST_0194,Food,269.8,17,2024-05-16,Cash,Mobile App
+CUST_0194,Hobbies,141.95,12,2024-09-02,Digital Wallet,In-store
+CUST_0194,Groceries,116.45,17,2025-01-12,Credit Card,Online
+CUST_0194,Subscriptions,78.82000000000001,2,2024-05-16,Credit Card,In-store
+CUST_0195,Shopping,247732.38999999996,19,2024-12-19,Cash,In-store
+CUST_0195,Housing,5173.87,2,2024-06-02,Credit Card,Mobile App
+CUST_0195,Fitness,3378.6800000000003,9,2024-12-01,Cash,Mobile App
+CUST_0195,Medical,2502.55,6,2024-08-23,Cash,In-store
+CUST_0195,Travel,2271.12,5,2024-08-24,Digital Wallet,In-store
+CUST_0195,Personal Hygiene,1561.05,3,2024-07-24,Cash,Online
+CUST_0195,Gifts,1030.13,8,2024-12-02,Digital Wallet,Mobile App
+CUST_0195,Friend,670.8299999999999,12,2024-02-09,Digital Wallet,Online
+CUST_0195,Hobbies,304.15,10,2024-11-27,Digital Wallet,Mobile App
+CUST_0195,Groceries,247.05,25,2025-01-03,Digital Wallet,Mobile App
+CUST_0195,Food,228.35,12,2024-06-28,Credit Card,Mobile App
+CUST_0195,Transportation,123.78,4,2024-07-19,Digital Wallet,Mobile App
+CUST_0195,Subscriptions,101.22999999999999,4,2024-06-22,Cash,Mobile App
+CUST_0196,Housing,7075.39,6,2024-08-21,Cash,Online
+CUST_0196,Shopping,5732.76,13,2025-01-03,Cash,Online
+CUST_0196,Fitness,1830.62,19,2024-09-20,Digital Wallet,Online
+CUST_0196,Travel,1732.1800000000003,4,2024-08-31,Digital Wallet,Online
+CUST_0196,Medical,937.0600000000001,3,2024-11-26,Digital Wallet,Online
+CUST_0196,Friend,917.5,19,2024-11-07,Credit Card,Online
+CUST_0196,Food,539.11,7,2024-02-02,Cash,In-store
+CUST_0196,Hobbies,422.88,13,2024-12-30,Debit Card,Mobile App
+CUST_0196,Transportation,321.01,6,2024-12-10,Cash,In-store
+CUST_0196,Personal Hygiene,56.67,5,2023-12-14,Cash,In-store
+CUST_0196,Gifts,43.16,1,2024-11-06,Digital Wallet,Mobile App
+CUST_0196,Subscriptions,39.4,3,2024-05-15,Digital Wallet,Online
+CUST_0196,Groceries,27.240000000000002,9,2023-08-11,Debit Card,Online
+CUST_0197,Shopping,15083.08,16,2024-12-07,Debit Card,In-store
+CUST_0197,Gifts,2326.2000000000003,16,2024-12-27,Digital Wallet,In-store
+CUST_0197,Fitness,1497.27,17,2024-12-24,Credit Card,Mobile App
+CUST_0197,Medical,1020.94,4,2024-11-28,Credit Card,Online
+CUST_0197,Food,929.49,24,2024-09-15,Credit Card,In-store
+CUST_0197,Friend,545.1600000000001,6,2024-12-31,Cash,Mobile App
+CUST_0197,Hobbies,321.37,8,2023-09-04,Digital Wallet,Online
+CUST_0197,Groceries,147.66,17,2024-10-05,Cash,Online
+CUST_0197,Housing,117.77,2,2024-04-23,Digital Wallet,Mobile App
+CUST_0197,Transportation,98.99,2,2024-07-13,Digital Wallet,Online
+CUST_0197,Subscriptions,66.75999999999999,2,2024-07-06,Debit Card,In-store
+CUST_0197,Personal Hygiene,48.120000000000005,11,2024-06-24,Credit Card,Mobile App
+CUST_0198,Shopping,246679.84,5,2023-02-20,Cash,Mobile App
+CUST_0198,Fitness,2138.66,20,2024-04-14,Credit Card,Online
+CUST_0198,Travel,1340.8600000000001,2,2024-10-12,Debit Card,In-store
+CUST_0198,Transportation,1117.35,3,2024-02-10,Debit Card,Online
+CUST_0198,Gifts,698.09,15,2024-12-06,Digital Wallet,In-store
+CUST_0198,Friend,542.45,6,2025-01-06,Debit Card,Mobile App
+CUST_0198,Medical,423.58,2,2024-09-25,Credit Card,Mobile App
+CUST_0198,Hobbies,368.02,4,2024-01-22,Credit Card,Mobile App
+CUST_0198,Subscriptions,226.93,5,2024-12-01,Digital Wallet,Online
+CUST_0198,Food,180.47,11,2024-01-05,Cash,Online
+CUST_0198,Housing,96.72,1,2023-02-01,Digital Wallet,Online
+CUST_0198,Groceries,51.34,8,2024-12-16,Digital Wallet,In-store
+CUST_0198,Personal Hygiene,45.69,8,2024-02-16,Digital Wallet,In-store
+CUST_0199,Shopping,189389.92,10,2023-12-06,Digital Wallet,In-store
+CUST_0199,Fitness,5702.71,28,2024-10-12,Credit Card,Mobile App
+CUST_0199,Medical,1616.5500000000002,4,2024-06-02,Debit Card,Mobile App
+CUST_0199,Gifts,822.29,15,2024-04-26,Credit Card,Online
+CUST_0199,Hobbies,611.41,15,2024-12-25,Cash,In-store
+CUST_0199,Housing,304.18,4,2024-11-24,Digital Wallet,In-store
+CUST_0199,Food,151.71,3,2024-05-23,Debit Card,In-store
+CUST_0199,Groceries,127.72,12,2024-03-04,Digital Wallet,In-store
+CUST_0199,Transportation,78.07,2,2024-07-27,Debit Card,Online
+CUST_0199,Friend,28.07,5,2023-05-29,Debit Card,Online
+CUST_0199,Subscriptions,27.57,3,2023-11-05,Cash,Online
+CUST_0199,Travel,19.54,1,2024-04-15,Digital Wallet,Online
+CUST_0199,Personal Hygiene,4.54,1,2024-10-09,Cash,Mobile App
+CUST_0200,Shopping,371840.76,7,2024-09-07,Debit Card,Online
+CUST_0200,Housing,4243.23,2,2024-03-19,Cash,Online
+CUST_0200,Fitness,2383.59,16,2023-12-17,Credit Card,In-store
+CUST_0200,Gifts,1295.68,6,2024-08-18,Cash,In-store
+CUST_0200,Friend,828.21,9,2025-01-06,Credit Card,Mobile App
+CUST_0200,Medical,791.7,3,2024-08-03,Credit Card,Mobile App
+CUST_0200,Food,298.33,9,2024-11-06,Credit Card,In-store
+CUST_0200,Groceries,296.88,30,2024-07-10,Credit Card,In-store
+CUST_0200,Hobbies,254.85000000000002,8,2024-05-20,Debit Card,In-store
+CUST_0200,Personal Hygiene,199.29,1,2023-11-22,Cash,In-store
+CUST_0200,Subscriptions,171.62,5,2025-01-10,Debit Card,In-store
+CUST_0200,Transportation,128.82999999999998,5,2024-09-11,Credit Card,Online
