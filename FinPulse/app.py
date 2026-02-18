@@ -141,8 +141,8 @@ category_to_product = {
 # ==========================================
 with tab1:
     try:
-        pipeline = joblib.load("model/model.pkl")
-        le = joblib.load("model/label_encoder.pkl")
+        pipeline = joblib.load("FinPulse-model/model.pkl")
+        le = joblib.load("FinPulse-model/label_encoder.pkl")
     except Exception as e:
         st.error("System Core Offline. Missing ML files in /model directory.")
         st.stop()
@@ -214,4 +214,5 @@ st.markdown("""
     <div class="custom-footer">
         Engineered for Scale by <span>QUADCORE</span> | FinPulse Protocol v2.0
     </div>
+
 """, unsafe_allow_html=True)
