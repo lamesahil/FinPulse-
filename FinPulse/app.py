@@ -204,8 +204,8 @@ with tab3:
     st.subheader("🎥 FINPULSE: Official Product Demo")
     st.write("Watch the complete system workflow and AI inference in action.")
     
-    # 🚨 APNA YOUTUBE LINK YAHAN DAALNA 🚨
-    youtube_url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ" 
+    
+    youtube_url = "https://youtu.be/l-qcDCL2HPY" 
     
     st.video(youtube_url)
 
@@ -216,5 +216,6 @@ st.markdown("""
     </div>
 
 """, unsafe_allow_html=True)
+
 
 
