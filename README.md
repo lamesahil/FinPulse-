@@ -121,7 +121,7 @@ The application will launch on http://localhost:8501
 --------------------------------------------------
 
 ### 📬 Contact
-Anuvesh Tiwari
-Machine Learning Engineer
+Sahlil Tiwari
+Developer Engineer
 
-Built with Python & Machine Learning.
+Built with 💖 using Python & Machine Learning.
