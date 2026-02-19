@@ -81,8 +81,8 @@ The application will launch on http://localhost:8501
 | Role | Name | Contribution |
 | :--- | :--- | :--- |
 | **Project Lead & Architect** | **Sahil Tiwari** | **Lead Developer, UI/UX Design** |
-| ML Engineer | Anuvesh Tiwari | ML Engineer |
-| Data Analyst | Kshitij Singh | Data Analyst |
+| ML Engineer | Anuvesh Tiwari | Model Training |
+| Data Analyst | Kshitij Singh | Data for CSV |
 | Strategy | Omkar Dubey | Product Strategy |
 
 ---
