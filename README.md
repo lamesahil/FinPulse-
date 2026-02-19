@@ -5,21 +5,23 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-LightGBM%20%7C%20Scikit--Learn-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Prototype%20Ready-success)
 
-**FINPULSE** is a Next-Gen Machine Learning dashboard built for modern Neo-Banks and financial institutions. It ingests massive batches of encrypted customer transaction data, runs complex probability models, and generates hyper-personalized top-3 product recommendations (Credit Cards, Loans, Insurance) for every unique customer.
+FINPULSE is an AI-powered Autonomous Banking Intelligence System that converts raw transaction data into actionable cross-sell recommendations using privacy-first local machine learning inference.
 
-Engineered with ❤️ by **Team QUADCORE**.
+The platform ingests transaction CSV batches, runs a trained ML pipeline, and generates hyper-personalized Top-3 financial product recommendations (Credit Cards, Loans, Insurance) for every customer.
 
----
+Designed & Engineered by Anuvesh Tiwari.
+
+--------------------------------------------------
 
 ## ✨ Key Features
 
-* 🧠 **Zero-API Local Inference Engine:** Uses pre-trained gradient boosting models (LightGBM/Scikit-Learn) for high-speed, local data processing without relying on expensive external APIs.
-* 📊 **Probabilistic Aggregation:** Groups multiple transactions per customer and mathematically averages probability vectors to find their *long-term dominant financial need*.
-* 🎨 **Enterprise Fintech UI:** Built with custom CSS featuring a Deep Slate gradient, Neo-Green accents, and modern Glassmorphism architecture.
-* 📥 **Batch CSV Processing:** Allows bank operators to upload daily transaction dumps and instantly download targeted cross-sell matrices.
-* 🔒 **Compliant Architecture:** Processes all data locally within the server environment, ensuring no PII data leakage.
+- Local ML inference (LightGBM + Scikit-Learn)
+- Probabilistic customer behaviour aggregation
+- Enterprise Streamlit dashboard UI
+- Batch CSV processing
+- Privacy-first architecture (no external APIs)
 
----
+--------------------------------------------------
 
 ## 🛠️ Tech Stack
 
@@ -29,17 +31,37 @@ Engineered with ❤️ by **Team QUADCORE**.
 * **Model Serialization:** Joblib 1.5.2
 * **Deployment:** Streamlit Community Cloud
 
----
+--------------------------------------------------
 
 ## 🏗️ System Architecture
 
-1.  **Data Ingestion:** User uploads a raw transaction `.csv` batch.
-2.  **Schema Validation:** System strictly verifies required banking features.
-3.  **Inference Pipeline:** Data is passed through a pre-trained scikit-learn pipeline (Imputation, Scaling, Label Encoding) and a classification model.
-4.  **Probability Mapping:** The raw category output is mapped to specific, marketable banking products (e.g., *Travel* -> *Travel Credit Card*).
-5.  **Export:** Generates a downloadable strategic targeting matrix.
+FINPULSE operates through a structured end-to-end machine learning inference workflow:
 
----
+**1. Data Ingestion**  
+Transaction batch uploaded via CSV for processing.
+
+**2. Schema Validation**  
+Validates required columns, formats, and data consistency before inference.
+
+**3. ML Inference Pipeline**
+- Imputation   
+- Scaling 
+- Encoding 
+- Prediction
+
+**4. Probability Intelligence**  
+Aggregates transaction-level predictions into customer-level behavioral insights using averaged probability vectors.
+
+**5. Product Mapping**
+- Travel Spending → Travel Credit Card  
+- High EMI Pattern → Personal Loan  
+- Healthcare Spending → Insurance Plan
+
+**6. Export**  
+Produces a downloadable customer targeting matrix for cross-sell campaigns.
+
+
+--------------------------------------------------
 
 ## 🚀 Local Installation & Setup
 
@@ -76,20 +98,30 @@ streamlit run app.py
 The application will launch on http://localhost:8501
  ```
 
+--------------------------------------------------
+
 ## 👨‍💻 Project Team
 
 | Role | Name | Contribution |
 | :--- | :--- | :--- |
-| **Project Lead & Architect** | **Sahil Tiwari** | **Lead Developer, UI/UX Design** |
-| ML Engineer | Anuvesh Tiwari | Model Training |
+| **Lead Machine Learning Engineer** | **Anuvesh Tiwari** | **Led and implemented the complete machine learning pipeline, including feature engineering, model training, probabilistic recommendation logic, and production inference integration.** |
+| **Lead Developer** | **Sahil Tiwari** | **Designed and developed the interactive fintech dashboard UI, implementing modern UX principles and custom Streamlit interface architecture.** |
 | Data Analyst | Kshitij Singh | Data for CSV |
 | Strategy | Omkar Dubey | Product Strategy |
 
----
+--------------------------------------------------
+
+## Vision
+
+- Real-time behavioural prediction
+- Intelligent cross-selling
+- Customer lifetime value optimization
+- AI-driven banking personalization
+
+--------------------------------------------------
 
 ### 📬 Contact
-**Maintained by Sahil Tiwari** *Open for collaboration and feedback.*
+Anuvesh Tiwari
+Machine Learning Engineer
 
-<div align="center">
-  <sub>Built with ❤️ using Python</sub>
-</div>
+Built with Python & Machine Learning.
