@@ -104,8 +104,8 @@ The application will launch on http://localhost:8501
 
 | Role | Name | Contribution |
 | :--- | :--- | :--- |
-| **Lead Machine Learning Engineer** | **Anuvesh Tiwari** | **Led and implemented the complete machine learning pipeline, including feature engineering, model training, probabilistic recommendation logic, and production inference integration.** |
 | **Lead Developer** | **Sahil Tiwari** | **Designed and developed the interactive fintech dashboard UI, implementing modern UX principles and custom Streamlit interface architecture.** |
+| **Lead Machine Learning Engineer** | **Anuvesh Tiwari** | **Led and implemented the complete machine learning pipeline, including feature engineering, model training, probabilistic recommendation logic, and production inference integration.** |
 | Data Analyst | Kshitij Singh | Data for CSV |
 | Strategy | Omkar Dubey | Product Strategy |
 
